@@ -1,0 +1,1 @@
+These are just my sudden ideas for anything. 
