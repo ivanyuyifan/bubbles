@@ -92,5 +92,5 @@ for filename in os.listdir(folder_path):
 
 result = pd.DataFrame(result)
 
-result.to_excel('Word_index.xlsx',sheet_name='Word_index',index=True)
+result.to_excel('speech after selection/Word_index.xlsx',sheet_name='Word_index',index=True)
 
