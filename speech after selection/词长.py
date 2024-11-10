@@ -1,6 +1,7 @@
 import nltk
 import pandas as pd
 import os
+import matplotlib.pyplot as plt
 
 punctuation =  r"""!"#$%&'’()*+,-./:;<=>?@[\]^_`{|}~"""
 wordlength_result = []
@@ -30,7 +31,7 @@ for filename in os.listdir(folder_path):
 
         word_length_sorted = dict(sorted(word_length.items(), key=lambda x:x[1]))
 
-        word_len_distribution = {}
+        word_len_distribution = {}#词长字典
         for k, v in word_length_sorted.items():
             word_len_distribution[k] = v / total_num
 
@@ -42,6 +43,7 @@ for filename in os.listdir(folder_path):
                    }
         
         wordlength_result.append(metrics)
-
-        wordlength_result = pd.DataFrame(wordlength_result)
-        wordlength_result.to_excel('speech after selection/wordlength.xlsx', sheet_name='wordlength', index=True)
+    
+  
+wordlength_result = pd.DataFrame(wordlength_result)
+wordlength_result.to_excel('speech after selection/wordlength.xlsx', sheet_name='wordlength', index=True)
