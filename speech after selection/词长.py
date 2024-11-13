@@ -47,46 +47,68 @@ for filename in os.listdir(folder_path):
 wordlength_result = pd.DataFrame(wordlength_result)
 import matplotlib.pyplot as plt
 
-# 绘制每篇演讲的词长分布
-def plot_word_length_distribution(wordlength_result):
+# 绘制每篇演讲的词长分布（比例）和词长统计（频数）折线图
+def plot_word_length_distribution_and_frequency(wordlength_result):
     plt.figure(figsize=(14, 8))  # 设置图像大小
-    plt.xticks(fontsize=12)  # 设置横坐标字体大小
-    plt.yticks(fontsize=12)  # 设置纵坐标字体大小
     colors = ['r', 'b', 'g', 'k', 'y', 'm', 'c']  # 定义多种颜色，反复使用
-    
-    # 遍历每篇演讲数据，绘制词长分布
+
+    # 绘制词长分布（比例）图
+    plt.subplot(2, 1, 1)  # 2行1列子图的第一个
     for i, metrics in enumerate(wordlength_result):
         word_len_distribution = metrics['词长分布']
-        
-        # 对词长分布字典按照词长从小到大排序
+        # 排序
         sorted_word_len_distribution = dict(sorted(word_len_distribution.items()))
         
-        # 提取排序后的词长和对应的分布比例
+        # 数据
         word_lengths = list(sorted_word_len_distribution.keys())
         distribution_values = list(sorted_word_len_distribution.values())
         
-        # 绘制折线图
+        # 折线图
         plt.plot(word_lengths, distribution_values, color=colors[i % len(colors)], 
                  linewidth=2, linestyle='-', label=metrics['演讲名称'])
         
-        # 在折线图上方显示每个点的分布比例值
+        # 显示比例值
         for x, y in zip(word_lengths, distribution_values):
             plt.text(x, y, f'{y:.2f}', ha='right', va='bottom', fontsize=10)
 
-    # 设置图表标题和标签
-    plt.title('Speech Word Length Distribution', fontsize=16)  # 设置标题
-    plt.xlabel('Word Length', fontsize=14)  # 设置横坐标标签
-    plt.ylabel('Frequency Rate', fontsize=14)  # 设置纵坐标标签
-    plt.grid(True)  # 显示网格
-    plt.legend(loc='upper right', fontsize=10)  # 在右上角显示图例
+    plt.title('Speech Word Length Distribution (Proportion)', fontsize=16)
+    plt.xlabel('Word Length', fontsize=14)
+    plt.ylabel('Frequency Rate', fontsize=14)
+    plt.grid(True)
+    plt.legend(loc='upper right', fontsize=10)
+    plt.xticks(ticks=word_lengths)
 
-    # 设置横坐标为整数
-    plt.xticks(ticks=word_lengths)  # 直接将刻度设置为整数的词长列表
-    
+    # 绘制词长统计（频数）图
+    plt.subplot(2, 1, 2)  # 2行1列子图的第二个
+    for i, metrics in enumerate(wordlength_result):
+        word_len_statistics = metrics['词长统计']
+        # 排序
+        sorted_word_len_statistics = dict(sorted(word_len_statistics.items()))
+        
+        # 数据
+        word_lengths = list(sorted_word_len_statistics.keys())
+        frequency_values = list(sorted_word_len_statistics.values())
+        
+        # 折线图
+        plt.plot(word_lengths, frequency_values, color=colors[i % len(colors)], 
+                 linewidth=2, linestyle='-', label=metrics['演讲名称'])
+        
+        # 显示频数值
+        for x, y in zip(word_lengths, frequency_values):
+            plt.text(x, y, f'{y}', ha='right', va='bottom', fontsize=10)
+
+    plt.title('Speech Word Length Frequency', fontsize=16)
+    plt.xlabel('Word Length', fontsize=14)
+    plt.ylabel('Frequency', fontsize=14)
+    plt.grid(True)
+    plt.legend(loc='upper right', fontsize=10)
+    plt.xticks(ticks=word_lengths)
+
     # 保存图像
-    plt.savefig('/Users/fafaya/Desktop/bubbles/speech after selection/word_length_distribution.png')
+    plt.tight_layout()  # 调整子图间距
+    plt.savefig('/Users/fafaya/Desktop/bubbles/speech after selection/word_length_distribution_and_frequency.png')
     plt.show()
 
-# 调用函数生成词长分布图
-plot_word_length_distribution(wordlength_result.to_dict('records'))
+# 调用函数生成词长分布图和词长统计图
+plot_word_length_distribution_and_frequency(wordlength_result.to_dict('records'))
 wordlength_result.to_excel('speech after selection/wordlength.xlsx', sheet_name='wordlength', index=True)
