@@ -2,6 +2,7 @@ import math
 import os
 import nltk
 import pandas as pd
+import matplotlib.pyplot as plt
 
 result_duoyangxing = []
 
@@ -56,6 +57,7 @@ for filename in os.listdir(folder_path):
  'Uber': Uber,
  }
         result_duoyangxing.append(metrics)
+
 
 result_duoyangxing = pd.DataFrame(result_duoyangxing)
 result_duoyangxing.to_excel('/Users/fafaya/Desktop/bubbles/speech after selection/duoyangxing.xlsx', sheet_name='duoyangxing', index=True)
