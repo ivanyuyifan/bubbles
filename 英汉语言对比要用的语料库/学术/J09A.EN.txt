@@ -1,0 +1,50 @@
+Quantum optics: Gravity meets quantum physics
+Quantum physics and gravitational physics remain separate due to the vastly different scales of time and space that they refer to. 
+Now, research may point to links between them.
+Albert Einstein's general theory of relativity is a classical formulation but a quantum mechanical description of gravitational forces is needed, not only to investigate the coupling of classical and quantum systems but simply to give a more complete description of our physical surroundings.
+As they report in this issue of Nature Photonics, Wen-Te Liao and Sven Ahrens reveal a link between quantum and gravitational physics[1]. 
+They propose that in the quantum-optical effect of superradiance, the world line of electromagnetic radiation is changed by the presence of a gravitational field.
+Superradiance is the effect of collective spontaneous emission from an ensemble of atoms or, here, nuclei that are in a quantum-coherent excited state. 
+That excited state is prepared by the absorption of a photon from a pulse of X-rays at an energy corresponding to a transition between nuclear energy levels. 
+When, a little later, a photon is emitted from this ensemble, it will preferentially travel in the direction of the original incident radiation and the time between absorption and emission is, typically, shorter than one would expect based on the excited-state lifetime of a single atom or nucleus. 
+These are characteristic features of superradiance[2] [3]. 
+As the ensemble absorbs the photon, it stores information about the phase of wavefronts present in the incident electromagnetic field modes. 
+The excited state is then a quantum-coherent superposition of states, each of which has one atom/nucleus in the excited state, and all others in the ground state. 
+Through emission, the photon is then inserted back into the original mode(s). 
+A classical analogue of this mode-selective emission is with a phased-array antenna, but the same occurs even at the single-photon level. 
+Constructive interference of these amplitudes leads to directionality and an enhanced emission probability, that is, a faster re-emission.
+This is, in fact, a photon correlation experiment like the one reported by Scully et al.[4]¡ª the incident X-ray pulse is heralded, for example, by microwave photons from the radiofrequency driver of a synchrotron light source, and emission is timed by the detection of the photon.
+One may then compare two cases: (1) X-ray photons simply propagate, at the speed of light, from the source to the detector, and (2) a photon is stored in the nuclear-resonant ensemble, and re-created at a later time. 
+The world lines of these two cases are smooth and kinked, respectively.
+What is interesting about this is that the potentially excited nuclei in the ensemble are subjected to slightly different gravitational redshifts, depending on their positions in the ensemble. 
+According to the calculation by Liao and Ahrens[1], this leads to a deflection in the direction of the re- emitted photon that is proportional to the amount of time the photon spends 'in storage'. 
+The deflection is of similar magnitude as that of a photon that had spent its time 'in flight' in the same gravitational field. 
+A photon not undergoing absorption and superradiant re-emission spends less time in the field, and is thus deflected by a correspondingly smaller angle (Fig.1). 
+For the deflection (a change in the phase gradient of the electromagnetic field) to occur, it is not sufficient for a photon to simply be emitted. 
+Rather, the photon must be recreated in its entirety, including phase information, and this occurs due to the quantum superposition of possible absorption/emission processes in the ensemble. 
+Spontaneous emission is a quantum process, as is the superposition of potentially realized individual processes. 
+Being spread out over an ensemble, these processes simultaneously sample the gravitational potential in different places. 
+Thus, a link between quantum and gravitational physics has been established. 
+Both of these pillars of modern physics refer to phenomena outside our everyday experience and were discovered only as the investigation of our natural world spread in scope.
+Gravity is, of course, an everyday experience. 
+However, the unity of space and time and the distortions of spacetime due to large masses are not. 
+From our perspective on Earth, these concepts become relevant only when precision instrumentation is used, or when we look far out into the cosmos.
+Likewise, the discovery of quantum-physical effects a little over a hundred years ago came as a surprise because they become evident only under very subtly defined conditions not common in everyday experience. 
+The first indications that something unexpected was going on came from the photoelectric effect[5] and the spectrum of blackbody radiation[6], [7]. 
+Nowadays, quantum physics describes phenomena in a wide range of fields: optical (for example, lasers, photonics and so on), electrical (much of solid-state physics, semiconductor technology and so on), chemical (understanding the chemical bonds and reaction-pathway planning), nuclear physics and particle physics, among others. 
+However, it is not a coincidence that it was effects related to electromagnetic radiation that were observed first. 
+The study of quantum- physical effects requires very precisely known conditions, that is, quantum coherence. 
+When matter is involved in setting up the initial conditions, one then usually has to go to the microscopic world where the degrees of freedom are limited and can be controlled. 
+Light in the visible and adjacent spectral regions is different in that there is almost none in the blackbody spectrum at room temperature (for a well-defined zero), and, given the micrometre wavelength scale, it is relatively easy to control with macroscopic objects, such as gratings for spectral selection. 
+However, to detect a quantum effect, one needs to transition from the microscopic to the macroscopic incoherent world where a dial or, eventually, a journal publication is situated. 
+Electrons, with their strong Coulomb interaction, can make this transition. 
+Thus, the combination of light for setting up the initial conditions (spectral filtering), and electrical measurements for switching to the macroscopic regime was the key to discovering the quantum nature of the photoelectric effect.
+Midway between the microscopic and cosmic scales is our own world, where our tools for studying science reside. 
+Electromagnetic radiation is probably the most suitable tool to bridge the gap between these scales because it spans cosmic distances within times accessible to human experience. 
+It is therefore no surprise that in the proposal of Liao and Ahrens[1], electromagnetic radiation is the tool of choice.
+Interestingly, the deflection, as expressed by equation (4) in ref. [1], is the same as that given by the Newtonian picture of gravitational deflection over the same amount of time (set the square root in the denominator to ¡Ö1), that is, the ratio of the velocity acquired in free fall over that time, compared with the speed of light. 
+As is well known, general relativity will yield twice as much deflection because, in addition to the free-falling acceleration, there is a nonlocal distortion of spacetime and parallel transport along geodesics leads to more deflection. 
+It should be stimulating to discuss whether the deflection of a 'stopped photon' is due to the second effect, leading to the same magnitude as the Newtonian result, but for a different reason.
+Liao and Ahrens[1] also discuss the case of an accelerated (rotating) ensemble, and the well-known nuclear lighthouse effect[8], that is, the sweeping of the re-emitted beam with the rotation.
+The proposed experiment, or even the gedanken experiment it is based on, can thus provide some insights into the relationship between quantum and gravitational physics, even if it isn't 'quantum gravity'. 
+One should note, however, that an actual realization of this experiment to measure a very subtle deflection in the Earth's gravitational potential will be seriously challenged by the need to sufficiently suppress all other effects, such as differential time evolution in the ensemble due to stray magnetic fields.

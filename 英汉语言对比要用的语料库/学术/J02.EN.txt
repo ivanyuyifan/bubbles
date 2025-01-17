@@ -1,0 +1,78 @@
+Chapter 7 POLAROGRAPHY AND PULSE VOLTAMMETRY
+In Chapter 5, we laid a foundation for understanding controlled-potential methods generally and potential step methods in particular. The focus there was on broadly applicable concepts, so we restricted our view of voltammetry to the basic sampled-current idea. 
+Building on that development of fundamentals, we followed in Chapter 6 with a full treatment of potential sweep methods, including cyclic voltammetry, which has become so important in practice. 
+Now we return to voltammetry based on potential step wave forms. 
+Originating historically with dc polarography (the simplest form of voltammetry at the dropping mercury electrode), this group of methods has become quite diverse as more complex schemes have been devised for applying potential steps and sampling currents. 
+The name pulse voltammetry is often used to encompass the group aside from dc polarography. 
+We have already encountered normal pulse voltammetry (NPV) as the most straightforward version of sampled-current voltammetry. NPV is often carried out with a dropping mercury electrode, in which case it is called normal pulse polarography (NPP).
+Because these methods are so deeply rooted in the polarographic tradition and even now are frequently used with polarographic electrodes, we begin with a discussion of phenomena at dropping mercury electrodes and then develop the subject through conventional polarography and into various forms of pulse voltammetry.
+7.1 BEHAVIOR AT POLAROGRAPHIC ELECTRODES
+7.1.1 The Dropping Mercury and Static Drop Electrodes 
+An instrument of enormous importance to the history of electroanalytical chemistry is the dropping mercury electrode (DME), which was invented by Heyrovsky for measurements of surface tension (Section 13.2.1). 
+Using the DME, he discovered a form of voltammetry, which he named "polarography" and which became the foundation for most of the methods discussed in this book. 
+Heyrovsky was recognized with the Nobel Prize in Chemistry for his achievement. 
+The term polarography has since become a general name for voltammetry at a dropping mercury electrode. 
+In this book, we refer to the historic form as dc polarography or conventional polarography.
+Figure 7.1.1 depicts a classical dropping mercury electrode. 
+Several excellent discussions of the construction and operation of the electrode are available (2-6). 
+A capillary with an internal diameter of 5*10-3 cm is fed by a head of mercury 20 to 100 cm high. Mercury issues through the capillary to form a nearly spherical drop, which grows until its weight can no longer be supported by the surface tension. A mature drop typically has a diameter on the order of 1 mm.
+If electrolysis occurs during the drop's growth, the current has a time dependence that reflects both the expansion of the spherical electrode and the depletion effects of electrolysis. 
+Upon falling, the drop stirs the solution and largely (but not completely) erases the depletion effects, so that each drop is born into fresh solution. 
+If the potential does not change much during the lifetime of a drop (2-6 s), the experiment is indistinguishable from a step experiment in which the potential transition coincides with the birth of a new drop. Each drop's lifetime is itself anew experiment.
+The classical DME has two principal disadvantages. First, it has a constantly changing area, which complicates the treatment of diffusion and creates a continuous background current from double-layer charging. 
+Second, its time scale is controlled by the lifetime of the drop, which cannot be varied conveniently outside the range of 0.5-10 s.
+By 1980, Princeton Applied Research Corporation, later followed by others, had commercialized a replacement for the classical DME that does not suffer these drawbacks. 
+The static mercury drop electrode (SMDE, Figure 7.1.2) is an automated device in which the mercury flow is controlled by a valve. 
+A head of only about 10 cm drives mercury through a wide-bore capillary when the valve is opened in response to an electrical signal. A drop is extruded in less than 100 ms, then growth is stopped by closure of the valve. 
+The drop remains in place until a mechanical, solenoid-driven drop knocker dislodges it upon receiving another electronic signal. 
+The SMDE can serve as a hanging mercury drop electrode (HMDE) or, in a repetitive mode, as a replacement for the DME. 
+In the latter role, it retains all of the important advantages of the DME (Section 7.1.3), and it has the added feature that the area does not change at the time of measurement. 
+Most contemporary polarographic work is carried out with SMDEs. 
+In the sections below, we will discuss polarographic concepts first in the context of the DME, then with reference to the SMDE.
+7.1.2 Diffusion-Limited Responses at the DME and SMDE
+(a) The Ilkovic Equation
+Let us consider the current that flows during a single drop's lifetime when a DME is held at a potential in the mass-transfer-controlled region for electrolysis. That is, we seek the diffusion-limited current, essentially as we did in Section 5.2 for stationary planar and spherical electrodes. 
+The problem was solved by Koutecky (9, 10), but the treatment requires consideration of the relative convective movement between the electrode and solution during drop growth. The mathematics are rather complicated and give little intuitive feel for the effects involved in the problem. 
+The treatment we will follow, originally due to Lingane and Loveridge (11), makes no pretense to rigor. It is only an outline to the problem, but it highlights the differences between a DME and a stationary electrode (3, 11-14).
+The typical values of drop lifetime and drop diameter at maturity ensure that linear diffusion holds at a DME to a good approximation [Section 5.2.2(c)]. Thus, we begin by invoking the Cottrell relation, (5.2.11), while remembering that for the moment we are considering electrolysis only at potentials on the diffusion-limited portion of the voltammetric response curve. 
+Since the drop area is a function of time, we must determine A(t) explicitly. 
+If the rate of mercury flow from the DME capillary (mass/time) is m and the density of mercury is dHg, then the weight of the drop at time t is . . ..
+The drop's radius and its area are then given by . . ..
+Substitution into the Cottrell relation gives . . ..
+In addition to the effect of the changing area, which progressively enlarges the diffusion field, there is a second consideration that we might call the "stretching effect." That is, at any time t, expansion of the drop causes the existing diffusion layer to stretch over a still larger sphere, much like the membrane of an expanding balloon. 
+This has the effect of making the layer thinner than it otherwise would be, so that the concentration gradient at the electrode surface is enhanced and larger currents flow. 
+It turns out that the result is the same as if the effective diffusion coefficient were (7/3)DO; hence (7.1.4) requires multiplication by (7/3)1/2: . . .
+Evaluating the constant in brackets, we have . . ..
+where id is in amperes, DO in cm2/s, . . . in mol/cm3, m in mg/s, and t in seconds. 
+Alternatively, id can be taken in . . ., and . . . in mM.
+Ilkovic was first to derive (7.1.6); hence this famous relation bears his name (12-16).
+His approach was much more exact than ours has been, as was that of MacGillavry and Rideal (17), who provided an alternative derivation a few years afterward. 
+Actually the Lingane-Loveridge approach is not independent of these more rigorous treatments, for they arrived at the (7/3)1/2 stretching coefficient merely by comparing the bracketed factor in (7.1.4) with the factor 708 given by Ilkovic and by MacGillavry and Rideal. 
+All three treatments are based on linear diffusion.
+Figure 7.1.3 is an illustration of the current-time curves for several drops as predicted by the Ilkovic equation. 
+Immediately apparent is that the current is a monotonically increasing function of time, in direct contrast to the Cottrell decay found at a stationary planar electrode. 
+Thus, the effects of drop expansion (increasing area and stretching of the diffusion layer) more than counteract depletion of the electroactive substance near the electrode. 
+Two important consequences of the increasing current-time function are that the current is greatest and its rate of change is lowest just at the end of the drop's life. 
+As we will see, these aspects are helpful for applications of the DME in sampled-current voltammetric experiments.
+Dc polarograms, as obtained in historic practice, are records of the current flow at a DME as the potential is scanned linearly with time, but sufficiently slowly (1-3 mV/s) that the potential remains essentially constant during the lifetime of each drop. This constancy of potential is the basis for the descriptor "dc" in the name of the method. 
+In more modern practice, the potential is applied as a staircase function, such that there is a small shift in potential (normally 1-10 mV) at the birth of each drop, but the potential otherwise remains constant as a drop grows through its lifetime. 
+The current oscillations arising from the growth and fall of the individual drops are ordinarily quite apparent if the current is recorded continuously. A typical case is shown in Figure 7.1.4. 
+The most easily measured current is that which flows just before drop fall, and within the linear approximation it is given by . . ..
+where tmax is the lifetime of a drop (usually called the drop time and often symbolized merely as t).
+(b) Transient Behavior at the SMDE
+In most respects, the SMDE presents a much simpler situation than the classical DME, because the drop is not growing during most of its life. 
+In parallel with our discussion of diffusion-controlled currents at the DME, we confine our view now to the situation where the SMDE is held constantly at a potential in the mass-transfer controlled region. 
+In the earliest stages of a drop's life (on the order of 50 ms), when the valve controlling mercury flow is open and the drop is growing, the system is convective. Mass transfer and current flow are not described simply. 
+After the valve closes, and the drop stops growing, the current becomes controlled by the spherical diffusion of electroactive species.
+This system is similar to that treated in Section 5.2.2, but the parallel is not exact because of the drop growth and convection in the early part of the experiment. 
+After the drop becomes static, the current declines with time toward an asymptote. This behavior differs markedly from that at the DME, where the current rises with time because of continuous expansion of the drop. 
+If the current at the SMDE is sampled electronically at a time @ after the birth of the drop, then the current sample is given approximately from (5.2.18) as,
+where r0 is the radius of the mercury droplet. 
+This equation cannot describe the experiment reliably in the early stage, but it becomes a better descriptor at later times, as the period of growth becomes a smaller portion of the whole experiment.
+In practice, an SMDE is rarely operated in this dc polarographic mode, precisely because of the unfavorable current-time profile during the life of each drop and the poor control of mass transfer in the formative stage, when currents are high. 
+Instead, better measurement conditions are created by manipulating the potential carefully during the life of each drop. 
+During the period when the drop is born and brought to maturity, the potential is controlled at a value where there is no significant electroactivity. After the drop becomes static the potential is changed to a value where a current measurement can be taken. 
+If this change involves stepping the potential to a value in the mass-transfer-controlled region, the experiment fulfills all of the conditions assumed in Section 5.2.2 without being compromised by the growth of the drop. 
+If the current is then sampled at time . . ., measured with respect to the leading edge of the potential step (rather than the birth of the drop), then the sampled current is given rigorously by (7.1.8). 
+This experiment is known as normal pulse polarography and is described in more detail in Section 7.3.2. 
+A normal pulse polarogram is recorded by imposing a slightly larger potential step on each successive drop and making a plot of the sampled current vs. step potential, essentially exactly as outlined in Figure 5.1.3.

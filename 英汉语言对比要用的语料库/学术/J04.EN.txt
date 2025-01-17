@@ -1,0 +1,90 @@
+Chapter 1 Cosmic rays
+What are cosmic rays? 
+Cosmic ray particles hit the Earth's atmosphere at the rate of about 1000 per square meter per second. 
+They are ionized nuclei - about 90% protons, 9% alpha particles and the rest heavier nuclei - and they are distinguished by their high energies. 
+Most cosmic rays are relativistic, having energies comparable to or somewhat greater than their masses. 
+A very few of them have ultrarelativistic energies extending up to 1020 eV (about 20 joules), eleven orders of magnitude greater than the equivalent rest mass energy of a proton. 
+The fundamental question of cosmic ray physics is, "where do they come from?" and in particular, "how are they accelerated to such high energies?"
+The answer to the question of the origin of cosmic rays is not yet fully known.
+It is clear, however, that nearly all of them come from outside the solar system, but from within the galaxy. 
+The relatively few particles of solar origin are characterized by temporal association with violent events on the sun and consequently by a rapid variability. 
+In contrast, the bulk of cosmic rays show an anticorrelation with solar activity, being more effectively excluded from the solar neighborhood during periods when the expanding, magnetized plasma from the sun - the solar wind - is most intense. 
+The very highest energy cosmic rays have gyroradii in typical galactic magnetic fields that are larger than the size of the galaxy. These may be of extragalactic origin.
+1.2 Objective of this book 
+The focus of this book is the interface between particle physics and cosmic rays. 
+Until the advent of accelerators, cosmic rays and their interactions were the main source of information about elementary particles. 
+Although the highest energy cosmic rays can still offer clues about particle physics above accelerator energies, this is no longer the dominant aspect of the field. 
+There are now, however, a number of important areas in which a knowledge of particle interactions is necessary to understand the astrophysical implications of cosmic ray data. 
+Examples include:
+Production of secondary cosmic rays such as antiprotons by primary cosmic rays when they collide with atomic nuclei in the interstellar medium. 
+From the relative amounts of such secondaries we learn about how cosmic rays propagate through the interstellar medium and hence about the nature of the matter and fields that make up the medium. 
+Production of photons, neutrinos and other particles in collisions of cosmic rays with material near a site of cosmic ray acceleration. 
+Seeing point sources of such particles is a way of identifying specific sources of cosmic ray acceleration and studying how they work.  
+Penetration of cosmic rays underground and the detection of muons and neutrinos in large, deep detectors. 
+Such particles can be both signal (for example, neutrinos from the point sources just mentioned) and background (for example, for the search for proton decay or magnetic monopoles). 
+The relation between atmospheric cascades and the incoming cosmic rays that produce them. 
+The highest energy cosmic rays are so rare that they cannot be directly observed with small detectors above the atmosphere, but they must be studied indirectly by large air shower arrays exposed for long periods at the surface. 
+Then one has to infer the nature of the primary from its secondary cascade. 
+Searches for exotic particles and new interactions in the cosmic radiation. 
+These topics clearly have a great deal in common: The same equations that govern particle cascades in the atmosphere of the Earth also describe particle production by cosmic rays accelerated by a collapsed star which then collide in a surrounding supernova envelope or in the atmosphere of a nearby companion star. 
+The same cross sections that determine the neutrino-induced signal in an underground detector also determine how much energy is absorbed by a companion star due to interactions of neutrinos produced by cosmic rays accelerated in the system. 
+The purpose of this book is to discuss the relevant particle physics and illustrate the application to cosmic ray astrophysics with examples of current interest. 
+At the same time I will try to provide a sufficient overview of cosmic ray physics so the importance of these examples can be appreciated.
+1.3 Types of cosmic ray experiment
+The principal data about the cosmic rays themselves, from which one can hope to learn about their origin, are the relative abundances of the different nuclei (composition) and the distribution in energy (energy spectrum) of each component. 
+Comparison with the chemical composition of various astrophysical objects, such as the Sun, the interstellar medium, supernovae or neutron stars, can give clues about the site at which cosmic rays are injected into the acceleration process. 
+The energy spectra may be characteristic of certain acceleration mechanisms.
+Figure 1.1 gives a global view of the total cosmic ray energy spectrum. 
+Because of the enormous range of fluxes, it is useful to plot the flux per logarthmic interval of energy (EdN/dE=dN/dlnE). 
+Even so the vertical axis is extremely compressed. 
+A moment¡¯s thought about the range of rates in fig. 1.1 will convince you that several quite different kinds of detectors are necessary to study cosmic rays over this whole energy range. 
+In the interval around one GeV, about 10 particles per second cross a telescope consisting of two planes of area 100 cm2 separated by 20 cm (see fig. 1.2). 
+A small detector flown at the top of the atmosphere in a balloon or spacecraft is therefore sufficient to study details of cosmic ray composition in the GeV energy region down to the level of one part in a hundred thousand. 
+In contrast, the University of Chicago detector on Spacelab (fig. 1.3) is one of the largest ever flown, so it is sensitive to cosmic rays of much higher energy. 
+It was carried on board the Challenger spacecraft from July 29 to August 6, 1985, during which time it had an effective exposure of 94 hours. It has an aperture of approximately 2 m2sr.
+From fig. 1.1 we can therefore estimate that during this exposure nearly 100 000 particles with energies within a factor of two of 1 TeV passed through the detector. 
+The spectrum is so steep, however, that only about 50 particles above 100 TeV would have passed through the detector during the flight, and most of these would likely have had charge below the charge threshold of the detector, which was designed for heavy nuclei. 
+An earlier Soviet spacecraft experiment (Grigorov et al., 1970), as well as the Japanese-American balloon experiment (Burnett et al., 1983) also probed similar energies. 
+For the time being, because of the limited exposure available, 100 TeV is about the highest energy at which cosmic rays can be studied directly with detectors at the top of the atmosphere.
+Problem: The instrument in fig. 1.2 consists of two circular detectors in coincidence, each with 100 cm2 area and separated by 20 cm. 
+The maximum angle that will trigger the detector depends on the point of intersection of the trajectory with the first detector as well as its direction. 
+Show that the acceptance of this detector is ¡Ö 22cm2 sr for downward-going particles. 
+To study cosmic rays with higher energies requires detectors with larger areas exposed for longer periods of time. 
+At present the only way to overcome the problem of low flux at high energy is to build a detector on the surface of the Earth. 
+Such detectors, called air shower arrays, can have areas measured in square kilometers and exposure times limited only by the patience of the experimenters and the generosity of the funding agencies. 
+Ground-based detectors cannot detect the primary cosmic rays directly, but only the remnants of the atmospheric cascades of particles initiated by the incident particle. 
+They therefore give only limited, indirect information about the nature of the primaries. 
+Despite the obvious difficulty of the subject, the ultra-high energies involved continue to stimulate interest in it. 
+A knowledge of particle physics is essential in order to interpret the cascades and infer something about the primaries. 
+We will return to this subject in the final section of the book. 
+For the remainder of this chapter we focus on the bulk of the cosmic rays at lower energies.
+1.4 Composition 
+The relative abundances of cosmic rays are compared with abundances of elements in the solar system in fig. 1.4. 
+The symbols in fig. 1.4 have the following meanings: Solid circles: low energy data, 70 - 280 MeV/A; open circles: high energy data, 1000 - 2000 MeV/A. Solar system abundances are shown by open diamonds. 
+Both solar system and cosmic ray abundances show the odd even effect, with the more tightly bound, even Z nuclei being more abundant. 
+There are, however, two striking differences between the two compositions. 
+First, nuclei with Z>1 are much more abundant relative to protons in the cosmic rays than they are in solar system material. 
+This is not really understood, but it could have something to do with the fact that hydrogen is relatively hard to ionize for injection into the acceleration process, or it could reflect a genuine difference in composition at the source.  
+The second difference is well understood and is an important tool for understanding propagation and confinement of cosmic rays in the galaxy. 
+The two groups of elements Li, Be, B and Sc, Ti, V, Cr, Mn are many orders of magnitude more abundant in the cosmic radiation than in solar system material. 
+These elements are essentially absent as end products of stellar nucleosynthesis. They are nevertheless present in the cosmic radiation as spallation products of the abundant nuclei of carbon and oxygen (Li, Be, B) and of iron (Sc, Ti, V, Cr, Mn). 
+They are produced by collisions of cosmic rays in the interstellar medium (ISM). 
+From a knowledge of the cross sections for spallation, one can learn something about the amount of matter traversed by cosmic rays between production and observation.
+(Note the implication that secondaries such as photons, neutrinos and antiprotons should also be produced at a certain rate as cosmic rays propagate through the ISM. We shall return to this subject in chapter 10.) 
+For the bulk of the cosmic rays the mean amount of matter traversed is of order X = 5 to 10 g/cm2. 
+The density . . . in the disk of the galaxy is of order one proton per cm3, so this thickness of material corresponds to a distance of . . ..
+Since the cosmic rays may spend some time in the more diffuse galactic halo, this is a lower limit to the distance travelled. 
+In any case, l>>d¡Ö0.1 kpc, the half-thickness of the disk of the galaxy. 
+This implies that cosmic ray confinement is a diffusive process in which the particles rattle around for a long time before escaping into intergalactic space.
+1.5 Energy spectra 
+The spectra for several elements of the cosmic rays are shown in fig. 1.5. 
+The proportions of the major components (with the exception of iron) are relatively constant with energy (see table 1.1). 
+They are well described by an inverse power law in energy, with differential flux given by . . ..
+The spectrum continues up to E~106 GeV with . . .¡Ö1.7; Above this energy the spectrum steepens to . . . ~ 2.0.
+An important point to note, however, is that the boron spectrum is steeper than the spectra of its parent oxygen and carbon nuclei. 
+In fact, all secondary nuclei (i.e. those produced as spallation products of abundant species) have significantly steeper spectra than the primary nuclei. 
+The secondary to primary ratios decrease as energy increases. 
+This tells us that the higher energy cosmic rays diffuse out of the galaxy faster.
+Cosmic ray composition relative to protons in the 10 - 100 GeV range is shown in table 1.1. 
+The table shows the fraction of nuclei relative to protons in four different ways. 
+Fluxes are normally quoted as in column (1): particles per GeV per nucleon. 

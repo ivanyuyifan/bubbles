@@ -1,0 +1,77 @@
+Water-in-Carbon Dioxide Microemulsions: An Environment for Hydrophiles Including Proteins
+ Carbon dioxide in the liquid and supercritical fluid states is useful as a replacement for toxic organic solvents. 
+However, nonvolatile hydrophilic substances such as proteins, ions, and most catalysts are insoluble. 
+This limitation was overcome by the formation of aqueous microemulsion droplets in a carbon dioxide-continuous phase with a nontoxic ammonium carboxylate perfluoropolyether surfactant. 
+Several spectroscopic techniques consistently indicated that the properties of the droplets approach those of bulk water. 
+The protein bovine serum albumin (BSA) with a molecular weight of 67,000 is soluble in this microemulsion and experiences an environment similar to that of native BSA in buffer.
+The ability to design surfactants for the interface between water and carbon dioxide (CO2) offers new opportunities in protein and polymer chemistry, separation science, reaction engineering, environmental science for waste minimization and treatment, and materials science.
+Supercritical CO2 (critical temperature and pressure are 31°„C and 73.8 bar, respectively) is a useful replacement for organic solvents to minimize waste and reduce volatile organic carbon (VOC) emissions.Not only is CO2 more environmentally acceptable and naturally abundant than organic solvents, but it is also nonflammable, essentially nontoxic, and the least expensive solvent after water.
+Practical applications for CO2 include extraction of caffeine from coffee, homogeneous (1) and heterogeneous (2, 3) polymerization, production of submicrometer particles and fibers (4), spray painting and coating, and utilization as a feedstock to synthesize various organic substances (5).
+Our objective here was to make CO2 accessible to proteins and other nonvolatile hydrophilic substances such as ions by producing water-in-CO2 microemulsions that consist of thermodynamically stable and optically transparent aqueous domains.
+These polar domains can solubilize the protein BSA.
+The properties of CO2 are much different from those of water or nonpolar organic solvents.
+Unlike water, CO2 has no dipole moment. Even when highly compressed, CO2 has far weaker van der Waals forces than those of hydrocarbon solvents, making it more like a fluorocarbon or fluoroether.
+Consequently, both lipophilic and hydrophilic substances are often insoluble. It should be possible to form a dispersion of either a hydrophilic or lipophilic phase in a C02-continuous phase.
+The dispersions may be stabilized with surfactants containing "CO2-philic" tails, such as fluorinated compounds.
+Recently, an organic latex, polymethylmethacrylate, was synthesized in CO2 with a fluorocarbon stabilizer, demonstrating the ability to disperse an organic phase (2).
+However, the ability to disperse water into CO2 as a microemulsion has been elusive, despite attempts with more than 150 surfactants during the last decade (6, 7).
+The design of surfactants for conventional water-in-oil microemulsions is reasonably well understood, even for super critical fluid alkane solvents (8-10).
+However, little is known about designing surfactants with the proper balance of molecular interactions for the C02-water interface. A key advance was the extraction of a moderately polar interfacially active dye, thymol blue, into reverse micelles in CO2 with a newly synthesized fluorinated sulfosuccinate surfactant (11).
+The amount of water, if any, present in the micelles was unknown, because the dye is soluble in water free reverse micelles (12).
+In contrast to thymol blue, proteins are not soluble unless the reverse micelle cores are swollen with water to form microemulsion droplets.
+Recently, Harrison et al. (13) showed enhanced dissolution of water into CO2 with a fluorocarbon-hydrocarbon hybrid surfactant.
+Although this suggests the possibility of the aggregation of water into a micro emulsion, the nature of the water was not studied, because the surfactant was rapidly hydrolyzed.
+Very few lipophilic or hydrophilic surfactants are soluble in CO2.
+We chose surfactants that are active at the fluorocarbon-water interface (used in blood substitutes) given that the weak van der Waals forces of CO2 match those of fluorocarbons.
+We have used an ammonium carboxylate perfluoropolyether (PFPE) surfactant, CF3O(CF2CF(CF3)O)3CF2- COO-NH4+ (14) (commercially avail able in the COOH form), with an average molecular weight of 740.
+PFPE carboxy late surfactants with molecular weights from 2500 to 7500 are soluble in CO2 at pressures below 300 bar (15), but their ability to form microemulsions has not been reported.
+The biological inertness of PFPE surfactants complements the non toxic nature of CO2.
+To prepare a microemulsion, we added water to a 1.4 weight % solution of PFPE in CO2, yielding a water concentration of 0.48 weight %.Phase boundaries were determined for a given solution of constant composition with a stainless-steel view cell (28 ml) containing a sapphire window (10).
+At high pressures, the single-phase microemulsions were optically transparent.
+As the pressure was lowered at constant temperature by moving a piston (10), the loss in density and hence in solvent strength of CO2 caused the solution to become turbid.
+Table 1 lists the cloud-point pressure and corresponding pure CO2 density as a function of temperature.
+We calculated the number of moles of water to those of surfactant, W0, by subtracting the independently known amount of water soluble in pure CO2 without surfactant from the total amount of water.The total moles of water per mole of surfactant was 14 for all temperatures.
+A W0 of 10 suggests that some type of aggregated water domain is present, because a single surfactant molecule would not be hydrated by so many water molecules.
+To show that such a domain truly exists and to characterize its nature, we describe below the results of four different spectroscopic techniques. 
+Fourier-transform infra red (FTIR) spectroscopy has been used to characterize water environments in micro emulsions, specifically interfacial "bound" water close to the surfactant head groups and "bulk-like" water in the droplet core (16). 
+We used D20 because the 0-H stretching bands are obscured by CO2 and PFPE absorptions (17). 
+Figure 1 shows the asymmetric and symmetric bands for free D20 dispersed in a saturated solution of CO2 (trace A, 2761 and 2653 cm-1). 
+A dramatic effect was seen upon addition of PFPE to the solution (trace B) with the appearance of a large broad band centered at 2535 cm-'. 
+This low-frequency broad band can be assigned to highly hydrogen bonded water in the microemulsion core, because the 0-H (or O-D) stretching frequency is known to decrease in proportion to the hydrogen bond energy. 
+The O-D stretching frequency approaches that of pure bulk D20 at -2500 cm-'. 
+The second water environment in the microemulsion structure, interfacial water, may be tentatively assigned to the shoulder at 2697 cm- (trace B). 
+This intermediate frequency, between those of free and bulk-like D20, might be expected from the more strained interfacial environment for hydrogen bond formation.
+Spectral shifts were measured with the spectroscopic probe methyl orange [(CH3)2NC6H4N=NC6H4SO3Na. 
+As the local environment of the probe becomes more polar, the absorbance maximum Xmax shifts to longer wavelengths. 
+Methyl orange in methanol was introduced into a stainless steel cell with two sapphire windows, and the solvent was fully evaporated. 
+The PFPE surfactant (0.026 M) and various amounts of water were loaded into the cell. 
+The spectra obtained at 276 bar are shown in Fig. 2 for various values of W0. 
+Benchmarks were placed for Xmax of (surfactant-free) solvents, including methanol (421 nm), water (464 nm), and aqueous carbonic acid (502 nm). 
+As the value of W0 increased, there was a pronounced shift in Xmax, which indicates that methyl orange resides in a highly polar aqueous environment. This result confirms the existence of the bulk-like water seen, as shown above, with FTIR spectra. 
+The shoulder in the spectra at 540 nm indicates the presence of an acidic environment due to carbonic acid.
+Given a stable aqueous environment within CO2, we examined next solubilization of a model protein, acrylodan-labeled BSA (BSA-Ac) (18, 19). 
+This particular system was chosen because BSA is moderately large (67,000 daltons) and the strong Ac fluorescence provides a measure of both BSA conformation and concentration in solution (20). 
+We checked for any residual emission of pure supercritical CO2 and found essentially none. 
+Weak fluorescence at -390 nm was observed in a binary mixture of CO2 and water (Fig. 3A). 
+With the addition of PFPE to form a microemulsion (W0 = 9), the BSA-Ac dissolved and the emission was substantial (Fig. 3B, solid line). 
+For comparison, we show spectra of native BSA-Ac (19, 21) and of BSA-Ac in bis(2-ethylhexyl) sodium sulfosuccinate (AOT) water-in-oil microemulsions formed in liquid n-heptane at Wo = 20 (21). 
+For convenience, each spectrum was normalized to the maximum of the BSA-Ac + PFPE + water + CO2 fluorescence.
+The blue-shifted emission band in Fig. 3A relative to that of native BSA-Ac (Fig. 3B) is consistent with a small amount of BSA-Ac suspended into wet CO2 and with an Ac residue experiencing a nonpolar environment. 
+Exposure of the Ac residue to CO2 indicates a conformational change in the suspended BSA. 
+Upon forming a water-in-CO2 microemulsion with PFPE, the BSA-Ac fluorescence is very strong and is similar to that of native BSA-Ac in buffer at pH 7.0. 
+After recovery, the BSA-Ac is still recognized by the BSA antibody. 
+Together, these results show that BSA-Ac is solubilized within the aqueous microemulsion droplets in an environment similar to that of bulk-buffered water and remains biologically active. 
+These results are especially intriguing because BSA-Ac in AOT microemulsions at high water loadings (Fig. 3B) is conformationally altered with respect to native BSA-Ac. 
+Finally, we estimate that about 9% of the total BSA-Ac is encapsulated within the PFPE microemulsion droplets (22) and that the remainder is likely at the bottom of the vessel.
+X-band electron paramagnetic resonance (EPR) of 4-hydroxy-2,2,6,6-tetramethyl piperidino-1-oxy (4-hydroxy-TEMPO) was used to probe the local environment of the PFPE assemblies (23). At low CO2 density (&lt;13 M), nitrogen hyperfine splitting constants (called AN) for 4-hydroxy-TEMPO in CO2 solutions containing water and PFPE are much higher than those in CO2 alone, which indicates that a local environment around the probe is much more polar than pure CO2 (Fig. 4). 
+Also, the EPR spectral shapes reflect highly anisotropic motion, as evidenced by the diminished high-field peak. 
+Both the splitting constants and spectral shapes show that PFPE is present as an organized assembly. 
+In contrast, the motion of the probe in water-saturated CO2 (without surfactant) is isotropic.
+At CO2 densities &gt;13 M, the apparent AN in the surfactant solution drops to near that in neat CO2. Thus, the observed AN results predominately from the presence of 4-hydroxy-TEMPO molecules found outside the microemulsion droplets. 
+The shapes of the spectra support this explanation. 
+The lack of a polar environment for 4-hydroxy-TEMPO is a result of the rapid reduction of the nitroxide by reaction with NH4+ within the polar microemulsion core. The reduction in dense CO2 surfactant solutions follows pseudo firstorder kinetics with an apparent rate constant, k, of 6.8 x 10-4 s-1. For comparison, k is equal to 2.0 °¡ 10-5 s-1 for solutions of 4-hydroxy-TEMPO in trifluoroacetic acid and ammonium acetate (pH 3.0). The much larger rate constant may be attributed, in part, to a high degree of nitroxide orientation in the restricted environment of the microemulsion core. 
+The strong sensitivity of the reaction rate to CO2 density is due to the requirement that a water pool be present before significant ionization and subsequent reduction reaction can occur.
+Our FTIR, ultraviolet-visible absorbance, fluorescence, and EPR experiments demonstrate the existence of an aqueous domain in CO2 with a polarity approaching that of bulk water. 
+Thus, not only do PFPE-based microemulsions offer a thermodynamically stable aqueous domain in a CO2 phase, but they also appear to offer simultaneously a microenvironment that may not alter significantly the conformation of sequestered proteins. 
+By comparing these results with those of previous studies, the successful formation of a microemulsion with PFPE may be attributed to the weak van der Waals forces of the surfactant tail, the strong tendency of the ionic head group to leave C02, the CF3 branching and the small size of the head group, which favor bending of the interface about water, and the low solubility of the fluoroether tails in water. 
+Given these guidelines, it should be possible to synthesize additional surfactants for environmentally benign applications in dense CO2.

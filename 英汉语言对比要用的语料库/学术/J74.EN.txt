@@ -1,0 +1,88 @@
+3 Intensity Transformations and Spatial Filtering 
+It makes all the difference whether one sees darkness through the light or brightness through the shadows.
+David Lindsay
+Preview
+The term spatial domain refers to the image plane itself, and image processing methods in this category are based on direct manipulation of pixels in an image. 
+This is in contrast to image processing in a transform domain which, as introduced in Section 2.6.7 and discussed in more detail in Chapter 4, involves first transforming an image into the transform domain, doing the processing there, and obtaining the inverse transform to bring the results back into the spatial domain.
+Two principal categories of spatial processing are intensity transformations and spatial filtering. 
+As you will learn in this chapter, intensity transformations operate on single pixels of an image, principally for the purpose of contrast manipulation and image thresholding. 
+Spatial filtering deals with performing operations, such as image sharpening, by working in a neighborhood of every pixel in an image. 
+In the sections that follow, we discuss a number of ¡°classical¡± techniques for intensity transformations and spatial filtering. 
+We also discuss in some detail fuzzy techniques that allow us to incorporate imprecise, knowledge- based information in the formulation of intensity transformations and spatial filtering algorithms.
+3.1 Background
+3.1.1 The Basics of Intensity Transformations and Spatial Filtering 
+All the image processing techniques discussed in this section are implemented in the spatial domain, which we know from the discussion in Section 2.4.2 is simply the plane containing the pixels of an image. 
+As noted in Section 2.6.7, spatial domain techniques operate directly on the pixels of an image as opposed, for example, to the frequency domain (the topic of Chapter 4) in which operations are performed on the Fourier transform of an image, rather than on the image itself. 
+As you will learn in progressing through the book, some image processing tasks are easier or more meaningful to implement in the spatial domain while others are best suited for other approaches. 
+Generally, spatial domain techniques are more efficient computationally and require less processing resources to implement.
+The spatial domain processes we discuss in this chapter can be denoted by the expression @ Equation where f(x, y) is the input image, g(x, y) is the output image, and T is an operator on f defined over a neighborhood of point (x,y). 
+The operator can apply to a single image (our principal focus in this chapter) or to a set of images, such as performing the pixel-by-pixel sum of a sequence of images for noise reduction, as discussed in Section 2.6.3. 
+Figure 3.1 shows the basic implementation of Eq. (3.1-1) on a single image. 
+The point (x, y) shown is an arbitrary location in the image, and the small region shown containing the point is a neighborhood of (x,y), as explained in Section 2.6.5.
+Typically, the neighborhood is rectangular, centered on (x, y), and much smaller in size than the image.
+Other neighborhood shapes, such as digital approximations to circles, are used sometimes, but rectangular shapes are by far the most prevalent because they are much easier to implement computationally.
+The process that Fig. 3.1 illustrates consists of moving the origin of the neighborhood from pixel to pixel and applying the operator T to the pixels in the neighborhood to yield the output at that location. 
+Thus, for any specific location (x, y), the value of the output image g at those coordinates is equal to the result of applying T to the neighborhood with origin at (x, y) in f. 
+For example, suppose that the neighborhood is a square of size 3 X 3, and that operator T is defined as ¡°compute the average intensity of the neighborhood.¡± 
+Consider an arbitrary location in an image, say (100, 150). 
+Assuming that the origin of the neighborhood is at its center, the result, g(100, 150), at that location is computed as the sum of f(100,150) and its 8-neigbbors, divided by 9 (i.e., the average intensity of the pixels encompassed by the neighborhood). 
+The origin of the neighborhood is then moved to the next location and the procedure is repeated to generate the next value of the output image g. 
+Typically, the process starts at the top left of the input image and proceeds pixel by pixel in a horizontal scan, one row at a time. 
+When the origin of the neighborhood is at the border of the image, part of the neighborhood will reside outside the image. 
+The procedure is either to ignore the outside neighbors in the computations specified by T, or to pad the image with a border of 0s or some other specified intensity values. 
+The thickness of the padded border depends on the size of the neighborhood. 
+We will return to this issue in Section 3.4.1.
+FIGURE 3.1 A 3 x 3 neighborhood about a point (x, y) in an image in the spatial domain.
+ The neighborhood is moved from pixel to pixel in the image to generate an output image.
+As we discuss in detail in Section 3.4, the procedure just described is called spatial filtering, in which the neighborhood, along with a predefined operation, is called a spatial filter (also referred to as a spatial mask, kernel, template, or window). 
+The type of operation performed in the neighborhood determines the nature of the filtering process.
+The smallest possible neighborhood is of size 1 x 1.
+In this case, g depends only on the value of f at a single point (x, y) and T in Eq. (3.1-1) becomes an intensity (also called gray-level or mapping) transformation function of the form @ Equation where, for simplicity in notation, s and r are variables denoting, respectively, the intensity of g and f at any point (x,y). 
+For example, if T(r) has the form in Fig. 3.2(a), the effect of applying the transformation to every pixel of f to generate the corresponding pixels in g would be to produce an image of higher contrast than the original by darkening the intensity levels below k and brightening the levels above k.
+ In this technique, sometimes called contrast stretching (see Section 3.2.4), values of r lower than k are compressed by the transformation function into a narrow range of s, toward black. 
+The opposite is true for values of r higher than k.
+ Observe how an intensity value r0 is mapped to obtain the corresponding value s0. 
+In the limiting case shown in Fig. 3.2(b), T(r) produces a two-level (binary) image. 
+A mapping of this form is called a thresholding function. 
+Some fairly simple, yet powerful, processing approaches can be formulated with intensity transformation functions. 
+In this chapter, we use intensity transformations principally for image enhancement. 
+In Chapter 10, we use them for image segmentation. 
+Approaches whose results depend only on the intensity at a point sometimes are called point processing techniques, as opposed to the neighborhood processing techniques discussed earlier in this section. 
+3.2.1 About the Examples in This Chapter 
+Although intensity transformations and spatial filtering span a broad range of applications, most of the examples in this chapter are applications to image enhancement. 
+Enhancement is the process of manipulating an image so that the result is more suitable than the original for a specific application. 
+The word specific is important here because it establishes at the outset that enhancement techniques are problem oriented. 
+Thus, for example, a method that is quite useful for enhancing X-ray images may not be the best approach for enhancing satellite images taken in the infrared band of the electromagnetic spectrum. 
+There is no general ¡°theory¡± of image enhancement. 
+When an image is processed for visual interpretation, the viewer is the ultimate judge of how well a particular method works. 
+When dealing with machine perception, a given technique is easier to quantify. 
+For example, in an automated character-recognition system, the most appropriate enhancement method is the one that results in the best recognition rate, leaving aside other considerations such as computational requirements of one method over another.
+FIGURE 3.2 Intensity transformation functions. (a) Contrast- stretching function. (b) Thresholding function.
+Regardless of the application or method used, however, image enhancement is one of the most visually appealing areas of image processing. 
+By its very nature, beginners in image processing generally find enhancement applications interesting and relatively simple to understand. 
+Therefore, using examples from image enhancement to illustrate the spatial processing methods developed in this chapter not only saves having an extra chapter in the book dealing with image enhancement but, more importantly, is an effective approach for introducing newcomers to the details of processing techniques in the spatial domain. 
+As you will see as you progress through the book, the basic material developed in this chapter is applicable to a much broader scope than just image enhancement.
+3.2 Some Basic Intensity Transformation Functions 
+Intensity transformations are among the simplest of all image processing techniques. 
+The values of pixels, before and after processing, will be denoted by r and s respectively. 
+As indicated in the previous section, these values are related by an expression of the form s= T(r), where T is a transformation that maps a pixel value r into a pixel values. 
+Because we are dealing with digital quantities, values of a transformation function typically are stored in a one-dimensional array and the mappings from r to s are implemented via table lookups. 
+For an 8-bit environment, a lookup table containing the values of T will have 256 entries.
+As an introduction to intensity transformations, consider Fig. 3.3, which shows three basic types of functions used frequently for image enhancement: linear (negative and identity transformations), logarithmic (log and inverse-log transformations), and power-law (nth power and nth root transformations). 
+The identity function is the trivial case in which output intensities are identical to input intensities. It is included in the graph only for completeness.
+3.2.1. Image Negatives 
+The negative of an image with intensity levels in the range [0, L-1] is obtained by using the negative transformation shown in Fig. 3.3, which is given by the expression @ Equation 
+Reversing the intensity levels of an image in this manner produces the equivalent of a photographic negative. 
+This type of processing is particularly suited for enhancing white or gray detail embedded in dark regions of an image, especially when the black areas are dominant in size. 
+Figure 3.4 shows an example. 
+The original image is a digital mammogram showing a small lesion. 
+In spite of the fact that the visual content is the same in both images, note how much easier it is to analyze the breast tissue in the negative image in this particular case. 
+3.2.2 Log Transformations
+The general form of the log transformation in Fig. 3.3 is @ Equation where c is a constant, and it is assumed that r¡Ý0. 
+The shape of the log curve in Fig. 3.3 shows that this transformation maps a narrow range of low intensity values in the input into a wider range of output levels. The opposite is true of higher values of input levels. 
+We use a transformation of this type to expand the values of dark pixels in an image while compressing the higher-level values. 
+The opposite is true of the inverse log transformation.
+FIGURE 3.3 Some basic intensity transformation functions.
+All curves were scaled to fit in the range shown.
+FIGURE 3.4 (a) Original digital mammogram. (b) Negative image obtained using the negative transformation in Eq. (3.2-1). (Courtesy of G.E. Medical Systems.)
+Any curve having the general shape of the log functions shown in Fig. 3,3 would accomplish this spreading/compressing of intensity levels in an image, but the power-law transformations discussed in the next section are much more versatile for this purpose. 

@@ -1,0 +1,92 @@
+Chapter 6 The structure of proteins 
+Proteins are polymers. That is, they are molecules that contain many copies of a smaller building block, covalently linked. 
+The building blocks of proteins are a-amino acids, of which there are 20 that occur regularly in the proteins of living organisms and that are specified by the genetic code. 
+Some of these amino acids can undergo modification when already part of a protein, so the actual variety in proteins isolated from cells or tissues is somewhat greater.
+THE BASICS
+Amino Acids
+The . . .-carbon (. . .) of an amino acid has four substituents (Fig. 6-1), distinct from each other except in the case of the simplest amino acid, glycine. 
+An amino group, a carboxyl group, and a proton are three of these substituents on all of the naturally occurring amino acids. 
+The fourth, often symbolized by R and sometimes called the "R group",” is the only distinguishing feature. 
+The R-group is also called the "side chain",”  for reasons that will be clear in the next section. 
+Because its four substituents are distinct (except for glycine), the . . . is a chiral center. 
+Amino acids that occur in ordinary proteins all have the L-configuration at that center; D-amino acids are present in other kinds of molecules (including small protein-like polypeptides in microorganisms).
+The properties of its R group determine the specific characteristics of an amino acid. 
+The polarity of the group, which correlates with its solubility in water, is one critical property; size is another. 
+It is useful to cluster the R groups of the 20 genetically encoded amino acids into the following categories: (1) neutral (i.e., uncharged) and nonpolar; (2) neutral and polar; and (3) charged (Fig. 6-2). 
+The size (volume) of the side chain is of particular consequence for nonpolar amino acids because, as we shall see later, these side chains pack into the compact interior of a protein, and therefore the functional roles in proteins of glycine and alanine are quite different from those of phenylalanine and tryptophan. 
+Note also that tryptophan, although largely nonpolar, has a hydrogen-bonding group that gives it a degree of polar character, and that tyrosine, although classified in Figure 6-2 as polar because of its OH group, is much less so than serine. 
+In short, the boundaries between groups are less sharp than nomenclature might imply. 
+The charged R groups are either negatively charged at neutral pH (aspartic acid and glutamic acid) or positively charged at neutral pH (lysine, arginine, and histidine). 
+The pKa of histidine is ~6.5, so even at neutral pH, histidine loses most of its charge. 
+This property is particularly important for its role at the catalytic site of many enzymes.
+The Peptide Bond
+Peptide bonds are the covalent links between amino acids in a protein. 
+A peptide bond forms by a condensation reaction, with elimination of a water molecule (Fig. 6-3a). It is a special case of an amide bond. 
+Each amino acid can form two such bonds, so that successive links of the same kind can create a linear (i.e., unbranched) polypeptide chain. 
+Because formation of each peptide bond includes elimination of a water, the components of the chain are known as amino acid residues, or sometimes just "residues” " when "amino acid” " is evident from context. 
+The peptide bond has partial double-bond character; the carbonyl and amide components are nearly coplanar and almost always in a trans configuration (Fig. 6-4).
+Polypeptide Chains 
+The word conformation describes an arrangement of chemically bonded atoms in three dimensions, and we therefore speak of the conformation of a polypeptide chain, or more simply, of its 'folded structure” " or fold. 
+If we follow the sequence of covalent linkages along a polypeptide chain, there are three bonds per amino acid residue-one that joins the NH group to the . . ., another that joins the . . . to the carbonyl, and finally the peptide bond to the next residue in the chain. 
+The first two are single bonds with relatively free torsional rotation about them (Fig. 6-4). 
+But the peptide bond has very little rotational freedom, because of its partial double-bond character. 
+The polypeptide chain conformation is therefore specified by the values of the torsion angles about the first two backbone bonds of each residue, plus the torsion angles for each single bond in each side chain. 
+The two backbone angles are conventionally denoted . . . and . . .. 
+Many combinations of these two angles lead to atomic collisions, restricting the conformational freedom of a polypeptide chain to certain ranges of each angle (see Box 6-1, Ramachandran Plot).
+Three Amino Acids with Special Conformational Properties
+Glycine, proline, and cysteine have special properties. 
+Because its R group is just a proton, glycine is not chiral, and it has much more conformational freedom than any other amino acid. 
+Conversely, proline, in which the side chain has a covalent bond with N as well as . . . (making it, strictly speaking, an imino acid), has less conformational freedom than many other amino acids. 
+Moreover, absence of the hydrogen-bonding potential of an NH group restricts its participation in secondary structures (see the section Protein Structure Can Be Described at Four Levels).
+Cysteine, with a sulfhydryl group (-SH) on its side chain, is the one amino acid that is sensitive to oxidation- reduction under roughly physiological conditions. 
+Two cysteines, correctly positioned across from each other in a folded protein, can form a disulfide bond by oxidation of the two -SH groups to S-S (Fig. 6-5). (The resulting pair of amino acids, linked by the S-S covalent bridge, is sometimes called cystine.) 
+Proteins on the cell surface and proteins secreted into the extracellular space are exposed to an environment with a redox potential that favors disulfide formation; most such proteins have disulfide bonds and no unoxidized cysteines. 
+Living cells maintain a more reducing internal environment, and intracellular proteins very rarely have disulfide bonds.
+Disulfide bonds enhance the stability of a folded protein by adding covalent cross-links. They are particularly critical for stabilizing small, secreted proteins, such as some hormones, and for reinforcing the extracellular domains of membrane proteins, which face a much less controlled environment than do proteins that remain in the cell interior.
+IMPORTANCE OF WATER
+All molecular phenomena in living systems depend on their aqueous environment. 
+The importance of the distinction between polar and nonpolar amino acid side chains comes from their properties with respect to water as a solvent. 
+Compare the side chains of aspartic acid and phenylalanine, which resemble acetic acid and toluene, respectively, linked to the peptide main chain. Acetic acid is very soluble in water; toluene is very insoluble. 
+An aspartic acid side chain is therefore called hydrophilic, and a phenylalanyl side chain hydrophobic. 
+Even hydrophilic side chains can have hydrophobic parts (e.g., the three methylene groups of a lysyl side chain).
+Water is an extensively hydrogen-bonded liquid (Fig. 6-6). 
+Each water molecule can donate two hydrogen bonds and accept two hydrogen bonds. 
+The way in which a solute affects the hydrogen bonding of the surrounding water determines its hydrophilic or hydrophobic character. 
+Hydrophobic molecules perturb the network of hydrogen bonds; hydrophilic molecules participate in it. 
+Thus, it is more favorable for hydrophobic molecules to remain adjacent to each other (insolubility) than to disperse into an aqueous medium (solubility). 
+The hydrophobic character of many amino acid side chains makes it favorable for them to cluster away from water, and the hydrophilic character of others allows them to project into water. 
+The sequence of amino acids in a real protein has evolved so that these tendencies cause the polypeptide chain to fold up, sequestering residues of the former kind and exposing residues of the latter. 
+Many of the huge number of possible sequences for an average-sized polypeptide chain cannot fold up in this way-if made, they either remain as randomly fluctuating, extended chains in solution (sometimes called random coils) or else they aggregate because the hydrophobic groups on one polypeptide chain cluster together with hydrophobic groups on other chains.
+PROTEIN STRUCTURE CAN BE DESCRIBED AT FOUR LEVELS
+In analyzing and describing the structure of proteins, it is useful to distinguish four levels of organization (Fig. 6-7). 
+The first level, the primary structure of a protein, is simply the sequence of amino acid residues in the polypeptide chain. 
+As we have seen, the genetic code specifies the primary structure of a protein directly. The primary structure is thus just a one-dimensional (1D) string, specifying a pattern of chemical bonds; the remaining three levels depend on a protein's three-dimensional (3D) characteristics.
+The secondary structure of a protein refers to the local conformation of its polypeptide chain-the 3D arrangement of a short stretch of amino acid residues. 
+There are two very regular secondary structures found frequently in naturally occurring proteins, because these two local conformations are particularly stable ones for a chain of L-amino acids (Box 6-1). 
+One of these is called the . . . helix (Fig. 6-8a). 
+The polypeptide backbone spirals in a right-handed sense around a helical axis, so that hydrogen bonds form between the main-chain carbonyl group of one residue and the main-chain amide group of a residue four positions further along in the chain. 
+The other regular conformation is called a . . . strand (Fig. 6-8b). 
+It is an extended conformation, in which the side chains project alternately to either side of the backbone, and the amide and carbonyl groups project laterally, also alternating. 
+The backbone is not quite fully stretched, so that the strand has a slightly zigzag or pleated character. 
+In folded proteins, . . . strands form sheets joined by main-chain hydrogen bonds. 
+Either parallel or antiparallel hydrogen-bonding patterns are possible, sometimes called parallel or antiparallel . . .-pleated sheets, respectively. 
+In real proteins, various mixed sheets are often found-rather than either strictly alternating strand directions or strictly unidirectional ones.
+The tertiary structure of a protein refers to the usually compact, three-dimensionally folded arrangement that the polypeptide chain adopts under physiological conditions. 
+Segments of the chain may be . . . helices or . . . strands; the rest have less regular conformations (e.g., turns or loops between secondary-structure elements that allow these elements to pack tightly against each other). 
+We will outline ways to describe and classify possible tertiary structures in a subsequent section. 
+Usually, the stabilities of the secondary and tertiary structures of a polypeptide chain depend on each other.
+Many proteins are composed of more than one polypeptide chain: quaternary structure refers to the way individual, folded chains associate with each other. 
+We can distinguish cases in which there are a defined number of copies of a single type of polypeptide chain (generally called a "subunit” " in this context, or a "protomer”)" and cases in which there are defined numbers of each of more than one type of subunit. 
+In simple cases, the way in which the subunits associate does not change how the individual polypeptides fold. 
+Often, however, the tertiary or even secondary structures of the components of a protein oligomer (i.e., a protein composed of a small number of subunits) depend on their association with each other. 
+In other words, the individual subunits acquire secondary or tertiary structure only as they also acquire quaternary structure. 
+One common example is the . . .-helical coiled-coil: two (or sometimes three or even four) polypeptide chains, either identical or different, adopt . . .-helical conformations and wrap very gently around each other (Fig. 6-9a). 
+The individual chains are not, in general, stable as . . . helices on their own-if the oligomeric interaction is lost, the separated helices unravel into disordered polypeptide chains.
+Protein domains
+Polypetide chains typically fold into one or more domains
+Folding of a polypeptide chain creates an "inside” " and an "outside” " and thus generates buried and exposed amino acid side chains, respectively. 
+If the polypeptide chain is too short, there are no conformations that bury enough hydrophobic groups to stabilize a folded structure. 
+If the chain is too long, the complexity of the folding process is likely to generate errors. 
+As a result of these restrictions, most stably folded conformations include between about 50 and 300 amino acid residues. 
+Longer polypeptide chains generally fold into discrete modules known as domains (see Box 6-2, Glossary of Terms); each domain generally falls within the 50- to 300-residue range just mentioned. 
+The structures of individual domains of such a protein are similar to the structures of smaller, single-domain proteins (Fig. 6-10a).

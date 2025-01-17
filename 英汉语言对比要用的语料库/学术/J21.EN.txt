@@ -1,0 +1,101 @@
+Chapter 10 Graphs
+Graphs are discrete structures consisting of vertices and edges that connect these vertices. 
+There are different kinds of graphs, depending on whether edges have directions, whether multiple edges can connect the same pair of vertices, and whether loops are allowed. 
+Problems in almost every conceivable discipline can be solved using graph models. 
+We will give examples to illustrate how graphs are used as models in a variety of areas. 
+For instance, we will show how graphs are used to represent the competition of different species in an ecological niche, how graphs are used to represent who influences whom in an organization, and how graphs are used to represent the outcomes of round-robin tournaments. 
+We will describe how graphs can be used to model acquaintanceships between people, collaboration between researchers, telephone calls between telephone numbers, and links between websites. 
+We will show how graphs can be used to model roadmaps and the assignment of jobs to employees of an organization.
+Using graph models, we can determine whether it is possible to walk down all the streets in a city without going down a street twice, and we can find the number of colors needed to color the regions of a map. 
+Graphs can be used to determine whether a circuit can be implemented on a planar circuit board. 
+We can distinguish between two chemical compounds with the same molecular formula but different structures using graphs. 
+We can determine whether two computers are connected by a communications link using graph models of computer networks. 
+Graphs with weights assigned to their edges can be used to solve problems such as finding the shortest path between two cities in a transportation network. 
+We can also use graphs to schedule exams and assign channels to television stations. 
+This chapter will introduce the basic concepts of graph theory and present many different graph models. 
+To solve the wide variety of problems that can be studied using graphs, we will introduce many different graph algorithms. We will also study the complexity of these algorithms.
+10.1 Graphs and Graph Models
+We begin with the definition of a graph.
+DEFINITION 1 A graph G = (V, E) consists of V , a nonempty set of vertices (or nodes) and E, a set of edges. Each edge has either one or two vertices associated with it, called its endpoints. 
+An edge is said to connect its endpoints.
+Remark: The set of vertices V of a graph G may be infinite. 
+A graph with an infinite vertex set or an infinite number of edges is called an infinite graph, and in comparison, a graph with a finite vertex set and a finite edge set is called a finite graph. 
+In this book we will usually consider only finite graphs.
+Now suppose that a network is made up of data centers and communication links between computers. 
+We can represent the location of each data center by a point and each communications link by a line segment, as shown in Figure 1.
+This computer network can be modeled using a graph in which the vertices of the graph represent the data centers and the edges represent communication links. 
+In general, we visualize graphs by using points to represent vertices and line segments, possibly curved, to represent edges, where the endpoints of a line segment representing an edge are the points representing the endpoints of the edge. 
+When we draw a graph, we generally try to draw edges so that they do not cross. 
+However, this is not necessary because any depiction using points to represent vertices and any form of connection between vertices can be used. 
+Indeed, there are some graphs that cannot be drawn in the plane without edges crossing (see Section 10.7). 
+The key point is that the way we draw a graph is arbitrary, as long as the correct connections between vertices are depicted.
+Note that each edge of the graph representing this computer network connects two different vertices. That is, no edge connects a vertex to itself. Furthermore, no two different edges connect the same pair of vertices. 
+A graph in which each edge connects two different vertices and where no two edges connect the same pair of vertices is called a simple graph. 
+Note that in a simple graph, each edge is associated to an unordered pair of vertices, and no other edge is associated to this same edge. 
+Consequently, when there is an edge of a simple graph associated to {u, v}, we can also say, without possible confusion, that {u, v} is an edge of the graph.
+A computer network may contain multiple links between data centers, as shown in Figure 2. 
+To model such networks we need graphs that have more than one edge connecting the same pair of vertices. 
+Graphs that may have multiple edges connecting the same vertices are called multigraphs. 
+When there are m different edges associated to the same unordered pair of vertices {u, v}, we also say that {u, v} is an edge of multiplicity m. 
+That is, we can think of this set of edges as m different copies of an edge {u, v}.
+Sometimes a communications link connects a data center with itself, perhaps a feedback loop for diagnostic purposes. 
+Such a network is illustrated in Figure 3. 
+To model this network we need to include edges that connect a vertex to itself. 
+Such edges are called loops, and sometimes we may even have more than one loop at a vertex. 
+Graphs that may include loops, and possibly multiple edges connecting the same pair of vertices or a vertex to itself, are sometimes called pseudographs.
+So far the graphs we have introduced are undirected graphs. 
+Their edges are also said to be undirected. 
+However, to construct a graph model, we may find it necessary to assign directions to the edges of a graph. 
+For example, in a computer network, some links may operate in only one direction (such links are called single duplex lines). 
+This may be the case if there is a large amount of traffic sent to some data centers, with little or no traffic going in the opposite direction. 
+Such a network is shown in Figure 4.
+To model such a computer network we use a directed graph. 
+Each edge of a directed graph is associated to an ordered pair. 
+The definition of directed graph we give here is more general than the one we used in Chapter 9, where we used directed graphs to represent relations.
+DEFINITION 2 A directed graph (or digraph) (V , E) consists of a nonempty set of vertices V and a set of directed edges (or arcs) E. 
+Each directed edge is associated with an ordered pair of vertices. 
+The directed edge associated with the ordered pair (u, v) is said to start at u and end at v.
+When we depict a directed graph with a line drawing, we use an arrow pointing from u to v to indicate the direction of an edge that starts at u and ends at v. A directed graph may contain loops and it may contain multiple directed edges that start and end at the same vertices. 
+A directed graph may also contain directed edges that connect vertices u and v in both directions; that is, when a digraph contains an edge from u to v, it may also contain one or more edges from v to u. 
+Note that we obtain a directed graph when we assign a direction to each edge in an undirected graph.
+When a directed graph has no loops and has no multiple directed edges, it is called a simple directed graph. 
+Because a simple directed graph has at most one edge associated to each ordered pair of vertices (u, v), we call (u, v) an edge if there is an edge associated to it in the graph.
+In some computer networks, multiple communication links between two data centers may be present, as illustrated in Figure 5. 
+Directed graphs that may have multiple directed edges from a vertex to a second (possibly the same) vertex are used to model such networks. We called such graphs directed multigraphs. 
+When there are m directed edges, each associated to an ordered pair of vertices (u, v), we say that (u, v) is an edge of multiplicity m.
+For some models we may need a graph where some edges are undirected, while others are directed. 
+A graph with both directed and undirected edges is called a mixed graph. 
+For example, a mixed graph might be used to model a computer network containing links that operate in both directions and other links that operate only in one direction.
+This terminology for the various types of graphs is summarized in Table 1. 
+We will sometimes use the term graph as a general term to describe graphs with directed or undirected edges (or both), with or without loops, and with or without multiple edges. 
+At other times, when the context is clear, we will use the term graph to refer only to undirected graphs.
+Because of the relatively modern interest in graph theory, and because it has applications to a wide variety of disciplines, many different terminologies of graph theory have been introduced. 
+The reader should determine how such terms are being used whenever they are encountered. 
+The terminology used by mathematicians to describe graphs has been increasingly standardized, but the terminology used to discuss graphs when they are used in other disciplines is still quite varied. 
+Although the terminology used to describe graphs may vary, three key questions can help us understand the structure of a graph:
+Are the edges of the graph undirected or directed (or both)?
+If the graph is undirected, are multiple edges present that connect the same pair of vertices? 
+If the graph is directed, are multiple directed edges present?
+Are loops present?
+Answering such questions helps us understand graphs. 
+It is less important to remember the particular terminology used.
+10.1.1 Graph Models
+Graphs are used in a wide variety of models. 
+We began this section by describing how to construct graph models of communications networks linking data centers. 
+We will complete this section by describing some diverse graph models for some interesting applications. 
+We will return to many of these applications later in this chapter and in Chapter 11. 
+We will introduce additional graph models in subsequent sections of this and later chapters. 
+Also, recall that directed graph models for some applications were introduced in Chapter 9. 
+When we build a graph model, we need to make sure that we have correctly answered the three key questions we posed about the structure of a graph.
+SOCIAL NETWORKS Graphs are extensively used to model social structures based on different kinds of relationships between people or groups of people. 
+These social structures, and the graphs that represent them, are known as social networks. 
+In these graph models, individuals or organizations are represented by vertices; relationships between individuals or organizations are represented by edges. 
+The study of social networks is an extremely active multidisciplinary area, and many different types of relationships between people have been studied using them.
+We will introduce some of the most commonly studied social networks here. 
+EXAMPLE 1 Acquaintanceship and Friendship Graphs We can use a simple graph to represent whether two people know each other, that is, whether they are acquainted, or whether they are friends (either in the real world in the virtual world via a social networking site such as Facebook). 
+Each person in a particular group of people is represented by a vertex. 
+An undirected edge is used to connect two people when these people know each other, when we are concerned only with acquaintanceship, or whether they are friends. No multiple edges and usually no loops are used.
+(If we want to include the notion of self-knowledge, we would include loops.) 
+A small acquaintanceship graph is shown in Figure 6. 
+The acquaintanceship graph of all people in the world has more than six billion vertices and probably more than one trillion edges! 
+We will discuss this graph further in Section 10.4.

@@ -1,0 +1,75 @@
+CHAPTER I. JUSTICE AS FAIRNESS
+In this introductory chapter I sketch some of the main ideas of the theory of justice I wish to develop. 
+The exposition is informal and intended to prepare the way for the more detailed arguments that follow. Unavoidably there is some overlap between this and later discussions. 
+I begin by describing the role of justice in social cooperation and with a brief account of the primary subject of justice, the basic structure of society. 
+I then present the main idea of justice as fairness, a theory of justice that generalizes and carries to a higher level of abstraction the traditional conception of the social contract. 
+The compact of society is replaced by an initial situation that incorporates certain procedural constraints on arguments designed to lead to an original agreement on principles of justice. 
+I also take up, for purposes of clarification and contrast, the classical utilitarian and intuitionist conceptions of justice and consider some of the differences between these views and justice as fairness. 
+My guiding aim is to work out a theory of justice that is a viable alternative to these doctrines which have long dominated our philosophical tradition.
+THE ROLE OF JUSTICE
+Justice is the first virtue of social institutions, as truth is of systems of thought. 
+A theory however elegant and economical must be rejected or revised if it is untrue; likewise laws and institutions no matter how efficient and well-arranged must be reformed or abolished if they are unjust. 
+Each person possesses an inviolability founded on justice that even the welfare of society as a whole cannot override. 
+For this reason justice denies that the loss of freedom for some is made right by a greater good shared by others. It does not allow that the sacrifices imposed on a few are outweighed by the larger sum of advantages enjoyed by many. 
+Therefore in a just society the liberties of equal citizenship are taken as settled; the rights secured by justice are not subject to political bargaining or to the calculus of social interests. 
+The only thing that permits us to acquiesce in an erroneous theory is the lack of a better one; analogously, an injustice is tolerable only when it is necessary to avoid an even greater injustice. 
+Being first virtues of human activities, truth and justice are uncompromising.
+These propositions seem to express our intuitive conviction of the primacy of justice. No doubt they are expressed too strongly. 
+In any event I wish to inquire whether these contentions or others similar to them are sound, and if so how they can be accounted for. 
+To this end it is necessary to work out a theory of justice in the light of which these assertions can be interpreted and assessed. 
+I shall begin by considering the role of the principles of justice. 
+Let us assume, to fix ideas, that a society is a more or less self-sufficient association of persons who in their relations to one another recognize certain rules of conduct as binding and who for the most part act in accordance with them. 
+Suppose further that these rules specify a system of cooperation designed to advance the good of those taking part in it. 
+Then, although a society is a cooperative venture for mutual advantage, it is typically marked by a conflict as well as by an identity of interests.
+There is an identity of interests since social cooperation makes possible a better life for all than any would have if each were to live solely by his own efforts. 
+There is a conflict of interests since persons are not indifferent as to how the greater benefits produced by their collaboration are distributed, for in order to pursue their ends they each prefer a larger to a lesser share. 
+A set of principles is required for choosing among the various social arrangements which determine this division of advantages and for underwriting an agreement on the proper distributive shares. 
+These principles are the principles of social justice: they provide a way of assigning rights and duties in the basic institutions of society and they define the appropriate distribution of the benefits and burdens of social cooperation.
+Now let us say that a society is well-ordered when it is not only designed to advance the good of its members but when it is also effectively regulated by a public conception of justice. 
+That is, it is a society in which (1) everyone accepts and knows that the others accept the same principles of justice, and (2) the basic social institutions generally satisfy and are generally known to satisfy these principles. 
+In this case while men may put forth excessive demands on one another, they nevertheless acknowledge a common point of view from which their claims may be adjudicated. 
+If men¡¯s inclination to self-interest makes their vigilance against one another necessary, their public sense of justice makes their secure association together possible. 
+Among individuals with disparate aims and purposes a shared conception of justice establishes the bonds of civic friendship; the general desire for justice limits the pursuit of other ends. 
+One may think of a public conception of justice as constituting the fundamental charter of a well-ordered human association.
+Existing societies are of course seldom well-ordered in this sense, for what is just and unjust is usually in dispute. 
+Men disagree about which principles should define the basic terms of their association. 
+Yet we may still say, despite this disagreement, that they each have a conception of justice. 
+That is, they understand the need for, and they are prepared to affirm, a characteristic set of principles for assigning basic rights and duties and for determining what they take to be the proper distribution of the benefits and burdens of social cooperation. 
+Thus it seems natural to think of the concept of justice as distinct from the various conceptions of justice and as being specified by the role which these different sets of principles, these different conceptions, have in common. 
+Those who hold different conceptions of justice can, then, still agree that institutions are just when no arbitrary distinctions are made between persons in the assigning of basic rights and duties and when the rules determine a proper balance between competing claims to the advantages of social life. 
+Men can agree to this description of just institutions since the notions of an arbitrary distinction and of a proper balance, which are included in the concept of justice, are left open for each to interpret according to the principles of justice that he accepts. 
+These principles single out which similarities and differences among persons are relevant in determining rights and duties and they specify which division of advantages is appropriate. 
+Clearly this distinction between the concept and the various conceptions of justice settles no important questions. It simply helps to identify the role of the principles of social justice.
+Some measure of agreement in conceptions of justice is, however, not the only prerequisite for a viable human community. 
+There are other fundamental social problems, in particular those of coordination, efficiency, and stability. 
+Thus the plans of individuals need to be fitted together so that their activities are compatible with one another and they can all be carried through without anyone¡¯s legitimate expectations being severely disappointed. 
+Moreover, the execution of these plans should lead to the achievement of social ends in ways that are efficient and consistent with justice. 
+And finally, the scheme of social cooperation must be stable: it must be more or less regularly complied with and its basic rules willingly acted upon; and when infractions occur, stabilizing forces should exist that prevent further violations and tend to restore the arrangement. 
+Now it is evident that these three problems are connected with that of justice. 
+In the absence of a certain measure of agreement on what is just and unjust, it is clearly more difficult for individuals to coordinate their plans efficiently in order to insure that mutually beneficial arrangements are maintained. 
+Distrust and resentment corrode the ties of civility, and suspicion and hostility tempt men to act in ways they would otherwise avoid. 
+So while the distinctive role of conceptions of justice is to specify basic rights and duties and to determine the appropriate distributive shares, the way in which a conception does this is bound to affect the problems of efficiency, coordination, and stability. 
+We cannot, in general, assess a conception of justice by its distributive role alone, however useful this role may be in identifying the concept of justice. 
+We must take into account its wider connections; for even though justice has a certain priority, being the most important virtue of institutions, it is still true that, other things equal, one conception of justice is preferable to another when its broader consequences are more desirable.
+THE SUBJECT OF JUSTICE
+Many different kinds of things are said to be just and unjust: not only laws, institutions, and social systems, but also particular actions of many kinds, including decisions, judgments, and imputations. 
+We also call the attitudes and dispositions of persons, and persons themselves, just and unjust. Our topic, however, is that of social justice. 
+For us the primary subject of justice is the basic structure of society, or more exactly, the way in which the major social institutions distribute fundamental rights and duties and determine the division of advantages from social cooperation. 
+By major institutions I understand the political constitution and the principal economic and social arrangements. 
+Thus the legal protection of freedom of thought and liberty of conscience, competitive markets, private property in the means of production, and the monogamous family are examples of major social institutions. 
+Taken together as one scheme, the major institutions define men¡¯s rights and duties and influence their life prospects, what they can expect to be and how well they can hope to do. 
+The basic structure is the primary subject of justice because its effects are so profound and present from the start. 
+The intuitive notion here is that this structure contains various social positions and that men born into different positions have different expectations of life determined, in part, by the political system as well as by economic and social circumstances. 
+In this way the institutions of society favor certain starting places over others. 
+These are especially deep inequalities. 
+Not only are they pervasive, but they affect men¡¯s initial chances in life; yet they cannot possibly be justified by an appeal to the notions of merit or desert. 
+It is these inequalities, presumably inevitable in the basic structure of any society, to which the principles of social justice must in the first instance apply. 
+These principles, then, regulate the choice of a political constitution and the main elements of the economic and social system. 
+The justice of a social scheme depends essentially on how fundamental rights and duties are assigned and on the economic opportunities and social conditions in the various sectors of society.
+The scope of our inquiry is limited in two ways. 
+First of all, I am concerned with a special case of the problem of justice. I shall not consider the justice of institutions and social practices generally, nor except in passing the justice of the law of nations and of relations between states . 
+Therefore, if one supposes that the concept of justice applies whenever there is an allotment of something rationally regarded as advantageous or disadvantageous, then we are interested in only one instance of its application. 
+There is no reason to suppose ahead of time that the principles satisfactory for the basic structure hold for all cases. 
+These principles may not work for the rules and practices of private associations or for those of less comprehensive social groups. 
+They may be irrelevant for the various informal conventions and customs of everyday life; they may not elucidate the justice, or perhaps better, the fairness of voluntary cooperative arrangements or procedures for making contractual agreements. 
+The conditions for the law of nations may require different principles arrived at in a somewhat different way. 

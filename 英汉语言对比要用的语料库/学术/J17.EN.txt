@@ -1,0 +1,75 @@
+CHAPTER 3 AUTOIMMUNITY AND AUTOIMMUNE DISEASES
+One of the central features of the immune system is the capacity to mount an inflammatory response to nonself while avoiding harm to self tissues. 
+While recognition of self plays an important role in shaping the repertoires of immune receptors on both T and B cells, and in the clearance of apoptotic debris from tissues throughout the body, the development of potentially harmful immune responses to self-antigens is, in general, precluded. 
+The essential feature of an autoimmune disease is that tissue injury is caused by the immunologic reaction of the organism against its own tissues. 
+Autoimmunity, on the other hand, refers merely to the presence of antibodies or T lymphocytes that react with self-antigens and does not necessarily imply that the self-reactivity has pathogenic consequences. 
+Autoimmunity is present in all individuals; however, autoimmune disease represents the end result of the breakdown of one or more of the basic mechanisms regulating immune tolerance.
+Autoimmunity is seen in normal individuals and in higher frequency in normal older people. 
+Polyreactive autoantibodies that recognize many host antigens are present throughout life. 
+Expression of these antibodies may be increased following some inciting events. These are usually of the IgM heavy chain isotype and are encoded by nonmutated germline immunoglobulin variable region genes. 
+When autoimmunity is induced by an inciting event, such as infection or tissue damage from trauma or ischemia, the autoreactivity is in general self-limited. Such autoimmunity may, however, be persistent, and then may or may not result in ensuing pathology. Even in the presence of organ pathology, it may be difficult to determine whether the damage is mediated by autoreactivity.
+Following an inciting event, the development of self-reactivity may be the consequence of an ongoing pathologic process, and be non-pathogenic, or may contribute to tissue inflammation and damage.
+MECHANISMS OF AUTOIMMUNITY
+Since Ehrlich first postulated the existence of mechanisms to prevent the generation of self-reactivity in 1900, ideas concerning the nature of this inhibition have developed in parallel with a progressive increase in understanding of the immune system. 
+Burnet's clonal selection theory included the idea that interaction of lymphoid cells with their specific antigens during fetal or early postnatal life would lead to elimination of such "forbidden clones." 
+This idea became untenable, however, when it was shown that autoimmune diseases could be induced in experimental animals by simple immunization procedures, that autoantigen-binding cells could be demonstrated easily in the circulation of normal individuals, and that self-limited autoimmune phenomena frequently developed following tissue damage from infection or trauma. 
+These observations indicated that clones of cells capable of responding to autoantigens were present in the repertoire of antigen-reactive cells in normal adults and suggested that mechanisms in addition to clonal deletion were responsible for preventing their activation.
+Currently, three general processes are thought to be involved in the maintenance of selective unresponsiveness to autoantigens (Table 3-1): (1) sequestration of self-antigens, rendering them inaccessible to the immune system; (2) specific unresponsiveness (tolerance or anergy) of relevant T or B cells; and (3) limitation of potential reactivity by regulatory mechanisms.
+Derangements of these normal processes may predispose to the development of autoimmunity (Table 3-2). 
+In general, these abnormal responses require an exogenous trigger such as bacterial or viral infection or cigarette smoking and require the presence of endogenous abnormalities in the cells of the immune system. 
+Microbial superantigens, such as staphylococcal protein A and staphylococcal enterotoxins, are substances that can stimulate a broad range of T and B cells based upon specific interactions with selected families of immune receptors, irrespective of their antigen specificity. 
+If autoantigen-reactive T and/or B cells express these receptors, autoimmunity might develop. 
+Alternatively, molecular mimicry or cross-reactivity between a microbial product and a self-antigen might lead to activation of autoreactive lymphocytes. 
+One of the best examples of autoreactivity and autoimmune disease resulting from molecular mimicry is rheumatic fever, in which antibodies to the M protein of streptococci cross-react with myosin, laminin, and other matrix proteins as well as neuronal antigens. 
+Deposition of these autoantibodies in the heart initiates an inflammatory response, whereas penetration of these antibodies into the brain can result in Sydenham's chorea. 
+Molecular mimicry between microbial proteins and host tissues has been reported in type 1 diabetes mellitus, rheumatoid arthritis, and multiple sclerosis. 
+It is presumed that infectious agents may be able to overcome self-tolerance because they possess molecules, such as bacterial endotoxin, RNA, or DNA, that have adjuvant-like effects on the immune system that increase the immunogenicity of the microbial antigens. 
+The adjuvants activate dendritic cells through pattern recognition receptors and stimulate the activation of previously quiescent lymphocytes that recognize both microbial and self-antigen.
+Endogenous derangements of the immune system may also contribute to the loss of immunologic tolerance to self-antigens and the development of autoimmunity (Table 3-2). 
+Some autoantigens reside in immunologically privileged sites, such as the brain or the anterior chamber of the eye. These sites are characterized by the inability of engrafted tissue to elicit immune responses. 
+Immunologic privilege results from a number of events, including the limited entry of proteins from those sites into lymphatics, the local production of immunosuppressive cytokines such as transforming growth factor . . ., and the local expression of molecules such as Fas ligand that can induce apoptosis of activated T cells. 
+Lymphoid cells remain in a state of immunologic ignorance (neither activated nor anergized) to proteins expressed uniquely in immunologically privileged sites. 
+If the privileged site is damaged by trauma or inflammation, or if T cells are activated elsewhere, proteins expressed at this site can become the targets of immunologic assault. 
+Such an event may occur in multiple sclerosis and sympathetic ophthalmia, in which antigens uniquely expressed in the brain and eye, respectively, become the target of activated T cells.
+Alterations in antigen presentation may also contribute to autoimmunity. 
+Peptide determinants (epitopes) of a self-antigen that are not routinely presented to lymphocytes may be recognized as a result of altered proteolytic processing of the molecule and the ensuing presentation of novel peptides (cryptic epitopes). 
+When B cells rather than dendritic cells present self-antigen, they may also present cryptic epitopes that can activate autoreactive T cells. These cryptic epitopes will not have previously been available to effect the silencing of autoreactive lymphocytes. 
+Furthermore, once there is immunologic recognition of one protein component of a multimolecular complex, reactivity may be induced to other components of the complex following internalization and presentation of all molecules within the complex (epitope spreading). 
+Finally, inflammation, drug exposure, or normal senescence may cause a primary chemical alteration in proteins, resulting in the generation of immune responses that cross-react with normal self-proteins. 
+For example, the induction and/or release of protein arginine deaminase enzymes results in the conversion of arginine residues to citrullines in a variety of proteins, thereby altering their capacity to induce immune responses. 
+Production of anticitrullinated protein antibodies has been observed in rheumatoid arthritis, chronic lung disease, as well as normal smokers and may contribute to organ pathology. 
+Alterations in the availability and presentation of autoantigens may be important components of immunoreactivity in certain models of organ-specific autoimmune diseases. 
+In addition, these factors may be relevant in understanding the pathogenesis of various drug-induced autoimmune conditions. 
+However, the diversity of autoreactivity manifest in non-organ-specific systemic autoimmune diseases suggests that these conditions might result from a more general activation of the immune system rather than from an alteration in individual self-antigens.
+Many autoimmune diseases are characterized by the presence of antibodies that react with apoptotic material. 
+Defects in the clearance of apoptotic material have been shown to elicit autoimmunity and autoimmune disease in a number of animal models. 
+Moreover, defects in the clearance of apoptotic material have been found in subjects with systemic lupus erythematosus (SLE). 
+Apoptotic debris not quickly cleared by the immune system can function as endogenous ligands for a number of pattern recognition receptors on dendritic cells. Under such circumstances, there is activation of dendritic cells, and an immune response to apoptotic debris can develop. 
+In addition, the presence of extracellular apoptotic material within germinal centers of secondary lymphoid organs may facilitate the direct activation of autoimmune B cell clones or function to select autoimmune B cell clones during immune responses.
+A number of experimental models have suggested that intense stimulation of T lymphocytes can produce nonspecific signals that bypass the need for antigen-specific helper T cells and lead to polyclonal B cell activation with the formation of multiple autoantibodies. 
+For example, antinuclear, antierythrocyte, and antilymphocyte antibodies are produced during the chronic graft-versus-host reaction. 
+In addition, true autoimmune diseases, including autoimmune hemolytic anemia and immune complex¨Cmediated glomerulonephritis, can also be induced in this manner. 
+While it is clear that such diffuse activation of helper T cell activity can cause autoimmunity, nonspecific stimulation of B lymphocytes can also lead to the production of autoantibodies. 
+Thus, the administration of polyclonal B cell activators, such as bacterial endotoxin, to normal mice leads to the production of a number of autoantibodies, including those directed to DNA and IgG (rheumatoid factor). 
+Moreover, excess BAFF can also cause T cell¨Cindependent B cell activation and heavy chain class switching and the development of autoimmunity. 
+SLE, for example, can be induced in mice through exuberant dendritic cell activation, a redundancy of TLR7 on the y chromosome (BXSByaa mice) or through exposure to CpG, a ligand for TLR 9. 
+The ensuing induction of inflammatory mediators can cause a switch from production of nonpathogenic IgM autoantibodies to pathogenic IgG autoantibodies in the absence of antigen-specific T cell help.
+Aberrant selection of the B or T cell repertoire at the time of antigen receptor expression can also predispose to autoimmunity. 
+For example, B cell immunodeficiency caused by an absence of the B cell receptor¨Cassociated kinase, Bruton's tyrosine kinase, leads to X-linked agammaglobulinemia. 
+This syndrome is characterized by reduced B cell activation, but also by diminished negative selection of autoreactive B cells probably caused by high levels of BAFF, resulting in increased autoreactivity within a diminished B cell repertoire. 
+Likewise, negative selection of autoreactive T cells in the thymus requires expression of the autoimmune regulator (AIRE) gene that enables the expression of tissue-specific proteins in thymic medullary epithelial cells. 
+Peptides from these proteins are expressed in the context of major histocompatibility complex (MHC) molecules and mediate the elimination of autoreactive T cells. 
+The absence of AIRE gene expression leads to a failure of negative selection of autoreactive cells, autoantibody production, and severe inflammatory destruction of multiple organs. 
+Individuals deficient in AIRE gene expression develop autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED).
+Primary alterations in the activity of T and/or B cells, cytokine imbalances, or defective immunoregulatory circuits may also contribute to the emergence of autoimmunity. 
+Diminished production of tumor necrosis factor (TNF) and interleukin (IL) 10 has been reported to be associated with the development of autoimmunity. Overproduction of type 1 interferon has also been associated with autoimmunity. 
+Overexpression of co-stimulatory molecules on T cells similarly can lead to autoantibody production.
+Autoimmunity may also result from an abnormality of immunoregulatory mechanisms. 
+Observations made in both human autoimmune disease and animal models suggest that defects in the generation and expression of regulatory T cell activity may allow for the production of autoimmunity. 
+It has recently been appreciated that the IPEX (immunodysregulation, polyendocrinopathy, enteropathy X-linked) syndrome results from the failure to express the FOXP3 gene, which encodes a molecule critical in the differentiation of regulatory T cells. 
+Administration of normal regulatory T cells or factors derived from them can prevent the development of autoimmune disease in rodent models of autoimmunity. 
+Abnormalities in the function of regulatory T cells have been noted in a number of human autoimmune diseases, although it remains uncertain whether these are causative or are secondary abnormalities owing to inflammation. 
+Finally, recent data indicate that B cells may also exert regulatory function, largely through the production of the cytokine IL-10. 
+Deficiency of IL- 10-producing regulatory B cells can prolong the course of an animal model of multiple sclerosis.
+It should be apparent that no single mechanism can explain all the varied manifestations of autoimmunity. 
+Furthermore, genetic evaluation has shown that a number of abnormalities often need to converge to induce an autoimmune disease. 

@@ -1,0 +1,106 @@
+Chapter 10 STIMULATION
+10.1 Introduction
+How can we determine the probability of our winning a game of solitaire? 
+(By solitaire, we mean any one of the standard solitaire games played with an ordinary deck of 52 playing cards and with some fixed playing strategy.) 
+One possible approach is to start with the reasonable hypothesis that all (52)! possible arrangements of the deck of cards are equally likely to occur and then attempt to determine how many of these lead to a win. 
+Unfortunately, there does not appear to be any systematic method for determining the number of arrangements that lead to a win, and as (52)! is a rather large number and the only way to determine whether a particular arrangement leads to a win seems to be by playing the game out, it can be seen that this approach will not work.
+In fact, it might appear that the determination of the probability of winning at solitaire is mathematically intractable. 
+However, all is not lost, for probability falls not only within the realm of mathematics, but also within the realm of applied science; and, as in all applied sciences, experimentation is a valuable technique. 
+For our solitaire example, experimentation takes the form of playing a large number of such games or, better yet, programming a computer to do so. 
+After playing, say, n games, if we let. . .
+then Xi, i = 1, ... , n will be independent Bernoulli random variables for which . . .
+Hence, by the strong law of large numbers, we know that. . . will, with probability 1, converge to P{win at solitaire}. 
+That is, by playing a large number of games, we can use the proportion of games won as an estimate of the probability of winning. 
+This method of empirically determining probabilities by means of experimentation is known as simulation.
+In order to use a computer to initiate a simulation study, we must be able to generate the value of a uniform (0, 1) random variable; such variates are called random numbers. 
+To generate them, most computers have a built-in subroutine, called a random-number generator, whose output is a sequence of pseudorandom numbers-a sequence of numbers that is, for all practical purposes, indistinguishable from a sample from the uniform (0, 1) distribution. 
+Most random-number generators start with an initial value X0, called the seed, and then recursively compute values by specifying positive integers a, c, and m, and then letting . . .
+where the foregoing means that aXn + c is divided by m and the remainder is taken as the value of Xn+1. 
+Thus, each Xn is either 0, 1, ... , m - 1, and the quantity Xn/m is taken as an approximation to a uniform (0, 1) random variable. 
+It can be shown that subject to suitable choices for a, c, and m, Equation (1.1) gives rise to a sequence of numbers that look as if they were generated from independent uniform (0, 1) random variables.
+As our starting point in simulation, we shall suppose that we can simulate from the uniform (0, 1) distribution, and we shall use the term random numbers to mean independent random variables from this distribution.
+In the solitaire example, we would need to program a computer to play out the game starting with a given ordering of the cards. 
+However, since the initial ordering is supposed to be equally likely to be any of the (52)! possible permutations, it is also necessary to be able to generate a random permutation. 
+Using only random numbers, the following algorithm shows how this can be accomplished. The algorithm begins by randomly choosing one of the elements and then putting it in position n; it then randomly chooses among the remaining elements and puts the choice in position n - 1, and so on. The algorithm efficiently makes a random choice among the remaining elements by keeping these elements in an ordered list and then randomly choosing a position on that list.
+Example 1a Generating a random permutation
+Suppose we are interested in generating a permutation of the integers 1, 2, ..., n such that all n! possible orderings are equally likely. 
+Then, starting with any initial permutation, we will accomplish this after n - 1 steps, where we interchange the positions of two of the numbers of the permutation at each step. 
+Throughout, we will keep track of the permutation by letting X(i), i = 1, ..., n denote the number currently in position i. 
+The algorithm operates as follows:
+Consider any arbitrary permutation, and let X(i) denote the element in position i, i = 1 ... , n. [For instance, we could take X(i) = i, i = 1, ..., n.]
+Generate a random variable Nn that is equally likely to equal any of the values 1, 2, ..., n.
+Interchange the values of X(Nn) and X(n). The value of X(n) will now remain fixed.
+ [For instance, suppose that n = 4 and initially X(i) = i, i = 1, 2, 3, 4. If N4 = 3, then the new permutation is X(1) = 1, X(2) = 2, X(3) = 4, X(4) = 3, and element 3 will remain in position 4 throughout.]
+Generate a random variable Nn-1 that is equally likely to be either 1, 2, ..., n - 1.
+Interchange the values of X(Nn-1) and X(n - 1). 
+[If N3 = 1, then the new permutation is X(1) = 4, X(2) = 2, X(3) = 1, X(4) = 3.]
+Generate Nn-2, which is equally likely to be either 1, 2, ... , n - 2.
+Interchange the values of X(Nn-2) and X(n - 2). 
+[If N2 = 1, then the new permutation is X(1) = 2, X(2) = 4, X(3) = 1, X(4) = 3, and this is the final permutation.]
+Generate Nn-3, and so on. The algorithm continues until N2 is generated, and after the next interchange the resulting permutation is the final one.
+To implement this algorithm, it is necessary to be able to generate a random variable that is equally likely to be any of the values 1, 2, ... , k. 
+To accomplish this, let U denote a random number-that is, U is uniformly distributed on (0, 1)-and note that kU is uniform on (0, k).
+Hence, . . .
+so if we take Nk = [kU] + 1, where [x] is the integer part of x (that is, the largest integer less than or equal to x), then Nk will have the desired distribution.
+The algorithm can now be succinctly written as follows:
+Step 1. 
+Let X(1), ... , X(n) be any permutation of 1, 2, ... , n. [For instance, we can set X(i) = i, i = 1, ... , n.]
+Step 2. 
+Let I = n.
+Step 3. 
+Generate a random number U and set N = [IU] + 1.
+Step 4. 
+Interchange the values of X(N) and X(I).
+Step 5. 
+Reduce the value of I by 1, and if I &gt; 1, go to step 3.
+Step 6. 
+X(1), ... , X(n) is the desired random generated permutation.
+The foregoing algorithm for generating a random permutation is extremely useful. 
+For instance, suppose that a statistician is developing an experiment to compare the effects of m different treatments on a set of n subjects. 
+He decides to split the subjects into m different groups of respective sizes n1, n2, ... , nm, where . . . = n, with the members of the ith group to receive treatment i. 
+To eliminate any bias in the assignment of subjects to treatments (for instance, it would cloud the meaning of the experimental results if it turned out that all the "best" subjects had been put in the same group), it is imperative that the assignment of a subject to a given group be done "at random." 
+How is this to be accomplished?
+A simple and efficient procedure is to arbitrarily number the subjects 1 through n and then generate a random permutation X(1), ... , X(n) of 1, 2, ... , n. Now assign subjects X(1), X(2), ... 
+, X(n1) to be in group 1; X(n1 + 1), ... , X(n1 + n2) to be in group 2; and, in general, group j is to consist of subjects numbered X(n1 + n2 + ... + nj-1 + k), k = 1, ...., nj.
+10.2 General Techniques for Stimulating Continuous Random Variables 
+In this section, we present two general methods for using random numbers to simulate continuous random variables.
+The Inverse Transformation Method 
+A general method for simulating a random variable having a continuous distribution-called the inverse transformation method-is based on the following proposition. 
+Proposition 2.1 Let U be a uniform (0, 1) random variable. For any continuous distribution function F, if we define the random variable Y by 
+then the random variable Y has distribution function F. 
+[F-1(x) is defined to equal that value y for which F(y) = x.]
+Proof
+Now, since F(x) is a monotone function, it follows that F-1(U) &lt;= a if and only if U &lt;= F(a). 
+Hence, from Equation (2.1), we have. . .
+It follows from Proposition 2.1 that we can simulate a random variable X having a continuous distribution function F by generating a random number U and then setting X = F-1(U). 
+Example 2a Simulating an exponential random variable
+If F(x) = 1 - e-x, then F-1(u) is that value of x such that. . .or . . .
+Hence, if U is a uniform (0, 1) variable, then. . .is exponentially distributed with mean 1.
+Since 1 - U is also uniformly distributed on (0, 1), it follows that -log U is exponential with mean 1. 
+Since cX is exponential with mean c when X is exponential with mean 1, it follows that -c log U is exponential with mean c.
+The results of Example 2a can also be utilized to stimulate a gamma random variable.
+Example 2b Simulating a gamma (n, . . . random variable
+To simulate from a gamma distribution with parameters (n, . . .) when n is an integer, we use the fact that the sum of n independent exponential random variables, each having rate . . ., has this distribution. 
+Hence, if U1, ..., Un are independent uniform (0, 1) random variables, then . . .has the desired distribution.
+The Rejection Method
+Suppose that we have a method for simulating a random variable having density function g(x). We can use this method as the basis for simulating from the continuous distribution having density f(x) by simulating Y from g and then accepting the simulated value with a probability proportional to f(Y)/g(Y).
+Specifically, let c be a constant such that. . .
+We then have the following technique for simulating a random variable having density f.
+Rejection Method
+Step 1. Simulate Y having density g and simulate a random number U.
+Step 2. If U &lt;=  f(Y)/cg(Y), set X = Y. Otherwise return to step 1.
+The rejection method is expressed pictorially in Figure 10.1. 
+We now prove that it works.
+Proposition 2.2
+The random variable X generated by the rejection method has density function f.
+Proof Let X be the value obtained and let N denote the number of necessary iterations. Then
+where K = P{U &lt;=  f(Y)/cg(Y)}. 
+Now, by independence, the joint density function of Y and U is . . .
+so, using the foregoing, we have. . .
+Letting X approach . . . and using the fact that f is a density gives. . .
+Hence, from Equation (2.2), we obtain. . .
+which completes the proof.
+Remarks (a) Note that the way in which we "accept the value Y with probability f(Y)/cg(Y)" is by generating a random number U and then accepting Y if U &lt;=  f(Y)/cg(Y).
+(b)Since each iteration will independently result in an accepted value with probability P{U &lt;=  f(Y)/cg(Y)} = K = 1/c, it follows that the number of iterations has a geometric distribution with mean c.
+Example 2c Simulating a normal random variable
+To simulate a unit normal random variable Z (that is, one with mean 0 and variance 1), note first that the absolute value of Z has probability density function (2.3)

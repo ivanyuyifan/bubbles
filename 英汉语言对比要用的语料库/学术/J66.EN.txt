@@ -1,0 +1,84 @@
+CHAPTER I Literature and Literary Study
+We must first make a distinction between literature and literary study. 
+The two are distinct activities: one is creative, an art; the other, if not precisely a science, is a species of knowledge or of learning. 
+There have been attempts, of course, to obliterate this distinction. 
+For instance, it has been argued that one cannot understand literature unless one writes it, that one cannot and should not study Pope without trying his own hand at heroic couplets or an Elizabethan drama without himself writing a drama in blank verse. 
+Yet useful as the experience of literary creation is to him, the task of the student is completely distinct. 
+He must translate his experience of literature into intellectual terms, assimilate it to a coherent scheme which must be rational if it is to be knowledge. 
+It may be true that the subject matter of his study is irrational or at least contains strongly unrational elements; but he will not be therefore in any other position than the historian of painting or the musicologist or, for that matter, the sociologist or the anatomist.
+Clearly, some difficult problems are raised by this relationship. 
+The solutions proposed have been various. 
+Some theorists would simply deny that literary study is knowledge and advise a ¡°second creation,¡± with results which to most of us seem futile today--Pater¡¯s description of Mona Lisa or the florid passages in Symonds or Symons. 
+Such ¡°creative criticism¡± has usually meant a needless duplication or, at most, the translation of one work of art into another, usually inferior. 
+Other theorists draw rather different skeptical conclusions from our contrast between literature and its study: literature, they argue, cannot be ¡°studied¡± at all. We can only read, enjoy, appreciate it. For the rest, we can only accumulate all kinds of information ¡°about¡± literature. 
+Such skepticism is actually much more widespread than one might suppose. 
+In practice, it shows itself in a stress on environmental ¡°facts¡± and in the disparagement of all attempts to go beyond them. 
+Appreciation, taste, enthusiasm are left to the private indulgence as an inevitable, though deplorable, escape from the austerity of sound scholarship. 
+But such a dichotomy into ¡°scholarship¡± and ¡°appreciation¡± makes no provision at all for the true study of literature, at once ¡°literary¡± and ¡°systematic¡±.
+The problem is one of how, intellectually, to deal with art, and with literary art specifically.  
+Can it be done? 
+And how can it be done?
+One answer has been: it can be done with the methods developed by the natural sciences, which need only be transferred to the study of literature. 
+Several kinds of such transfer can be distinguished. One is the attempt to emulate the general scientific ideals of objectivity, impersonality, and certainty, an attempt which on the whole supports the collecting of neutral facts. 
+Another is the effort to imitate the methods of natural science through the study of causal antecedents and origins; in practice, this ¡°genetic method¡± justifies the tracing of any kind of relationship as long as it is possible on chronological grounds. 
+Applied more rigidly, scientific causality is used to explain literary phenomena by the assignment of determining causes to economic, social, and political conditions. 
+Again, there is the introduction of the quantitative methods appropriately used in some sciences, i.e., statistics, charts, and graphs. 
+And finally there is the attempt to use biological concepts in the tracing of the evolution of literature.
+Today there would be almost general recognition that this transfer has not fulfilled the expectations with which it was made originally. 
+Sometimes scientific methods have proved their value within a strictly limited area, or with a limited technique such as the use of statistics in certain methods of textual criticism. 
+But most promoters of this scientific invasion into literary study have either confessed failure and ended with skepticism or have comforted themselves with delusions concerning the future successes of the scientific method. 
+Thus, I. A. Richards used to refer to the future triumphs of neurology as insuring the solutions of all literary problems.
+We shall have to come back to some of the problems raised by this widespread application of natural science to literary study. 
+They cannot be dismissed too facilely and there is, no doubt, a large field in which the two methodologies contact or even overlap. 
+Such fundamental methods as induction and deduction, analysis, synthesis, and comparison are common to all types of systematic knowledge. 
+But, patently, the other solution commends itself: literary scholarship has its own valid methods which are not always those of the natural sciences but are nevertheless intellectual methods. 
+Only a very narrow conception of truth can exclude the achievements of the humanities from the realm of knowledge. 
+Long before modern scientific development, philosophy, history, jurisprudence, theology, and even philology had worked out valid methods of knowing. 
+Their achievements may have become obscured by the theoretical and practical triumphs of the modern physical sciences; but they are nevertheless real and permanent and can, sometimes with some modifications, easily be resuscitated or renovated. 
+It should be simply recognized that there is this difference between the methods and aims of the natural sciences and the humanities.
+How to define this difference is a complex problem. 
+As early as 1883, Wilhelm Dilthey worked out the distinction between the methods of natural science and those of history in terms of a contrast between explanation and comprehension. 
+The scientist, Dilthey argued, accounts for an event in terms of its causal antecedents, while the historian tries to understand its meaning. 
+This process of understanding is necessarily individual and even subjective. 
+A year later, Wilhelm Windelband, the well-known historian of philosophy, also attacked the view that the historical sciences should imitate the methods of the natural sciences. 
+The natural scientists aim to establish general laws while the historians try to grasp the unique and non-recurring fact. 
+This view was elaborated and somewhat modified by Heinrich Rickert, who drew a line not so much between generalizing and individualizing methods as between the sciences of nature and the sciences of culture. 
+The sciences of culture, he argued, are interested in the concrete and individual. Individuals, however, can be discovered and comprehended only in reference to some scheme of values, which is merely another name for culture. 
+In France, A. D. Xenopol distinguished between the natural sciences as occupied with the ¡°facts of repetition¡± and history as occupied with the ¡°facts of succession¡±. 
+In Italy, Benedetto Croce based his whole philosophy on a historical method which is totally different from that of the natural sciences.
+A full discussion of these problems would involve decision on such problems as the classification of the sciences, the philosophy of history, and the theory of knowledge. 
+Yet a few concrete examples may at least suggest that there is a very real problem which a student of literature has to face. Why do we study Shakespeare?
+It is clear we are not primarily interested in what he has in common with all men, for we could then as well study any other man, nor are we interested in what he has in common with all Englishmen, all men of the Renaissance, all Elizabethans, all poets, all dramatists, or even all Elizabethan dramatists, because in that case we might just as well study Dekker or Heywood. 
+We want rather to discover what is peculiarly Shakespeare¡¯s, what makes Shakespeare Shakespeare; and this is obviously a problem of individuality and value. 
+Even in studying a period or movement or one specific national literature, the literary student will be interested in it as an individuality with characteristic features and qualities which set it off from other similar groupings.
+The case for individuality can be supported also by another argument: attempts to find general laws in literature have always failed. 
+M. Cazamian¡¯s so-called law of English literature, the ¡°oscillation of the rhythm of the English national mind¡± between two poles, sentiment and intellect (accompanied by the further assertion that these oscillations become speedier the nearer we approach the present age), is either trivial or false. 
+It breaks down completely in its application to the Victorian age. 
+Most of these ¡°laws¡± turn out to be only such psychological uniformities as action and reaction, or convention and revolt, which, even if they were beyond doubt, could not tell us anything really significant about the processes of literature. 
+While physics may see its highest triumphs in some general theory reducing to a formula electricity and heat, gravitation and light, no general law can be assumed to achieve the purpose of literary study: the more general, the more abstract and hence empty it will seem; the more the concrete object of the work of art will elude our grasp.
+There are thus two extreme solutions to our problem. 
+One, made fashionable by the prestige of the natural sciences, identifies scientific and historical method and leads either to the mere collection of facts or to the establishment of highly generalized historical ¡°laws¡±. 
+The other, denying that literary scholarship is a science, asserts the personal character of literary ¡°understanding¡± and the ¡°individuality¡±, even ¡°uniqueness¡±, of every work of literature. 
+But in its extreme formulation the anti-scientific solution has its own obvious dangers. 
+Personal ¡°intuition¡± may lead to a merely emotional ¡°appreciation¡±, to complete subjectivity. 
+To stress the ¡°individuality¡± and even ¡°uniqueness¡± of every work of art--though wholesome as a reaction against facile generalizations--is to forget that no work of art can be wholly ¡°unique¡± since It then would be completely incomprehensible. 
+It is, of course, true that there is only one Hamlet or even one ¡°Trees¡± by Joyce Kilmer. 
+But even a rubbish heap is unique in the sense that its precise proportions, position, and chemical combinations cannot be duplicated exactly. 
+Moreover, all words in every literary work of art are, by their very nature, ¡°generals¡± and not particulars. 
+The quarrel between the ¡°universal¡± and ¡°particular¡± in literature has been going on since Aristotle proclaimed poetry to be more universal and hence more philosophical than history, which is concerned only with the particular, and since Dr. Johnson asserted that the poet should not ¡°count the streaks of the tulip¡±. 
+The Romantics and most modern critics never tire of stressing the particularity of poetry, its ¡°texture¡±, its concreteness. 
+But one should recognize that each work of literature is both general and particular, or--better, possibly--is both individual and general. 
+Individuality can be distinguished from complete particularity and uniqueness. Like every human being, each work of literature has its individual characteristics; but it also shares common properties with other works of art, just as every man shares traits with humanity, with all members of his sex, nation, class, profession, etc. 
+We can thus generalize concerning works of art, Elizabethan drama, all drama, all literature, all art. 
+Literary criticism and literary history both attempt to characterize the individuality of a work, of an author, of a period, or of a national literature.
+But this characterization can be accomplished only in universal terms, on the basis of a literary theory. 
+Literary theory, an organon of methods, is the great need of literary scholarship today.
+This ideal docs not, of course, minimize the importance of sympathetic understanding and enjoyment as preconditions of our knowledge and hence our reflections upon literature. But they are only preconditions. 
+To say that literary study serves only the art of reading is to misconceive the ideal of organized knowledge, however indispensable this art may be to the student of literature. 
+Even though ¡°reading¡± be used broadly enough to include critical understanding and sensibility, the art of reading is an ideal for a purely personal cultivation. 
+As such it is highly desirable, and also serves as a basis of a widely spread literary culture. It cannot, however, replace the conception of ¡°literary scholarship¡±, conceived of as super-personal tradition.
+The Nature of Literature
+The first problem to confront us is, obviously, the subject matter of literary scholarship. 
+What is literature? 
+What is not literature? 
+What is the nature of literature? 

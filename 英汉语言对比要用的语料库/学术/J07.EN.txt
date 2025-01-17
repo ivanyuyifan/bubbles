@@ -1,0 +1,86 @@
+Chapter 13 Secondary Metabolites and Defense
+In natural habitats, plants are surrounded by an enormous number of potential enemies. Nearly all ecosystems contain a wide variety of bacteria, viruses, fungi, nematodes, mites, insects, mammals, and other herbivorous animals.
+By their nature, plants cannot avoid these herbivores and pathogens simply by moving away; they must protect themselves in other ways.
+The cuticle (a waxy outer layer) and the periderm (secondary protective tissue), besides retarding water loss, provide barriers to bacterial and fungal entry. 
+In addition, a group of plant compounds known as secondary metabolites defend plants against a variety of herbivores and pathogenic microbes. 
+Secondary compounds may serve other important functions as well, such as structural support, as in the case of lignin, or pigments, as in the case of the anthocyanins.
+In this chapter we will discuss some of the mechanisms by which plants protect themselves against both herbivory and pathogenic organisms. 
+We will begin with a discussion of the three classes of compounds that provide surface protection to the plant: cutin, suberin, and waxes. 
+Next we will describe the structures and biosynthetic pathways for the three major classes of secondary metabolites: terpenes, phenolics, and nitrogen-containing compounds. 
+Finally, we will examine specific plant responses to pathogen attack, the genetic control of host-pathogen interactions, and cell signaling processes associated with infection.
+13.1 CUTIN, WAXES, AND SUBERIN
+All plant parts exposed to the atmosphere are coated with layers of lipid material that reduce water loss and help block the entry of pathogenic fungi and bacteria. 
+The principal types of coatings are cutin, suberin, and waxes. 
+Cutin is found on most aboveground parts; suberin is present on underground parts, woody stems, and healed wounds. Waxes are associated with both cutin and suberin.
+13.1.1 Cutin, Waxes, and Suberin Are Made Up of Hydrophobic Compounds
+Cutin is a macromolecule, a polymer consisting of many long-chain fatty acids that are attached to each other by ester linkages, creating a rigid three-dimensional network. 
+Cutin is formed from 16:0 and 18:1 fatty acids with hydroxyl or epoxide groups situated either in the middle of the chain or at the end opposite the carboxylic acid function (Figure 13.1A).
+Cutin is a principal constituent of the cuticle, a multilayered secreted structure that coats the outer cell walls of the epidermis on the aerial parts of all herbaceous plants (Figure 13.2). 
+The cuticle is com posed of a top coating of wax, a thick middle layer containing cutin embedded in wax (the cuticle proper), and a lower layer formed of cutin and wax blended with the cell wall substances pectin, cellulose, and other carbohydrates (the cuticular layer). 
+Recent research suggests that, in addition to cutin, the cuticle may contain a second lipid polymer, made up of long-chain hydrocarbons, that has been named cutan (Jeffree 1996).
+Waxes are not macromolecules, but complex mixtures of long-chain acyl lipids that are extremely hydrophobic. 
+The most common components of wax are straight-chain alkanes and alcohols of 25 to 35 carbon atoms (see Figure 13.1B). Long-chain aldehydes, ketones, esters, and free fatty acids are also found. 
+The waxes of the cuticle are synthesized by epidermal cells. They leave the epidermal cells as droplets that pass through pores in the cell wall by an unknown mechanism. The top coating of cuticle wax often crystallizes in an intricate pattern of rods, tubes, or plates (Figure 13.3).
+Suberin is a polymer whose structure is very poorly understood. 
+Like cutin, suberin is formed from hydroxy or epoxy fatty acids joined by ester linkages. 
+However, suberin differs from cutin in that it has dicarboxylic acids (see Figure 13.1C), more long-chain components, and a significant proportion of phenolic compounds as part of its structure.
+Suberin is a cell wall constituent found in many locations throughout the plant. We have already noted its presence in the Casparian strip of the root endodermis, which forms a barrier between the apoplast of the cortex and the stele (see Chapter 4). 
+Suberin is a principal component of the outer cell walls of all underground organs and is associated with the cork cells of the periderm, the tissue that forms the outer bark of stems and roots during secondary growth of woody plants. 
+Suberin also forms at sites of leaf abscission and in areas damaged by disease or wounding.
+13.1.2 Cutin, Waxes, and Suberin Help Reduce Transpiration and Pathogen Invasion
+Cutin, suberin, and their associated waxes form barriers between the plant and its environment that function to keep water in and pathogens out. 
+The cuticle is very effective at limiting water loss from aerial parts of the plant but does not block transpiration completely because even with the stomata closed, some water is lost. 
+The thickness of the cuticle varies with environmental conditions. Plant species native to arid areas typically have thicker cuticles than plants from moist habitats have, but plants from moist habitats often develop thick cuticles when grown under dry conditions.
+The cuticle and suberized tissue are both important in excluding fungi and bacteria, although they do not appear to be as important in pathogen resistance as some of the other defenses we will discuss in this chapter. 
+Many fungi penetrate directly through the plant surface by mechanical means. Others produce cutinase, an enzyme that hydrolyzes cutin and thus facilitates entry into the plant.
+13.2 SECONDARY METABOLITES
+Plants produce a large, diverse array of organic compounds that appear to have no direct function in growth and development. These substances are known as secondary metabolites, secondary products, or natural products. 
+Secondary metabolites have no generally recognized, direct roles in the processes of photosynthesis, respiration, solute transport, translocation, protein synthesis, nutrient assimilation, differentiation, or the formation of carbohydrates, proteins, and lipids discussed elsewhere in this book.
+Secondary metabolites also differ from primary metabolites (amino acids, nucleotides, sugars, acyl lipids) in having a restricted distribution in the plant kingdom. 
+That is, particular secondary metabolites are often found in only one plant species or related group of species, whereas primary metabolites are found throughout the plant kingdom.
+13.2.1 Secondary Metabolites Defend Plants against Herbivores and Pathogens 
+For many years the adaptive significance of most plant secondary metabolites was unknown. 
+These compounds were thought to be simply functionless end products of metabolism, or metabolic wastes. 
+Study of these substances was pioneered by organic chemists of the nineteenth and early twentieth centuries who were interested in these substances because of their importance as medicinal drugs, poisons, flavors, and industrial materials.
+More recently, many secondary metabolites have been suggested to have important ecological functions in plants: 
+They protect plants against being eaten by herbivores (herbivory) and against being infected by microbial pathogens.
+They serve as attractants for pollinators and seed-dispersing animals and as agents of plant-plant competition.
+13.2.2 Secondary Metabolites Are Divided into Three Major Groups 
+Plant secondary metabolites can be divided into three chemically distinct groups: terpenes, phenolics, and nitrogen-containing compounds. 
+Figure 13.4 shows in simplified form the pathways involved in the biosynthesis of secondary metabolites and their interconnections with primary metabolism.
+13.3 TERPENES
+The terpenes, or terpenoids, constitute the largest class of secondary products. The diverse substances of this class are generally insoluble in water. 
+They are biosynthesized from acetyl-CoA or glycolytic intermediates. 
+After discussing the biosynthesis of terpenes, we'll examine how they act to repel herbivores and how some herbivores circumvent the toxic effects of terpenes.
+13.3.1 Terpenes Are Formed by the Fusion of Five-Carbon Isoprene Units
+All terpenes are derived from the union of five-carbon elements that have the branched carbon skeleton of isopentane:
+The basic structural elements of terpenes are sometimes called isoprene units because terpenes can decompose at high temperatures to give isoprene: Thus all terpenes are occasionally referred to as isoprenoids.
+Terpenes are classified by the number of five-carbon units they contain, although extensive metabolic modifications can sometimes make it difficult to pick out the original five-carbon residues. 
+Ten-carbon terpenes, which contain two C5 units, are called monoterpenes; 15-carbon terpenes (three C5 units) are sesquiterpenes; and 20-carbon terpenes (four C5 units) are diterpenes. 
+Larger terpenes include triterpenes (30 carbons), tetraterpenes (40 carbons), and polyterpenoids ([C5]n carbons, where n > 8).
+13.3.2 There Are Two Pathways for Terpene Biosynthesis 
+Terpenes are biosynthesized from primary metabolites in at least two different ways. In the well-studied mevalonic acid pathway, three molecules of acetyl-CoA are joined together stepwise to form mevalonic acid (Figure 13.5). This key six-carbon intermediate is then pyrophosphorylated, decarboxylated, and dehydrated to yield isopentenyl diphosphate (IPP). IPP is the activated five-carbon building block of terpenes.
+Recently, it was discovered that IPP also can be formed from intermediates of glycolysis or the photosynthetic carbon reduction cycle via a separate set of reactions called the methylerythritol phosphate (MEP) pathway that operates in chloroplasts and other plastids (Lichtenthaler 1999). 
+Although all the details have not yet been elucidated, glyceraldehyde-3-phosphate and two carbon atoms derived from pyruvate appear to combine to generate an intermediate that is eventually converted to IPP.
+13.3.3 Isopentenyl Diphosphate and Its Isomer Combine to Form Larger Terpenes
+Isopentenyl diphosphate and its isomer, dimethylallyl diphosphate (DPP), are the activated five-carbon building blocks of terpene biosynthesis that join together to form larger molecules. 
+First IPP and DPP react to give geranyl diphosphate (GPP), the 10-carbon precursor of nearly all the monoterpenes (see Figure 13.5). 
+GPP can then link to another molecule of IPP to give the 15-carbon compound farnesyl diphosphate (FPP), the precursor of nearly all the sesquiterpenes. 
+Addition of yet another molecule of IPP gives the 20-carbon compound geranylgeranyl diphosphate (GGPP), the precursor of the diterpenes. 
+Finally, FPP and GGPP can dimerize to give the triterpenes (C30) and the tetraterpenes (C40), respectively.
+13.3.4 Some Terpenes Have Roles in Growth and Development 
+Certain terpenes have a well-characterized function in plant growth or development and so can be considered primary rather than secondary metabolites. 
+For example, the gibberellins, an important group of plant hormones, are diterpenes. 
+Sterols are triterpene derivatives that are essential components of cell membranes, which they stabilize by interacting with phospholipids (see Chapter 11). 
+The red, orange, and yellow carotenoids are tetraterpenes that function as accessory pigments in photosynthesis and protect photosynthetic tissues from photooxidation (see Chapter 7). 
+The hormone abscisic acid (see Chapter 23) is a C15 terpene produced by degradation of a carotenoid precursor.
+Long-chain polyterpene alcohols known as dolichols function as carriers of sugars in cell wall and glycoprotein synthesis (see Chapter 15). Terpene-derived side chains, such as the phytol side chain of chlorophyll (see Chapter 7), help anchor certain molecules in membranes. 
+Thus various terpenes have important primary roles in plants. However, the vast majority of the different terpene structures produced by plants are secondary metabolites that are presumed to be involved in defense.
+13.3.5 Terpenes Defend against Herbivores in Many Plants
+Terpenes are toxins and feeding deterrents to many plant-feeding insects and mammals; thus they appear to play important defensive roles in the plant kingdom (Gershenzon and Croteau 1992).
+For example, the monoterpene esters called pyrethroids that occur in the leaves and flowers of Chrysanthemum species show very striking insecticidal activity. 
+Both natural and synthetic pyrethroids are popular ingredients in commercial insecticides because of their low persistence in the environment and their negligible toxicity to mammals.
+In conifers such as pine and fir, monoterpenes accumulate in resin ducts found in the needles, twigs, and trunk. 
+These compounds are toxic to numerous insects, including bark beetles, which are serious pests of conifer species throughout the world. Many conifers respond to bark beetle infestation by producing additional quantities of monoterpenes (Trapp and Croteau 2001).
+Many plants contain mixtures of volatile monoterpenes and sesquiterpenes, called essential oils, that lend a characteristic odor to their foliage. Peppermint, lemon, basil, and sage are examples of plants that contain essential oils. The chief monoterpene constituent of peppermint oil is menthol; that of lemon oil is limonene (Figure 13.6).
+Essential oils have well-known insect repellent properties.

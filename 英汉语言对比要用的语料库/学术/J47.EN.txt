@@ -1,0 +1,83 @@
+Imagine a powerful sovereign who issues commands to his subjects.
+They are under a duty to comply with his wishes.
+The notion of law as a command lies at the heart of classical legal positivism as espoused by its two great protagonists, Jeremy Bentham and John Austin.
+Modern legal positivists adopt a considerably more sophisticated approach to the concept of law, but, like their distinguished predecessors, they deny the relationship proposed by natural law, outlined in the previous chapter, between law and morals.
+The claim of natural lawyers that law consists of a series of propositions derived from nature through a process of reasoning is strongly contested by legal positivists.
+This chapter describes the essential elements of this important legal theory.
+The term ＆positivism＊ derives from the Latin positum, which refers to the law as it is laid down or posited.
+Broadly speaking, the core of legal positivism is the view that the validity of any law can be traced to an objectively verifiable source.
+Put simply, legal positivism, like scientific positivism, rejects the view 每 held by natural lawyers 每 that law exists independently from human enactment.
+As will become clear in this chapter, the early legal positivism of Bentham and Austin found the origin of law in the command of a sovereign.
+H. L. A. Hart looks to a rule of recognition that distinguishes law from other social rules.
+Hans Kelsen identifies a basic norm that validates the constitution.
+Legal positivists also often claim that there is no necessary connection between law and morals, and that the analysis of legal concepts is worth pursuing, and distinct from (though not hostile to) sociological and historical enquiries and critical evaluation.
+The highest common factor among legal positivists is that the law as laid down should be kept separate 每 for the purpose of study and analysis 每 from the law as it ought morally to be.
+In other words, that a clear distinction must be drawn between ＆ought＊ (that which is morally desirable) and ＆is＊ (that which actually exists).
+But it does not follow from this that a legal positivist is indifferent to moral questions.
+Most legal positivists criticize the law and propose means to reform it. This normally involves moral judgements.
+But positivists do share the view that the most effective method of analysing and understanding law involves suspending moral judgement until it is established what it is we are seeking to elucidate.
+Nor do positivists necessarily subscribe to the proposition, often ascribed to them, that unjust or iniquitous laws must be obeyed 每 merely because they are law.
+Indeed, both Austin and Bentham acknowledge that disobedience to evil laws is legitimate if it would promote change for the good.
+In the words of the foremost modern legal positivist H. L. A. Hart:
+[T]he certification of something as legally valid is not conclusive of the question of obedience, ... [H]owever great the aura of majesty or authority which the official system may have, its demands must in the end be submitted to a moral scrutiny
+For Hart, as well as Bentham, this is one of the major virtues of legal positivism.
+Law as commands: Bentham and Austin
+The prodigious writings of Jeremy Bentham (1748每1832) constitute a major contribution to positivist jurisprudence and the systematic analysis of law and the legal system.
+Not only did he seek to expose the shibboleths of his age and construct a comprehensive theory of law, logic, politics, and psychology, founded on the principle of utility, but he essayed for reform of the law on almost every subject.
+His critique of the common law and its theoretical underpinnings are especially ferocious.
+Moved by the spirit of the Enlightenment, Bentham sought to subject the common law to the cold light of reason.
+He attempted to demystify the law, to expose, in his characteristically cutting style, what lay behind its mask. Appeals to natural law were nothing more than ＆private opinion in disguise＊ or ＆the mere opinion of men self-constituted into legislatures＊.
+The indeterminacy of the common law, he argued, is endemic.
+Unwritten law is intrinsically vague and uncertain. It cannot provide a reliable, public standard which can reasonably be expected to guide behaviour.
+The chaos of the common law had to be dealt with systematically.
+For Bentham this lay, quite simply, in codification.
+Legal codes would significantly diminish the power of judges; their task would consist less of interpreting than administering the law.
+It would also remove much of the need for lawyers: the code would be readily comprehensible without the help of legal advisers.
+Unlike the Continental system of law that has long adopted Napoleonic codes based on Roman law, codification in the common law world remains a dream.
+John Austin (1790每1859) published his major work, The Province of Jurisprudence Determined, in 1832, the year of Bentham＊s death.
+As a disciple of Bentham＊s, Austin＊s conception of law is based on the idea of commands or imperatives, though he provides a less elaborate account of what they are.
+Both jurists stress the subjection of persons by the sovereign to his power, but Austin＊s definition is sometimes thought to extend not very much further than the criminal law, with its emphasis on control over behaviour.
+His identification of commands as the hallmark of law leads him to a more restrictive definition of law than is adopted by Bentham who seeks to formulate a single, complete law which sufficiently expresses the legislative will.
+But both share a concern to confine the scope of jurisprudential enquiry to accounting for and explaining the principal features of the law.
+In the case of Austin, however, his map of ＆law properly so called＊ is considerably narrower than Bentham＊s, and embraces two categories: the laws of God and human laws.
+Human laws (i.e. laws set down by men for men) are further divided into positive laws or laws ＆strictly so called＊ (i.e. laws laid down by men as political superiors or in pursuance of legal rights) and laws laid down by men not as political superiors or not in pursuance of legal rights.
+Laws ＆improperly so called＊ are divided into laws by analogy (e.g. laws of fashion, constitutional, and international law) and by metaphor (e.g. the law of gravity). Laws by analogy, together with laws set by men not as political superiors or in pursuance of legal right, are merely ＆positive morality＊.
+It is only positive law that is the proper subject of jurisprudence.
+Bentham is best known as a utilitarian (see Chapter 4) and law reformer.
+But he insisted on the separation between what he called ＆expositorial＊ and ＆censorial＊ jurisprudence.
+The former describes what is, the latter what ought to be.
+Austin was no less categorical in preserving this division, but his analysis is narrower in both its compass and purpose than Bentham＊s.
+Though both adhere to a utilitarian morality, and adopt broadly similar views on the nature and function of jurisprudence and the serious inadequacies of the common law tradition, there are several important differences in their general approach to the subject.
+In particular, Bentham pursues the notion of a single, complete law which adequately expresses the will of the legislature.
+He seeks to show how a single law creates a single offence defined by its being the narrowest species of that kind of offence recognized by the law.
+Austin, on the other hand, builds his scheme of a legal system on the classification of rights; he is not troubled by a search for a ＆complete＊ law.
+Also, in his pursuit to provide a plan of a comprehensive body of laws and the elements of the ＆art of legislation＊, Bentham expounds a complex ＆logic of the will＊. Austin seeks to construct a science of law rather than engage himself in Bentham＊s art of legislation.
+And while Bentham sought to devise means by which arbitrary power, especially of judges, might be checked, Austin was less anxious about these matters.
+The central feature of Austin＊s map of the province of jurisprudence is the notion of law as a command of the sovereign.
+Anything that is not a command is not law.
+Only general commands count as law. And only commands emanating from the sovereign are ＆positive laws＊.
+Austin＊s insistence on law as commands requires him to exclude customary, constitutional, and public international law from the field of jurisprudence. This is because no specific sovereign can be identified as the author of their rules.
+Thus, in the case of public international law, sovereign states are notoriously at liberty to disregard its requirements.
+For Bentham, however, commands are merely one of four methods by which the sovereign enacts law.
+He distinguishes between laws which command or prohibit certain conduct (imperative laws) and those which permit certain conduct (permissive laws).
+He argues that all laws are both penal and civil; even in the case of title to property there is a penal element.
+Bentham seeks to show that laws which impose no obligations or sanctions (what he calls ＆civil laws＊) are not ＆complete laws＊, but merely parts of laws.
+And, since his principal objective was the creation of a code of law, he argued that the penal and civil branches should be formulated separately.
+The relationship between commands and sanctions is no less important for Austin.
+Indeed, his very concept of a command includes the probability that a sanction will follow failure to obey the command.
+But what is a sanction?
+Austin defines it as some harm, pain, or evil that is conditional upon the failure of a person to comply with the wishes of the sovereign.
+There must be a realistic probability that it will be inflicted upon anyone who infringes a command.
+There need only be the threat of the possibility of a minimal harm, pain, or evil, but unless a sanction is likely to follow, the mere expression of a wish is not a command.
+Obligations are therefore defined in terms of sanctions: this is a central tenet of Austin＊s imperative theory.
+The likelihood of a sanction is always uncertain, but Austin is driven to the rather unsatisfactory position that a sanction consists of ＆the smallest chance of incurring the smallest evil＊.
+The idea of a sovereign issuing commands pervades the theories of both Bentham and Austin.
+It is important to note that both regard the sovereign＊s power as constituted by the habit of the people generally obeying his laws.
+But while Austin insists on the illimitability and indivisibility of the sovereign, Bentham, alive to the institution of federalism, acknowledges that the supreme legislative power may be both limited and divided by what he calls an express convention.
+For Austin, to the four features of a command (wish, sanction, expression of a wish, and generality) is to be added a fifth, namely an identifiable political superior 每 or sovereign 每 whose commands are obeyed by political inferiors and who owes obedience to no one.
+This insistence on an omnipotent lawgiver distorts those legal systems which impose constitutional restrictions on the legislative competence of the legislature or which divide such power between a central federal legislature and lawmaking bodies of constituent states or provinces (such as in the United States, Canada or Australia).
+Bentham, on the other hand, acknowledges that sovereignty may be limited or divided, and accepts (albeit reluctantly) the possibility of judicial review of legislative action.
+Austin＊s contention that ＆laws properly so called＊ be confined to the commands of a sovereign leads him to base his idea of sovereignty on the habit of obedience adopted by members of society.
+The sovereign must, moreover, be determinate (i.e. the composition of the sovereign body must be unambiguous), for ＆no indeterminate sovereign can command expressly or tacitly, or can receive obedience or submission＊.
+And this results in Austin famously refusing to accept as ＆law＊ public international law, customary law, and a good deal of constitutional law.
+Moreover, by insisting that the sanction is an indispensable ingredient in the definition of law, Austin is driven to defining duty in terms of sanction: if the sovereign expresses a wish and has the power to inflict an evil (or sanction) then a person is under a duty to act in accordance with that wish.

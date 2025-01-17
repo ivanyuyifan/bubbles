@@ -1,0 +1,92 @@
+2 Mathematical Modeling of Control Systems
+2.1 INTRODUCTION
+In studying control systems the reader must be able to model dynamic systems in mathematical terms and analyze their dynamic characteristics. 
+A mathematical model of a dynamic system is defined as a set of equations that represents the dynamics of the system accurately, or at least fairly well. 
+Note that a mathematical model is not unique to a given system. A system may be represented in many different ways and, therefore, may have many mathematical models, depending on one¡¯s perspective.
+The dynamics of many systems, whether they are mechanical, electrical, thermal, economic, biological, and so on, may be described in terms of differential equations. 
+Such differential equations may be obtained by using physical laws governing a particular system--for example, Newton¡¯s laws for mechanical systems and Kirchhoff¡¯s laws for electrical systems. 
+We must always keep in mind that deriving reasonable mathematical models is the most important part of the entire analysis of control systems.
+Throughout this book we assume that the principle of causality applies to the systems considered. 
+This means that the current output of the system (the output at time t=0) depends on the past input (the input for t<0) but does not depend on the future input (the input for t>0).
+Mathematical Models. 
+Mathematical models may assume many different forms. 
+Depending on the particular system and the particular circumstances, one mathematical model may be better suited than other models. 
+For example, in optimal control problems, it is advantageous to use state-space representations. 
+On the other hand, for the transient-response or frequency-response analysis of single-input, single-output, linear, time-invariant systems, the transfer-function representation may be more convenient than any other. 
+Once a mathematical model of a system is obtained, various analytical and computer tools can be used for analysis and synthesis purposes.
+Simplicity Versus Accuracy. 
+In obtaining a mathematical model, we must make a compromise between the simplicity of the model and the accuracy of the results of the analysis. 
+In deriving a reasonably simplified mathematical model, we frequently find it necessary to ignore certain inherent physical properties of the system. 
+In particular, if a linear lumped-parameter mathematical model (that is, one employing ordinary differential equations) is desired, it is always necessary to ignore certain nonlinearities and distributed parameters that may be present in the physical system. 
+If the effects that these ignored properties have on the response are small, good agreement will be obtained between the results of the analysis of a mathematical model and the results of the experimental study of the physical system.
+In general, in solving a new problem, it is desirable to build a simplified model so that we can get a general feeling for the solution. 
+A more complete mathematical model may then be built and used for a more accurate analysis.
+We must be well aware that a linear lumped-parameter model, which may be valid in low-frequency operations, may not be valid at sufficiently high frequencies, since the neglected property of distributed parameters may become an important factor in the dynamic behavior of the system. 
+For example, the mass of a spring may be neglected in low-frequency operations, but it becomes an important property of the system at high frequencies. 
+(For the case where a mathematical model involves considerable errors, robust control theory may be applied. 
+Robust control theory is presented in Chapter 10.)
+Linear Systems. 
+A system is called linear if the principle of superposition applies. 
+The principle of superposition states that the response produced by the simultaneous application of two different forcing functions is the sum of the two individual responses. 
+Hence, for the linear system, the response to several inputs can be calculated by treating one input at a time and adding the results. 
+It is this principle that allows one to build up complicated solutions to the linear differential equation from simple solutions.
+In an experimental investigation of a dynamic system, if cause and effect are proportional, thus implying that the principle of superposition holds, then the system can be considered linear.
+Linear Time-Invariant Systems and Linear Time-Varying Systems. 
+A differential equation is linear if the coefficients are constants or functions only of the independent variable. 
+Dynamic systems that are composed of linear time-invariant lumped-parameter components may be described by linear time-invariant differential equations--that is, constant-coefficient differential equations. Such systems are called linear time-invariant (or linear constant-coefficient) systems. 
+Systems that are represented by differential equations whose coefficients are functions of time are called linear time-varying systems. 
+An example of a time-varying control system is a spacecraft control system. (The mass of a spacecraft changes due to fuel consumption.)
+In control theory, functions called transfer functions are commonly used to characterize the input-output relationships of components or systems that can be described by linear, time-invariant, differential equations. 
+We begin by defining the transfer function and follow with a derivation of the transfer function of a differential equation system. Then we discuss the impulse-response function.
+2.2.1 Transfer Function. 
+The transfer function of a linear, time-invariant, differential equation system is defined as the ratio of the Laplace transform of the output (response function) to the Laplace transform of the input (driving function) under the assumption that all initial conditions are zero.
+Consider the linear time-invariant system defined by the following differential equation: . . . where y is the output of the system and x is the input. 
+The transfer function of this system is the ratio of the Laplace transformed output to the Laplace transformed input when all initial conditions are zero, or . . .
+By using the concept of transfer function, it is possible to represent system dynamics by algebraic equations in s. 
+If the highest power of s in the denominator of the transfer function is equal to n, the system is called an nth-order system.
+2.2.2 Comments on Transfer Function. 
+The applicability of the concept of the transfer function is limited to linear, time-invariant, differential equation systems. 
+The transfer function approach, however, is extensively used in the analysis and design of such systems. 
+In what follows, we shall list important comments concerning the transfer function. (Note that a system referred to in the list is one described by a linear, time-invariant, differential equation.)
+1.The transfer function of a system is a mathematical model in that it is an operational method of expressing the differential equation that relates the output variable to the input variable.
+2. The transfer function is a property of a system itself, independent of the magnitude and nature of the input or driving function.
+3. The transfer function includes the units necessary to relate the input to the output; however, it does not provide any information concerning the physical structure of the system. (The transfer functions of many physically different systems can be identical.)
+4. If the transfer function of a system is known, the output or response can be studied for various forms of inputs with a view toward understanding the nature of the system.
+5. If the transfer function of a system is unknown, it may be established experimentally by introducing known inputs and studying the output of the system. 
+Once established, a transfer function gives a full description of the dynamic characteristics of the system, as distinct from its physical description.
+2.2.3 Convolution Integral. 
+For a linear, time-invariant system the transfer function G(s) is . . . where X(s) is the Laplace transform of the input to the system and Y(s) is the Laplace transform of the output of the system, where we assume that all initial conditions involved are zero. 
+It follows that the output Y(s) can be written as the product of G(s) and X(s), or . . .
+Note that multiplication in the complex domain is equivalent to convolution in the time domain (see Appendix A), so the inverse Laplace transform of Equation (2-1) is given by the following convolution integral: . . . where both g(t) and x(t) are 0 for t<0.
+2.2.4 Impulse-Response Function. 
+Consider the output (response) of a linear time-invariant system to a unit-impulse input when the initial conditions are zero. 
+Since the Laplace transform of the unit-impulse function is unity, the Laplace transform of the output of the system is . . .
+The inverse Laplace transform of the output given by Equation (2.2) gives the impulse response of the system.
+The inverse Laplace transform of G(s), or . . . is called the impulse-response function. This function g(t) is also called the weighting function of the system.
+The impulse-response function g(t) is thus the response of a linear time-invariant system to a unit-impulse input when the initial conditions are zero. The Laplace transform of this function gives the transfer function. 
+Therefore, the transfer function and impulse-response function of a linear, time-invariant system contain the same information about the system dynamics. 
+It is hence possible to obtain complete information about the dynamic characteristics of the system by exciting it with an impulse input and measuring the response. 
+(In practice, a pulse input with a very short duration compared with the significant time constants of the system can be considered an impulse.)
+2.3 AUTOMATIC CONTROL SYSTEMS
+A control system may consist of a number of components. 
+To show the functions performed by each component, in control engineering, we commonly use a diagram called the block diagram. 
+This section first explains what a block diagram is. Next, it discusses introductory aspects of automatic control systems, including various control actions. 
+Then, it presents a method for obtaining block diagrams for physical systems, and, finally, discusses techniques to simplify such diagrams.
+2.3.1 Block Diagrams. 
+A block diagram of a system is a pictorial representation of the functions performed by each component and of the flow of signals. Such a diagram depicts the interrelationships that exist among the various components. 
+Differing from a purely abstract mathematical representation, a block diagram has the advantage of indicating more realistically the signal flows of the actual system.
+In a block diagram all system variables are linked to each other through functional blocks. 
+The functional block or simply block is a symbol for the mathematical operation on the input signal to the block that produces the output. 
+The transfer functions of the components are usually entered in the corresponding blocks, which are connected by arrows to indicate the direction of the flow of signals. 
+Note that the signal can pass only in the direction of the arrows. 
+Thus a block diagram of a control system explicitly shows a unilateral property.
+Figure 2-1 shows an element of the block diagram. 
+The arrowhead pointing toward the block indicates the input, and the arrowhead leading away from the block represents the output. 
+Such arrows are referred to as signals.
+Note that the dimension of the output signal from the block is the dimension of the input signal multiplied by the dimension of the transfer function in the block.
+The advantages of the block diagram representation of a system are that it is easy to form the overall block diagram for the entire system by merely connecting the blocks of the components according to the signal flow and that it is possible to evaluate the contribution of each component to the overall performance of the system.
+In general, the functional operation of the system can be visualized more readily by examining the block diagram than by examining the physical system itself. 
+A block diagram contains information concerning dynamic behavior, but it does not include any information on the physical construction of the system. 
+Consequently, many dissimilar and unrelated systems can be represented by the same block diagram.
+It should be noted that in a block diagram the main source of energy is not explicitly shown and that the block diagram of a given system is not unique. 
+A number of different block diagrams can be drawn for a system, depending on the point of view of the analysis.

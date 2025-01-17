@@ -1,0 +1,86 @@
+Chapter 16 Biology of obesity 
+In a world where food supplies are intermittent, the ability to store energy in excess of what is required for immediate use is essential for survival. 
+Fat cells, residing within widely distributed adipose tissue depots, are adapted to store excess energy efficiently as triglyceride and, when needed, to release stored energy as free fatty acids for use at other sites. 
+This physiologic system, orchestrated through endocrine and neural pathways, permits humans to survive starvation for as long as several months. 
+However, in the presence of nutritional abundance and a sedentary lifestyle, and influenced importantly by genetic endowment, this system increases adipose energy stores and produces adverse health consequences.
+DEFINITION AND MEASUREMENT
+Obesity is a state of excess adipose tissue mass. Although often viewed as equivalent to increased body weight, this need not be the case¡ªlean but very muscular individuals may be overweight by numerical standards without having increased adiposity. 
+Body weights are distributed continuously in populations, so that choice of a medically meaningful distinction between lean and obese is somewhat arbitrary. 
+Obesity is therefore more effectively defined by assessing its linkage to morbidity or mortality.
+Although not a direct measure of adiposity, the most widely used method to gauge obesity is the body mass index (BMI), which is equal to weight/height 2 (in kg/m 2 ) ( Fig. 16-1 ) . Other approaches to quantifying obesity include anthropometry (skinfold thickness), densitometry (underwater weighing), CT or MRI, and electrical impedance. 
+Using data from the Metropolitan Life Tables, BMIs for the midpoint of all heights and frames among both men and women range from 19 to 26 kg/m 2 ; at a similar BMI, women have more body fat than men. 
+Based on data of substantial morbidity, a BMI of 30 is most commonly used as a threshold for obesity in both men and women. 
+Large-scale epidemiologic studies suggest that all-cause, metabolic, cancer, and cardiovascular morbidity begin to rise (albeit at a slow rate) when BMIs are ¡Ý25, suggesting that the cutoff for obesity should be lowered. 
+Most authorities use the term overweight (rather than obese) to describe individuals with BMIs between 25 and 30. 
+A BMI between 25 and 30 should be viewed as medically significant and worthy of therapeutic intervention, especially in the presence of risk factors that are influenced by adiposity such as hypertension and glucose intolerance.
+The distribution of adipose tissue in different anatomic depots also has substantial implications for morbidity. 
+Specifically, intraabdominal and abdominal subcutaneous fat have more significance than subcutaneous fat present in the buttocks and lower extremities. 
+This distinction is most easily made clinically by determining the waist-to-hip ratio, with a ratio &gt;0.9 in women and &gt;1.0 in men being abnormal. 
+Many of the most important complications of obesity such as insulin resistance, diabetes, hypertension, hyperlipidemia, and hyperandrogenism in women, are linked more strongly to intraabdominal and/or upper body fat than to overall adiposity ( Chap. 18 ) . 
+The mechanism underlying this association is unknown but may relate to the fact that intraabdominal adipocytes are more lipolytically active than those from other depots. 
+Release of free fatty acids into the portal circulation has adverse metabolic actions, especially on the liver. 
+Whether adipokines and cytokines secreted by visceral adipocytes play an additional role in systemic complications of obesity is an area of active investigation.
+PREVALENCE
+Data from the National Health and Nutrition Examination Surveys (NHANES) show that the percentage of the American adult population with obesity (BMI &gt;30) has increased from 14.5% (between 1976 and 1980) to 33.9% (between 2007 and 2008). 
+As many as 68% of U.S. adults aged ¡Ý20 years were overweight (defined as BMI &gt;25) between the years of 2007 and 2008. Extreme obesity (BMI ¡Ý40) has also increased and affects 5.7% of the population.
+The increasing prevalence of medically significant obesity raises great concern. 
+Obesity is more common among women and in the poor, and among blacks and Hispanics; the prevalence in children is also rising at a worrisome rate.
+PHYSIOLOGIC REGULATION OF ENERGY BALANCE
+Substantial evidence suggests that body weight is regulated by both endocrine and neural components that ultimately influence the effector arms of energy intake and expenditure. 
+This complex regulatory system is necessary because even small imbalances between energy intake and expenditure will ultimately have large effects on body weight. 
+For example, a 0.3% positive imbalance over 30 years would result in a 9-kg (20-lb) weight gain. 
+This exquisite regulation of energy balance cannot be monitored easily by calorie-counting in relation to physical activity. 
+Rather, body weight regulation or dysregulation depends on a complex interplay of hormonal and neural signals. 
+Alterations in stable weight by forced overfeeding or food deprivation induce physiologic changes that resist these perturbations: with weight loss, appetite increases and energy expenditure falls; with overfeeding, appetite falls and energy expenditure increases. 
+This latter compensatory mechanism frequently fails, however, permitting obesity to develop when food is abundant and physical activity is limited. 
+A major regulator of these adaptive responses is the adipocyte-derived hormone leptin, which acts through brain circuits (predominantly in the hypothalamus) to influence appetite, energy expenditure, and neuroendocrine function (see below).
+Appetite is influenced by many factors that are integrated by the brain, most importantly within the hypothalamus (Fig. 16-2). 
+Signals that impinge on the hypothalamic center include neural afferents, hormones, and metabolites. Vagal inputs are particularly important, bringing information from viscera, such as gut distention. 
+Hormonal signals include leptin, insulin, cortisol, and gut peptides. 
+Among the latter is ghrelin, which is made in the stomach and stimulates feeding, and peptide YY (PYY) and cholecystokinin, which is made in the small intestine and signal to the brain through direct action on hypothalamic control centers and/or via the vagus nerve. 
+Metabolites, including glucose, can influence appetite, as seen by the effect of hypoglycemia to induce hunger; however, glucose is not normally a major regulator of appetite. 
+These diverse hormonal, metabolic, and neural signals act by influencing the expression and release of various hypothalamic peptides [e.g., neuropeptide Y (NPY), Agouti-related peptide (AgRP), . . .-melanocyte-stimulating hormone (. . .-MSH), and melanin-concentrating hormone (MCH)] that are integrated with serotonergic, catecholaminergic, endocannabinoid, and opioid signaling pathways (see below). 
+Psychological and cultural factors also play a role in the final expression of appetite. 
+Apart from rare genetic syndromes involving leptin, its receptor, and the melanocortin system, specific defects in this complex appetite control network that influence common cases of obesity are not well defined.
+Energy expenditure includes the following components: (1) resting or basal metabolic rate; (2) the energy cost of metabolizing and storing food; (3) the thermic effect of exercise; and (4) adaptive thermogenesis, which varies in response to long-term caloric intake (rising with increased intake). 
+Basal metabolic rate accounts for ?70% of daily energy expenditure, whereas active physical activity contributes 5¨C10%. 
+Thus, a significant component of daily energy consumption is fixed.
+Genetic models in mice indicate that mutations in certain genes (e.g., targeted deletion of the insulin receptor in adipose tissue) protect against obesity, apparently by increasing energy expenditure. 
+Adaptive thermogenesis occurs in brown adipose tissue (BAT), which plays an important role in energy metabolism in many mammals. 
+In contrast to white adipose tissue, which is used to store energy in the form of lipids, BAT expends stored energy as heat. 
+A mitochondrial uncoupling protein (UCP-1) in BAT dissipates the hydrogen ion gradient in the oxidative respiration chain and releases energy as heat. 
+The metabolic activity of BAT is increased by a central action of leptin, acting through the sympathetic nervous system that heavily innervates this tissue. 
+In rodents, BAT deficiency causes obesity and diabetes; stimulation of BAT with a specific adrenergic agonist (. . .3 agonist) protects against diabetes and obesity. 
+BAT exists in humans (especially neonates), and although its physiologic role is not yet established, identification of functional BAT in many adults using PET imaging has increased interest in the implications of the tissue for pathogenesis and therapy of obesity.
+THE ADIPOCYTE AND ADIPOSE TISSUE
+Adipose tissue is composed of the lipid-storing adipose cell and a stromal/vascular compartment in which cells including preadipocytes and macrophages reside. 
+Adipose mass increases by enlargement of adipose cells through lipid deposition, as well as by an increase in the number of adipocytes. 
+Obese adipose tissue is also characterized by increased numbers of infiltrating macrophages. 
+The process by which adipose cells are derived from a mesenchymal preadipocyte involves an orchestrated series of differentiation steps mediated by a cascade of specific transcription factors. 
+One of the key transcription factors is peroxisome proliferator-activated receptor . . . (PPAR. . .), a nuclear receptor that binds the thiazolidinedione class of insulin-sensitizing drugs used in the treatment of type 2 diabetes (Chap. 19).
+Although the adipocyte has generally been regarded as a storage depot for fat, it is also an endocrine cell that releases numerous molecules in a regulated fashion (Fig. 16-3). 
+These include the energy balance¨Cregulating hormone leptin, cytokines such as tumor necrosis factor (TNF)-. . . and interleukin (IL)-6, complement factors such as factor D (also known as adipsin), prothrombotic agents such as plasminogen activator inhibitor I, and a component of the blood pressure¨Cregulating system, angiotensinogen. 
+Adiponectin, an abundant adipose-derived protein whose levels are reduced in obesity, enhances insulin sensitivity and lipid oxidation and it has vascular-protective effects, whereas resistin and retinal binding protein 4 (RBP4), whose levels are increased in obesity, may induce insulin resistance. 
+These factors, and others not yet identified, play a role in the physiology of lipid homeostasis, insulin sensitivity, blood pressure control, coagulation, and vascular health, and are likely to contribute to obesity-related pathologies.
+ETIOLOGY OF OBESITY
+Although the molecular pathways regulating energy balance are beginning to be illuminated, the causes of obesity remain elusive. 
+In part, this reflects the fact that obesity is a heterogeneous group of disorders. 
+At one level, the pathophysiology of obesity seems simple: a chronic excess of nutrient intake relative to the level of energy expenditure. 
+However, due to the complexity of the neuroendocrine and metabolic systems that regulate energy intake, storage, and expenditure, it has been difficult to quantitate all the relevant parameters (e.g., food intake and energy expenditure) over time in human subjects.
+Role of genes versus environment 
+Obesity is commonly seen in families, and the heritability of body weight is similar to that for height. 
+Inheritance is usually not Mendelian, however, and it is difficult to distinguish the role of genes and environmental factors. 
+Adoptees more closely resemble their biologic than adoptive parents with respect to obesity, providing strong support for genetic influences. 
+Likewise, identical twins have very similar BMIs whether reared together or apart, and their BMIs are much more strongly correlated than those of dizygotic twins. 
+These genetic effects appear to relate to both energy intake and expenditure.
+Whatever the role of genes, it is clear that the environment plays a key role in obesity, as evidenced by the fact that famine prevents obesity in even the most obesity-prone individual. 
+In addition, the recent increase in the prevalence of obesity in the United States is far too rapid to be due to changes in the gene pool. 
+Undoubtedly, genes influence the susceptibility to obesity in response to specific diets and availability of nutrition. 
+Cultural factors are also important¡ªthese relate to both availability and composition of the diet and to changes in the level of physical activity. 
+In industrial societies, obesity is more common among poor women, whereas in underdeveloped countries, wealthier women are more often obese. 
+In children, obesity correlates to some degree with time spent watching television. 
+Although the role of diet composition in obesity continues to generate controversy, it appears that high-fat diets may promote obesity when combined with diets rich in simple, rapidly absorbed carbohydrates.
+Additional environmental factors may contribute to the increasing obesity prevalence. 
+Both epidemiologic correlations and experimental data suggest that sleep deprivation leads to increased obesity. 
+Changes in gut microbiome with capacity to alter energy balance are receiving experimental support from animal studies, 
+and a possible role for obesigenic viral infections continues to receive sporadic attention.

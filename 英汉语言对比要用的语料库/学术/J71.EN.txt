@@ -1,0 +1,99 @@
+Nappe pressures on gravity dam spillways
+Abstract
+When concrete gravity spillways are required to pass flood flows in excess of their design discharges, the hydrodynamic forces produced by the overflowing nappe can have a large impact on structural stability. 
+This paper discusses a technique for approximating the nappe pressures on spillways of arbitrary shape and determining the effect of these pressures on structural stability.
+1 Introduction
+The stability of a gravity dam is determined by the applied forces. 
+The dam's weight and the hydrostatic forces are easily determined. 
+Typically, the force exerted on the dam by the water overflowing it (the nappe force) is usually not large and can be neglected in considering stability. 
+However, when gravity spillways pass flood flows in excess of their design discharges, the hydrodynamic force produced by the overflowing nappe becomes more significant with respect to the other forces applied to the dam, and may have a large impact on the structural stability.
+This fact is well understood and dam design and regulating entities such as the Corps of Engineers and the Federal Energy Regulatory Commission (FERC) have addressed the phenomenon. 
+These agencies specify that when considering the stability of a gravity dam spillway, the tailwater height should be assumed to be 60% of the actual tailwater height to account for hydrodynamic effects when flow conditions result in a significant hydraulic jump.
+The FERC deals with the evaluation of the stability of existing dams, and since most of these dams were not designed to pass the probable maximum flood (PMF), the FERC has found it necessary to undertake a more rigorous determination of the effects of crest pressures and spillway bucket pressures. 
+The current practice of reducing tailwater to 60% of its height for analysis purposes is rather arbitrary. 
+When the tailwater depth is significant with respect to the height of the dam, errors introduced by the 60% assumption can have large effects on dam stability.
+2. Determination of Pressures
+Accurate determination of the nappe pressure requires that flow depth and velocity be known at every point on the surface of the spillway. 
+This problem is very difficult to solve rigorously. 
+The solution that this paper presents relies on the following simplifying assumptions:
+Streamlines are concentric and parallel to the spillway surface and to each other;
+The curvature of the stream lines changes gradually with respect to distance along the streamline;
+Flow is irrotational;
+Energy is not dissipated by friction or aeration.
+As can be seen in Figure 1, every point in the water jet has an associated pressure and velocity. 
+The pressure is a function of the depth beneath the free surface, S, the radius of curvature of the streamline, Rs and the velocity Vs. 
+The pressure at any point S is given by:
+Where p = mass density of water, g = gravitational acceleration, Pt = pressure at S below the free surface, g = integration variable.
+The pressure can be expressed in terms of head as follows: 
+The first term in Equation 1 is the hydrostatic head. The second term is the pressure due to centrifugal force caused as the streamline curves about a radius R. 
+The second term may be positive or negative depending on the sign of the radius. 
+Figure 1 depicts the positive sign convention of the radius. This is the type of curvature present in a flip bucket. 
+For the case of crest pressure, the radius would be negative and the second term would diminish the pressure head with respect to increasing depth.
+Energy is assumed to be constant with respect to S; therefore, assuming irrotational flow, we can write the following equation:
+Where E = total energy, Y = the elevation of the spillway surface at the point in question, A = the depth of flow measured perpendicular to the mean streamline direction. 
+Equation 2 can be differentiated with respect to S, resulting in: 
+This differential equation has the following solution: 
+Where R is now the radius of curvature of the dam surface and (R-A+S) is the radius of curvature of the streamline.
+The resulting velocity distribution is then:
+Verification of the assumption of irrotational flow
+Since Equation 2 assumes irrotational flow, it should be shown that the flow field described by Equation 3 is truly irrotational. 
+In other words, the change in the radial component of velocity, VR with respect to distance along the stream line is equal the change in the tangential component of velocity, VT with respect to distance perpendicular to the streamline.
+Since streamlines were assumed to be concentric, Vr is zero. 
+However there is a radial acceleration equal to the velocity squared divided by the radius of the streamline, which implies that:
+VT is equal to VS, therefore:  
+so it can be seen that the velocity field is irrotational.
+Constraining the velocity field by the unit discharge
+Since the radius of curvature is the inverse of the curvature k. Equation 3 can be rewritten as follows: 
+At any point on the spillway, the total unit discharge q must be constant. 
+Equation 3 can be integrated with respect to S between 0 and A to yield the following equation for q, the unit discharge:
+Integrating this equation results in the following: 
+Equation 4 can be derived using intrinsic co-ordinates and the momentum equations for two dimensional flow, as is done in the US Bureau of Reclamation's Engineering Monograph 42, The author prefers the more intuitive derivation presented above.
+Equation 4 can be solved for A. 
+In this manner the depth of flow, velocity, and pressure head can be determined at every point on the spillway as a function of q, the unit discharge, and k, the spillway surface curvature. 
+In addition, this equation can be differentiated with respect to A and set equal to 0. 
+The solution to this equation gives critical depth at the section in question in terms of the energy, elevation and spillway curvature. 
+Thus the weir coefficient for the spillway at a given surcharge can be calculated directly.
+3 Limitations
+Non-parallel stream lines
+All equations presented above were derived assuming that the streamlines of the nappe were parallel to the surface of the dam. 
+This is not a bad assumption downstream of the crest. 
+Upstream of the crest, the streamlines are clearly not parallel to the spillway surface, or to each other, therefore a different assumption must be made. 
+In Figure 4, the variation of assumed streamline direction can be seen. 
+Downstream of the crest, all streamlines are assumed to be parallel to the dam surface. 
+Upstream of the crest, all streamlines are assumed to be perpendicular to a line that bisects the angle between the outward directed normal to the spillway surface and to the vertical. This assumption can cause some error.
+Sudden curvature changes
+In order to get meaningful results out of this technique, the curvature change from point to point must be gradual. 
+This is difficult to accomplish upstream of the crest of most spillway sections because typically, the surface changes from a vertical upstream face, which has an infinite radius of curvature, to an elliptical crest with a small radius of curvature. This transition usually happens instantaneously. 
+Since Equation 4 can be solved at any point on the dam without reference to other points, the water surface and pressure profiles can also have sudden changes as a result of sudden curvature changes. Figure 5 illustrates this problem. 
+The water surface profile calculated with abrupt curvature changes exhibits unrealistic dips and surges. 
+This problem can be overcome by taking into account the fact that while the curvature of the stream lines close to the dam surface may change very quickly, those further away from the dam surface will tend to smooth these curvature changes over. 
+This smoothing over can be approximated by curvature averaging. 
+The results presented in this article are based on curvature averaged between three points as follows:
+Turbulent flow and air entrainment
+The solution presented here ignores the fact that as the nappe falls along the surface of the spillway, it becomes air entrained. 
+Also some of the energy is converted to turbulence rather than to increasing velocity. 
+However, the greater the depth of flow, the less air entrainment and turbulent boundary layer considerations matter.
+4 Resulting hydrodynamic forces
+The net horizontal force Fx on a spillway section can be calculated without knowing anything about the nappe profile or spillway pressure distribution. 
+The net horizontal force is give by Equation 5.
+Where y = unit weight of water, DH = depth of headwater a large distance upstream of the dam, DT = depth of tailwater a large distance downstream of the dam 
+Unfortunately, Equation 5 yields no information about the location of the net horizontal force. 
+Both the magnitude and location of Fx and Fy, the net vertical force, can be determined with the help of the values from Table 1 since the pressure distribution is completely defined. 
+The results of this process are as follows:
+Fx = 1423.3 kN/m, at Y = 6.57m from dam base.
+FY = 414.0kN/m, at X= 13.28m from dam crest axis.
+Note that Fx obtained by this method is within 0.3% of the value obtained using Equation 5.
+5 Effect of nappe pressures on spillway stability
+To determine the effect of nappe pressures on spillway stability, the section in Figure 2 was analysed for stability using the Corps of Engineers and FERC recommended 60% tailwater reduction, and compared with results of stability analyses including hydrodynamic nappe forces (see Figure 6). The results are shown in Figures 7 and 8.
+Hydrostatic analysis was done using standard FERC Engineering Guidelines [2] methodology. 
+Note that the difference between the two methods increases as the discharge increases. 
+When the spillway is passing design discharge at design head, the two methods begin to diverge significantly. 
+The fact that more friction is required using the standard hydrostatic analysis indicates that the standard hydrostatic method is over-conservative in this case.
+There is even more difference in the amount of base cracking predicted by the two methods, as can be seen in Figure 8. Again the hydrostatic method proves to be over-conservative in this example. 
+The hydrostatic method predicts that base cracking will occur at lower reservoir elevations, and will progress faster with respect to increasing head.
+Conclusion
+The standard practice of ignoring crest and bucket pressures and downgrading the tailwater height by a factor of 0.6 can introduce significant error. 
+In situations where a spillway section is being surcharged above the design head of the section, hydrodynamic effects should be considered in the stability analysis. 
+The standard hydrostatic approach which is typically used in current practice, and which is currently in the FERC Engineering Guidelines [2] begins to produce significant errors as the discharge surpasses the design discharge. 
+In this example, the error was on the conservative side. 
+However, this may not be the case in all situations.

@@ -1,0 +1,115 @@
+Exploratory factor analysis
+The goal of EFA is to explain the correlations among a set of observed variables by uncovering a smaller set of more fundamental unobserved variables underlying the data. 
+These hypothetical, unobserved variables are called factors. 
+(Each factor is assumed to explain the variance shared among two or more observed variables, so technically, they are called common factors.)
+The model can be represented as
+where Xi is the ith observed variable (i = 1...k), Fj are the common factors (j=1...p), and p&lt;k. Ui is the portion of variable Xi unique to that variable (not explained by the common factors). 
+The ai can be thought of as the degree to which each factor contributes to the composition of an observed variable. 
+If we go back to the Harman74.cor example at the beginning of this chapter, we¡¯d say that an individual¡¯s scores on each of the 24 observed psychological tests is due to a weighted combination of their ability on four underlying psychological constructs.
+Although the PCA and EFA models differ, many of the steps will appear similar. 
+To illustrate the process, we¡¯ll apply EFA to the correlations among six psychological tests. 
+One hundred twelve individuals were given six tests, including a nonverbal measure of general intelligence (general), a picture-completion test (picture), a block design test (blocks), a maze test (maze), a reading comprehension test (reading), and a vocabulary test (vocab). 
+Can we explain the participants¡¯ scores on these tests with a smaller number of underlying or latent psychological constructs?
+The covariance matrix among the variables is provided in the dataset ability.cov. You can transform this into a correlation matrix using the cov2cor() function. 
+There are no missing data present.
+Because you¡¯re looking for hypothetical constructs that explain the data, you¡¯ll use an EFA approach. 
+As in PCA, the next task is to decide how many factors to extract.
+Deciding how many common factors to extract
+To decide on the number of factors to extract, turn to the fa.parallel() function: 
+The resulting plot is shown in figure 14.4. 
+Notice you¡¯ve requested that the function display results for both a principal components and common factor approach, so that you can compare them (fa="both").
+There are several things to notice in this graph. 
+If you¡¯d taken a PCA approach, you might have chosen one component (scree test, parallel analysis) or two components (eigenvalues greater than 1). 
+When in doubt, it¡¯s usually a better idea to overfactor than to underfactor. Overfactoring tends to lead to less distortion of the ¡°true¡± solution.
+Looking at the EFA results, a two-factor solution is clearly indicated. 
+The first two eigenvalues (triangles) are above the bend in the scree test and also above the mean eigenvalues based on 100 simulated data matrices. 
+For EFA, the Kaiser¨CHarris criterion is number of eigenvalues above 0, rather than 1. 
+(Most people don¡¯t realize this, so it¡¯s a good way to win bets at parties.) 
+In the present case the Kaiser¨CHarris criteria also suggest two factors.
+Extracting common factors
+Now that you¡¯ve decided to extract two factors, you can use the fa() function to obtain your solution. 
+The format of the fa() function is
+where r is a correlation matrix or a raw data matrix
+nfactors specifies the number of factors to extract (1 by default)
+n.obs is the number of observations (if a correlation matrix is input) 
+rotate indicates the rotation to be applied (oblimin by default) 
+scores specifies whether or not to calculate factor scores (false by default) 
+fm specifies the factoring method (minres by default) 
+Unlike PCA, there are many methods of extracting common factors. They include maximum likelihood (ml), iterated principal axis (pa), weighted least square (wls), generalized weighted least squares (gls), and minimum residual (minres). 
+Statisticians tend to prefer the maximum likelihood approach because of its well-defined statistical model. 
+Sometimes, this approach fails to converge, in which case the iterated principal axis option often works well. 
+To learn more about the different approaches, see Mulaik (2009) and Gorsuch (1983).
+For this example, you¡¯ll extract the unrotated factors using the iterated principal axis (fm="pa") approach. 
+The results are given in the next listing.
+You can see that the two factors account for 60 percent of the variance in the six psychological tests. 
+When you examine the loadings, though, they aren¡¯t easy to interpret. Rotating them should help.
+Rotating factors
+You can rotate the two-factor solution from section 14.3.4 using either an orthogonal rotation or an oblique rotation. 
+Let¡¯s try both so you can see how they differ. 
+First try an orthogonal rotation (in the next listing).
+Looking at the factor loadings, the factors are certainly easier to interpret. 
+Reading and vocabulary load on the first factor, and picture completion, block design, and mazes loads on the second factor. The general nonverbal intelligence measure loads on both factors. This may indicate a verbal intelligence factor and a nonverbal intelligence factor. 
+By using an orthogonal rotation, you¡¯ve artificially forced the two factors to be uncorrelated. 
+What would you find if you allowed the two factors to correlate? 
+You can try an oblique rotation such as promax (see the next listing).
+Several differences exist between the orthogonal and oblique solutions. 
+In an orthogonal solution, attention focuses on the factor structure matrix (the correlations of the variables with the factors). In an oblique solution, there are three matrices to consider: the factor structure matrix, the factor pattern matrix, and the factor intercorrelation matrix.
+The factor pattern matrix is a matrix of standardized regression coefficients. 
+They give the weights for predicting the variables from the factors. 
+The factor intercorrelation matrix gives the correlations among the factors.
+In listing 14.8, the values in the PA1 and PA2 columns constitute the factor pattern matrix. 
+They¡¯re standardized regression coefficients rather than correlations. 
+Examination of the columns of this matrix is still used to name the factors (although there¡¯s some controversy here). 
+Again you¡¯d find a verbal and nonverbal factor.
+The factor intercorrelation matrix indicates that the correlation between the two factors is 0.57. This is a hefty correlation. 
+If the factor intercorrelations had been low, you might have gone back to an orthogonal solution to keep things simple.
+The factor structure matrix (or factor loading matrix) isn¡¯t provided. But you can easily calculate it using the formula F = P*Phi, where F is the factor loading matrix, P is the factor pattern matrix, and Phi is the factor intercorrelation matrix. 
+A simple function for carrying out the multiplication is as follows:
+Applying this to the example, you get 
+Now you can review the correlations between the variables and the factors. 
+Comparing them to the factor loading matrix in the orthogonal solution, you see that these columns aren¡¯t as pure. This is because you¡¯ve allowed the underlying factors to be correlated. 
+Although the oblique approach is more complicated, it¡¯s often a more realistic model of the data.
+You can graph an orthogonal or oblique solution using the factor.plot() or fa.diagram() function. 
+The code produces the graph in figure 14.5.
+The code produces the diagram in figure 14.6. 
+If you let simple=TRUE, only the largest loading per item would be displayed. It shows the largest loadings for each factor, as well as the correlations between the factors. 
+This type of diagram is helpful when there are several factors.
+When you¡¯re dealing with data in real life, it¡¯s unlikely that you¡¯d apply factor analysis to a dataset with so few variables. 
+You¡¯ve done it here to keep things manageable. If you¡¯d like to test your skills, try factor-analyzing the 24 psychological tests contained in Harman74.cor. 
+The code should get you started!
+14.3.4 Factor scores
+Compared with PCA, the goal of EFA is much less likely to be the calculation of factor scores. 
+But these scores are easily obtained from the fa() function by including the score = TRUE option (when raw data is available). 
+Additionally, the scoring coefficients(standardized regression weights) are available in the weights element of the object returned.
+For the ability.cov dataset, you can obtain the beta weights for calculating the factor score estimates for the two-factor oblique solution using
+Unlike component scores, which are calculated exactly, factor scores can only be estimated. 
+Several methods exist. The fa() function uses the regression approach. 
+To learn more about factor scores, see DiStefano, Zhu, and Mindrila, (2009).
+Before moving on, let¡¯s briefly review other R packages that are useful for exploratory factor analysis.
+R contains a number of other contributed packages that are useful for conducting factor analyses. 
+The FactoMineR package provides methods for PCA and EFA, as well as other latent variable models. 
+It provides many options that we haven¡¯t considered here, including the use of both numeric and categorical variables. 
+The FAiR package estimates factor analysis models using a genetic algorithm that permits the ability to impose inequality restrictions on model parameters. The GPA rotation package offers many additional factor rotation methods. 
+Finally, the nFactors package offers sophisticated techniques for determining the number of factors underlying data. 
+EFA is only one of a wide range of latent variable models used in statistics. 
+We¡¯ll end this chapter with a brief description of other models that can be fit within R. These include models that test a priori theories, that can handle mixed data types (numeric and categorical), or that are based solely on categorical multiway tables. 
+In EFA, you allow the data to determine the number of factors to be extracted and their meaning. 
+But you could start with a theory about how many factors underlie a set of variables, how the variables load on those factors, and how the factors correlate with one another. You could then test this theory against a set of collected data. 
+The approach is called confirmatory factor analysis (CFA). 
+CFA is a subset of a methodology called structural equation modeling (SEM). 
+SEMnot only allows you to posit the number and composition of underlying factors but how these factors impact one another as well. 
+You can think of SEM as a combination of confirmatory factor analyses (for the variables) and regression analyses (for the factors). The resulting output includes statistical tests and fit indices. 
+There are several excellent packages for CFA and SEM in R. They include sem, openMx, and lavaan. 
+The ltm package can be used to fit latent models to the items contained in tests and questionnaires. 
+The methodology is often used to create large scale standardized tests. Examples include the Scholastic Aptitude Test (SAT) and the Graduate RecordExam (GRE). 
+Latent class models (where the underlying factors are assumed to be categorical rather than continuous) can be fit with the FlexMix, lcmm, randomLCA, and poLCpackages. 
+The lcda package performs latent class discriminant analysis, and the lsa package performs latent semantic analysis, a methodology used in natural language processing. 
+The ca package provides functions for simple and multiple correspondence analysis.
+These methods allow you to explore the structure of categorical variables in two-way and multiway tables, respectively. 
+Finally, R contains numerous methods for multidimensional scaling (MDS). 
+MDS is designed to detect underlying dimensions that explain the similarities and distances between a set of measured objects (for example, countries). 
+The cmdscale() function in the base installation performs a classical MDS, while the isoMDS() function in the MASS package performs a nonmetric MDS. 
+The vegan package also contains functions for classical and nonmetric MDS.
+In this chapter, we reviewed methods for principal components (PCA) analysis and exploratory factor analysis (EFA). 
+PCA is a useful data reduction method that can replace a large number of correlated variables with a smaller number of uncorrelated variables, simplifying the analyses. 
+EFA contains a broad range of methods for identifying latent or unobserved constructs (factors) that may underlie a set of observed or manifest variables.

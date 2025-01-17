@@ -1,0 +1,78 @@
+Over the course of the last ten years, Valve-Regulated Lead Acid (VRLA) batteries have demonstrated an extremely rapid introduction, eager user acceptance, and widespread application in many areas of battery usage.
+In telecommunications, they have been increasingly applied as reserve batteries in both controlled central office switching and transmission environments, as well as in the more extreme environments of fiber optic vault and remote, exposed, subscriber loop cabinets.
+In addition, VRLA batteries have become a major factor in the application of cabinet-type high voltage (120 to 380 volts) UPS systems, designed to protect computer systems during loss of commercial A.C. power.
+Unlike the more conventional flooded or vented lead acid batteries, measurement of cell specific gravity is not possible, while measurement of individual cell float voltages has not been shown to be indicative of the "state of health" of the cell, as measured by a capacity test.
+As a result, users have been forced to rely on actual cell or battery performance under load.
+This is expensive, cumbersome, requires special equipment, trained personnel, and most importantly, generally requires the battery string to be taken off line for an extended period of time, while the test is being performed, reducing the available battery reserve.
+Since the expected failure modes of VRLA cells: dry-out; grid corrosion and loss of contact to the active material; jar bulging with subsequent loss of plate / separator / electrolyte contact; internal corrosion and loss of contact between post/ strap I plate lugs; all result in an increase in cell impedance, or a loss of cell conductance, these techniques have been actively pursued as substitutes for capacity testing.
+The possibility of developing an alternative to timed-discharge testing of standby cells and batteries was suggested by the work of DeBardelaben.
+Using laboratory test equipment, DeBardelaben measured the complex impedance of lead-antimony telephone cells rated at 7,000 ampere-hours.
+His analysis disclosed a strong inverse correlation between cell capacity and either the magnitude of cell impedance or its resistive real part.
+Further laboratory studies by Vaccaro and Casson showed that increased impedance and resistance were also good indicators of "dryout" of VRLA stationary batteries.
+However their studies showed a high degree of correlation between impedance and capacity, but only at very high (5-10 minute) discharge rates.
+A survey, by one of the authors, in the spring of 1991, showed only a very limited data base for correlation, with some data presented which showed no apparent correlation.
+Nevertheless, for the user, the need is real and urgent, to have available a technique other than capacity testing, for field testing and evaluation of VRLA cells.
+This paper presents data obtained in an ongoing study, of the relationship between cell conductance and reserve capacity and does not include any measurement of cell impedance.
+Field tests have been performed on several hundred VRLA cells, in working telephone transmission and cellular offices and in UPS and other applications, measuring conductance, ampere-hour capacity, cell float voltages and other parameters which might be indicative of performance under load.
+Conductance is defined as the real part of the complex admittance.
+The authors have determined by empirical data and computer modeling that low frequency conductance, measured in the international unit: Siemens (or the American unit: Mhos), provides useful information about battery condition since it reflects the changing characteristics of a battery as it displays defects or shows signs of wear.
+The electronic battery conductance testers used in the tests, were developed by Midtronics, Inc. for the purpose of instantaneously assessing the state of health and the stored energy capacity of 6 and 12 Volt monobloc batteries and individual 2-volt cells.
+Their operation is based upon an adaptation of the conductance testing technology first reported in a paper by one of the authors and which has been successfully applied for over ten years, and widely accepted by major automotive manufacturers for testing the available cranking power of automotive engine-starting batteries.
+The original problem of testing automotive batteries for use in engine starting applications had presented an entirely different problem.
+Unlike the reserve battery°Øs mission of supplying energy over an extended period, the primary mission of a starting battery is to supply a large burst of power for a short duration of time.
+Accordingly, automotive batteries are conventionally tested by means of a short-duration (e.g. 15 second) load test.
+However, the load test, like the timed-discharge test, also requires heavy, cumbersome, equipment and suffers from other serious disadvantages.
+In response to these problems, Midtronics first developed conductance test equipment to provide a practical alternative to the common load test.
+Measurements of conductance have been found to correlate strongly with a battery°Øs power rating expressed in Cold Cranking Amperes and provide a direct measure of the battery°Øs high-current cranking capability.
+Because of variations in battery designs, manufacturing processes, extended discharge times, a variety of usages and differing failure modes, the conductance method developed for assessing cranking power could not be directly applied to the assessment of available ampere-hour capacity, as would be desired for batteries in reserve applications.
+Because of the time required and the complications associated with timed-discharge testing however, it would be obviously desirable to provide a simple, instantaneous, test - such as a conductance test - that could be used to assess stored energy capacity without requiring that the battery be discharged in the process.
+Proprietary testing by one of the authors, measuring conductance at various frequencies as well as computer modeling, have shown that very low frequencies are most effective in distinguishing good batteries from worn or defective batteries based on conductance testing.
+Our research has indicated that while testing of cranking batteries is most effectively performed with a time-varying signal of approximately 100 Hz, that best results are obtained on standby batteries at even lower frequencies.
+Tests of batteries documented in this paper were taken at a frequency below 25 Hz for monoblocs, and near 10 Hz for individual cells. The appropriateness of these frequencies has been shown in the original work of Yahchouchi reported by M.Alzieu of Electricite de France.
+Two types of conductance testers were used in these tests. The first type of tester, ("Celltron") is a fully-digital, self-contained, electronic device designed to measure voltage and conductance of single, two-volt, lead-acid cells; or of three-cell (6-volt) batteries.
+The cell/battery undergoing test provides the very small (approximately 1.5 amp) current for measurement.
+In addition, the unit utilizes a separate, 15 volt, nickel cadmium battery pack.
+The "Celltron" is electrically connected to the terminals of a cell/battery and measures its conductance with a small, time-varying signal of approximately 10Hz.
+An internal conductance standard permits calibration checking by the user, to assure accuracy of the cell/battery measurements.
+The second type of tester ("Midtron") is a self-contained, electronic device designed to measure battery voltage and conductance of either three-cell (6 volt) or six-cell (12 volt) lead-acid batteries.
+The Midtron is totally powered by the battery undergoing test and require no additional batteries or connections to external power.
+This tester is electrically connected to the terminals of the battery undergoing test and senses its conductance with a small, time-varying signal at frequency of approximately 25 Hz.
+The majority of the individual cell tests performed and reported on were taken with the Midtronics Celltron conductance tester.
+Those tests made on multiple cell monoblocs were taken with Midtronics Midtron conductance testers.
+In January of 1992, the first series of correlation tests was performed in a telephone transmission office. The plant containing the valve regulated cells consisted of chargers, batteries and distribution equipment.
+The charge portion of the plant consists of fourteen 400 amp ferro-resonant chargers with 480 volt 3 phase input power.
+The charging bus connects to the battery bus near the discharge end. There is a 10,000 amp charge shunt in the positive conductor of the bus between the last charger and the first battery.
+The cells were arranged in strings of 24 cells to form batteries.
+There were 18 strings in the plant though only 15 strings were tested. The plant was designed to float the batteries at 54.0 volts.
+The first group of tests was performed on eight banks of 24 cell 1000Ah (8 hour rate) VRLA batteries.
+The approximate age of the battery was five to six years. The ambient temperature during the testing was approximately 60°„F (15.5°±C).
+All eight parallel batteries (strings 1 to 8) were taken off line and left open circuit for approximately 72 hours prior to performing both the conductance and discharge testing.
+The first part of the test included individual cell conductance measurements that were made utilizing the Midtronics Celltron cell conductance tester.
+Conductance data were obtained for 24 cells of each string prior to instrumentation for discharge testing.
+Each conductance and open circuit voltage measurement was made by simultaneously placing the Celltron probes onto both the positive and negative cell posts.
+Next, intercell connection conductance measurements were obtained for each connection. This was accomplished by leaving one of the probe connections on the positive post, and placing the other probe connection onto the adjoining cell post.
+An Alber battery test system was used to perform discharge testing.
+The Alber system provided controlled load current, single cell monitoring and data storage.
+Data acquisition for each 24 cell string included: individual cell voltages, total string voltage, load current and elapsed time.
+A 263 amp constant load current to an end voltage of 1.80 volts per cell was utilized for testing of strings 1 through 8.
+Individual cell discharge voltage data was acquired at five minute intervals and stored via hard disk.
+Due to the method used for instrumenting each cell for data acquisition, voltage drops from the intercell connections were included in the individual cell data and suitable corrections were made in processing the final data.
+String 1 Conductance vs. Time during Discharge.
+The same testing technique performed on strings 2 through 8 was utilized on string 1; however this discharge test was interrupted at 15 minute intervals, conductance measurements were made, and the discharge test was continued.
+The mean time for conductance measurements made on the 24 cells of string 1 was 0.25 minutes per cell or six minutes total.
+Correlation Study Strings 9 through 15.
+In April of 1992 a second set of correlation tests were performed in the telephone transmission office on seven additional 24 cell battery strings.
+The same cell type was studied (VRLA 1000 ampere-hour 8 hour rate). Float voltages were measured prior to taking the batteries off line. These batteries were left open circuit for approximately 36 hours prior to testing, and open circuit voltages measured.
+The ambient temperature was at 70°„F (21"C).
+Both conductance and discharge tests were performed as described in the correlation study of strings 2 through 8.
+However the cells in strings 9 through 15 were all discharged to 1.75 volts per cell.
+Individual voltage connections were used for the second set of tests that were performed on strings 9 through 15, and therefore voltage drop corrections for intercell connections were not necessary for processing the final data.
+Temperature Measurements.
+Temperature measurements were obtained for two discharge tests. Six cells of different conductances were monitored.
+A Fluke (Model 77) meter with a Fluke (80T-150U) thermocouple interface module were used for this test.
+Data were obtained by measuring both the top of the negative post and on the jar wall between adjacent cells. Temperature measurements were made at 30 minute intervals.
+Cellular Telephone Sites.
+Typical battery configurations located in the cellular telephone sites consisted of two and three parallel branches of 24 cell 48 volt batteries.
+The batteries were located in a controlled environment with both heating and cooling capabilities and typical temperatures of 70°„F (21 "C).
+Field testing performed at cellular telephone sites consisted of conductance testing in conjunction with timed discharge tests.
+A Fluke 87 multimeter was utilized for measurements of float voltage, Midtronics Celltron cell conductance testers were utilized for all conductance measurements and Alber discharge test equipment was utilized for all discharge tests performed at a particular site.

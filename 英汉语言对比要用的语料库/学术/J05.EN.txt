@@ -1,0 +1,78 @@
+Chapter 1 Introduction
+In this introductory chapter, I discuss the nature of thermodynamics and the type of problems that may be treated by the subject. I also collect together several introductory concepts regarding the nature of processes that are addressed by thermodynamics, concept of work from mechanics that lie at the foundation of thermodynamics, and several atomistic concepts that are important for developing insights into the thermal and energetic properties of matter, which are treated by thermodynamics at a macroscopic level. 
+Finally, I conclude this chapter with a brief discussion of units and conversion factors.
+1.1 Nature and Scope of Thermodynamics
+Thermodynamics deals with the problem of conversion of one form of energy to another. 
+Classical thermodynamics emerged primarily during the nineteenth century. 
+Thus, the development of fundamental concepts of classical thermodynamics, like those of Mechanics and Electricity and Magnetism, precedes the development of modern concepts of the atomic or microscopic states of matter. 
+There is also a non-classical arm of thermodynamics, known as irreversible thermodynamics, which is primarily a modern development. 
+The laws of classical thermodynamics were formulated by deduction from experimental observations on macroscopic scales. 
+Consequently, the thermodynamic laws are empirical in nature, and a thermodynamic system in which the laws are supposed to hold consists of a large number of atoms or molecules, of the order of Avogadro's number (1023). 
+We, of course, know now that all macroscopic properties of a system (such as pressure, temperature, volume etc.) have their origin in the motions and interactions of the atoms or molecules comprising the system. 
+Thermodynamics, by itself, does not provide any fundamental insight as to the origin of thermodynamic laws and thermodynamic properties of matter. 
+The treatment of macroscopic properties in terms of statistical average of the appropriate properties of a large number of microscopic entities (atoms or molecules) constitutes the subject of classical Statistical Mechanics. 
+While it provides analytical relationships between macroscopic properties and microscopic motions in a system, actual calculation of macroscopic properties from such relationships is a very difficult task. 
+This is because of our lack of precise knowledge of the energetic properties of the microscopic entities, and computational difficulties. 
+However, considerable progress has been made in both directions in recent years leading to what has become known as the Molecular Dynamics or MD simulations. 
+These simulations represent a merger of statistical and classical mechanics, and hold great potential in predicting the thermodynamic and other macroscopic properties through considerations of microscopic interactions, and in refining our knowledge of the energetic properties in the atomic scale through comparison of the predicted and observed macroscopic properties. 
+In addition, because of the enormous improvements in computational abilities, significant progress has also been made in the calculation of thermodynamic properties using purely quantum chemical approaches. 
+The fundamental concepts of classical thermodynamics have followed primarily from considerations of the problem of conversion of heat into mechanical work and vice versa, which inspired the great "Industrial Revolution”.".
+These have led to formal relationships among the macroscopic variables, and to descriptions of the equilibrium state of a macroscopic system under various sets of imposed conditions. (When a system achieves equilibrium consistent with the imposed conditions, all properties in the macroscopic scale not only remain unchanged, but also do not have any tendency to change with time as long as these conditions are not disturbed). 
+Thermodynamics tells us that the macroscopic equilibrium state of a system depends only on the externally imposed conditions, such as pressure, temperature, volume, and is totally independent of the initial condition or the history of the system. 
+Historically, this represented a major point of departure from the viewpoint of Newtonian mechanics that seeks to predict the evolutionary course of a system on the basis of its initial conditions. 
+Classical thermodynamics is a subject of great power and generality, and has influenced the development of important concepts in physical, chemical, biological and geological sciences, as well as in practical aspects of engineering. 
+But it demands a moderate mathematical knowledge that is within the easy reach of a serious (or even not so serious) student of science or engineering. 
+At the same time, thermodynamics has a rigorously logical structure that is often quite subtle. 
+These aspects make the subject of thermodynamics apparently easy to learn, but yet difficult to completely appreciate in terms of its implications. 
+There are three laws at the foundation of thermodynamics, which are known as the first law, second law and third law, but most of the subject has been built on the first two laws. 
+The second law of thermodynamics represents a supreme example of logical deduction of a revolutionary physical principle from systematic analysis of simple experimental observations. 
+Because the basic concepts of thermodynamics are independent of any microscopic models, they have been unaffected by the developments in the microscopic description of matter ¨C the validity of the laws were not threatened by discovery of errors in the microscopic models, nor the developments in thermodynamics took a quantum jump with exciting new discoveries in the microscopic domain.
+1.2 Irreversible and Reversible Processes
+Consider a gas inside a rigid cylinder fitted with a movable piston. Let Pint be the internal pressure of the gas and Pext be the pressure exerted on the gas from outside through the piston. 
+If Pint > Pext then the gas will expand, and vice versa. 
+Suppose now that the gas is allowed to expand rapidly to a particular volume, Vf.
+During this rapid expansion the gas will be in chaotic motion, which will be visible even by macroscopic observation. 
+Now let the gas be rapidly compressed back to its initial volume, Vi. 
+After a while, the state of the gas will be the same as what it was at the beginning of the cyclic process, but the intermediate states during compression will be different from those during expansion. 
+This is an example of an Irreversible Process. 
+Now imagine that the expansion of the gas from Vi to Vf is carried out in small incremental steps, as illustrated in Fig. 1.1, and that at each step the gas is held for a sufficiently long time to allow it to achieve equilibrium with the external pressure. If the process is reversed following the same procedure, then the state of the gas at a given position of the piston, say P3, will be the same during both expansion and contraction, but not during the stage between two specific steps, say P3 and P4. 
+However, the size of the steps can be made arbitrarily small, at least conceptually, so that the state of the gas during expansion are recovered during compression at any arbitrary position of the piston. 
+This is an example of a Reversible or Quasi-static Process. 
+Thus, reversible process is a process that is carried out at a sufficiently slow rate such that the properties of the system at any state during the process differ by infinitesimal from those of its equilibrium state. 
+The process is called reversible since a very very small (i.e. infinitesimal) change in the external condition causes the system to reverse its direction of change. 
+All natural processes are irreversible, but a natural process may take place sufficiently slowly to approximate a reversible process. 
+By this we mean that the time (. . .) over which a significant change of state of the system takes place is large compared to the time the system takes to achieve equilibrium, which is often referred to as the relaxation time, . . .. 
+The latter has a wide range of values, depending on the nature of the system and the perturbation produced in the system by the changing state conditions. 
+As an example, for the problem of expansion of gas considered above, it can be shown that . . .,
+where V is the volume of the cylinder and C is the velocity of sound in the gas (Callen, 1985), whereas for mineralogical reactions in geological or planetary processes, . . . is often as high as millions of years.
+1.3 Thermodynamic Systems, Walls and Variables
+Any arbitrary but well-defined part of the universe, subject to thermodynamic analysis, constitutes a thermodynamic system. 
+The rest of the universe is called the surrounding. 
+A system is separated from the surrounding by a wall. 
+We can recognize the following types of systems.
+Open System: A system which can exchange both energy and matter with the surrounding across its boundaries or walls.
+Closed System: A system which can exchange energy with the surrounding, but not matter.
+Isolated Systems: A system which can exchange neither energy nor matter with the surrounding. 
+In order to make the existence of different systems possible, thermodynamics had also to device different types of wall, which are as follows.
+Diathermal or non-adiabatic Wall: A wall that is impermeable to mass transfer, but permits transfer of heat through conduction. A closed system, in the sense defined above, is surrounded by diathermal wall.
+Adiabatic Wall: A wall that does not permit either mass or heat transfer across it. 
+Ignoring the effects due to force fields (e.g gravitational field), a system surrounded by an adiabatic wall can be affected from outside only through expansion or compression by moving the wall. 
+The type of internally evacuated double wall used to make dewars for liquid nitrogen or helium is an example of an almost adiabatic wall. 
+If we ignore the effects due to the force fields, a system surrounded by a rigid adiabatic wall constitutes an isolated system.
+Semi-permeable Wall: This type of wall permits selective transfer of matter, and are also called semi-permeable membrane. 
+For example, platinum and palladium are well known to be permeable to hydrogen, but not to oxygen or water (this property of the metals are made use of in some clever designs in experimental petrology to control oxygen partial pressure, e.g. Eugester and Wones, 1962).
+As we would see later, the thermodynamic walls play very important roles in the derivation of conditions that determine the evolution of a system towards the equilibrium state (see Lavenda, 1978 for an insightful discussion). 
+The thermodynamic potentials are defined only for the equilibrium states. 
+Thus, one is faced with the paradoxical situation of determining the behavior of the potentials as a system evolves toward an equilibrium state, since the potentials are not defined for the non-equilibrium states. 
+To resolve this problem, Constantin Caratheodory (1873¨C1950), a German mathematician of Greek origin, introduced the concept of composite systems, in which the subsystems are separated from one another by specific types of walls. 
+Each subsystem is at equilibrium consistent with the restriction imposed by the internal and external walls, and thus has defined values of thermodynamic potentials. 
+The internal walls separating the susbsytems are then replaced by different types of walls and the system is now allowed to come to a new equilibrium state that is consistent with the new restrictions. 
+This procedure reduces the problem of evolution of a system to one of a succession of equilibrium states. 
+We would see several examples of the application of the concept of "composite system” " later.
+The thermodynamic variables are broadly classified into two groups, extensive and intensive. The values of the extensive variables depend on the extent or size of the system. 
+They are additive, i.e. the value of an extensive variable E for an entire system is the sum of its values, Es, for each subsystem (E = . . .). 
+Volume, heat, mass are familiar examples of extensive variables. 
+The value of an intensive variable for a system, on the other hand, is independent of the size of the system. Familiar examples are pressure, temperature, density etc. 
+These properties are not additive, and if the system is at equilibrium, then the value of an intensive variable at any point of the system is the same as in any other point.
+For every extensive variable, it is possible to find a conjugate intensive variable such that the product of the two variables has the dimension of energy. 
+For example, for E = volume (V), conjugate I = pressure (P); for E = Area (A), conjugate I = surface tension (. . .); for E = length (L), conjugate I = Force (F) etc.

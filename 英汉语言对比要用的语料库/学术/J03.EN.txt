@@ -1,0 +1,96 @@
+32 Functionalisation of Pyridine 
+This chapter examines functionalisation strategy - the addition of functional groups to a pre-formed carbon skeleton. 
+It revises previous sections in the context of some difficult reactions.
+Introduction 
+A theme of this section is making reactions work. Usually that means making reactions that already work quite well work much better. 
+But we start with a reaction - electrophilic aromatic substitution on pyridines and related heterocycles - that doesn't really work at all. 
+We shall see why not and how the reaction can be successfully realised. 
+This involves some serious mechanistic thinking and questions of regioselectivity are vital to the solution. 
+This is new chemistry with a great future.
+PART I ¨C THE PROBLEM
+Because it is such a familiar reaction, it can be forgotten that attack by electrophiles on benzene 1 is difficult because it gives an intermediate cation 2 which has lost the aromaticity of the starting material. This is, after all, why Lewis acids are needed for many such reactions. 
+The product 3 has regained aromaticity but this is no help to the rate-determining step, the attack of the electrophile and the formation of 2. 
+That the reaction occurs at all is because 2 is a delocalised pentadienyl cation and has some intrinsic stability as a cation. 
+Successful electrophilic substitution of benzene by HNO3/H2SO4, fuming H2SO4, RCOCl and AlCl3, or halogens with various Lewis acids is also testimony to the extreme reactivity of these combinations of reagents.
+Pyridine has all the disadvantages of benzene plus some special ones of its own. 
+Attack at the 2- or 4-positions 4 gives intermediate cations such as 5 which have part of the positive charge delocalised onto nitrogen 5c. 
+This would be no bad thing if the nitrogen atom were tetravalent like stable NH4+, but it is actually divalent like the unknown, electron-deficient, and presumably very unstable NH2+.
+Attack at the 3-position 6 is not so bad as the intermediate cation 7 is no longer delocalised onto the electron-deficient nitrogen atom but is not as stable as the benzene intermediate 5 and the slow step is very slow because the HOMO of pyridine is lower in energy than the HOMO of benzene.
+So far electrophilic attack on pyridines sounds only a bit more difficult than that on benzenes but there is worse to come. 
+The reagents for nitration, halogenation and so on all require strong protic or Lewis acid catalysts and these go for the pyridine nitrogen atom first. 
+Attempted nitration would have to occur on the cation 8, making the intermediate an impossibly unstable dication 9.
+N-Nitro Heterocycles as Nitrating Agents
+In fact, nitration of pyridine in the absence of protic or Lewis acid catalysts occurs at nitrogen. 
+The reagent has to be the rather unstable and moisture sensitive salt NO2+ BF4-. 
+This is commercially available, though expensive. 
+The product is also not very stable but can be isolated as the tetrafluoroborate salt 11 as BF4- is non nucleophilic. 
+This compound 11 is itself a nitrating agent and can be used to nitrate benzenes (but obviously not pyridine) simply by mixing in acetonitrile. 
+The products 12 have the usual substitution pattern for electrophilic substitution. 
+Olah has called this process 'transfer nitration”.'.
+A better method for the same reaction (nitration of benzenes) is to use the product of nitration of pyrazole 13. 
+When the nitration is carried out in the absence of strong acid, the product is the N-nitro compound 14, a stable neutral molecule because a proton can be lost from the other nitrogen atom. 
+This compound is stable but reacts with the Lewis acid BF3 to give an intermediate 15 that nitrates benzene efficiently. 
+It is probable that the C-nitration of pyrazoles also takes place via such an intermediate as 15, see below.
+Pyridine can also be used as an efficient catalyst for the bromination of benzene (see Vogel, page 860) through reaction at the nitrogen atom 16 while the crystalline reagent pyridinium bromide perbromide 17 is a convenient way of brominating alkenes. 
+These are convincing illustrations that pyridine does not react with bromine at carbon.
+Direct electrophilic substitution of pyridines is not, in general, a useful reaction. 
+Only 3-substitution is remotely possible as the intermediate 7 at least does not attempt to put the positive charges on the same atoms! 
+The maximum yield of 3-nitro-pyridine by direct nitration is 5%, normally 3% is expected. 
+If we want to carry out nitration on the pyridine ring, some means must be found better than normal electrophilic substitution. 
+We shall now explore various ways in which this simple reaction can be achieved either by subterfuge or mechanistic ingenuity. 
+The same remarks apply to other electron-deficient six-membered aromatic heterocycles such as pyrimidine 20 and quinoline 22. 
+Solutions to these problems are needed as many drugs and natural products contain these rings. 
+The Pharmacia-Upjohn anti-AIDS drug PNU-142721 19 contains pyridine and pyrimidine rings while the coenzyme methoxatin 21, that allows bacteria to live off methane as their sole carbon source, contains an oxidised quinoline ring. 
+All three rings are heavily substituted and preparation of these compounds needs regiochemically controlled substitution around the rings.
+PART II ¨C TRADITIONAL SOLUTIONS: ADDITION OF ELECTRON-DONATING SUBSTITUENTS
+The analgesic Flupirtine 23 is a simple pyridine with three substituents at the 2, 3, and 6 positions.
+Removal of the amide shows the core 24. 
+The 4-fl uorobenzylamine 25 could be added by nucleophilic substitution (easier in pyridines than in benzenes) and we shall delay the choice of the leaving group (X in 26) for the moment. 
+The only amino group we could conceivably add by nitration is the one in the 3-position so we might continue by FGI (reduction) and C-N disconnection 27.
+The nitro group will help the nucleophilic aromatic substitution so now we must choose the leaving group X in 27. 
+It need not be a good leaving group - the slow step in nucleophilic aromatic substitution is the addition of the nucleophile -so as long as X is a tolerable leaving group, it will do. 
+It should promote electrophilic attack by NO2+ in the 3-position and 28; X= OMe should be available commercially. 
+Putting X = OMe fulfils all these conditions. Here is the synthesis.
+Nitration of 28; X = OMe is successful because both electron-donating OMe and NH2 groups activate the 3-position and the intermediate cation 31 is delocalised over both N and O atoms. 
+We could have used lone pairs on either the OMe or NH2 groups to draw the mechanism 30. 
+The reaction occurs in spite of the pyridine ring rather than because of it. 
+The position of attack - C3 or C5 - is not easily predicted and searching the literature or trial and error is needed.
+Regioselectivity in Electrophilic Substitution with Electron-Donating Groups
+You might think that nowadays there would be no doubt about the results of such reactions as the nitration of 28 since NMR would quickly distinguish the possible products. This is not so as a notorious case shows. 
+Though it was known that reaction of 33 with iodine in aqueous sodium carbonate gave the 2-iodo compound 34 in good yield, it was claimed in 1990 that a more complex reagent gave the 6-iodo isomer 32. Reinvestigation showed that 34 was the only product though the alternative 32 could be formed in moderate yield at higher temperature. 
+It was also known that chlorination gives the 2-chloro compound 35. 
+The preference for the site next to nitrogen (and therefore para to the OH group) may be due to steric crowding of the solvated oxyanion in water.
+The synthesis of the drug PNU-142721 19 required a series of electrophilic substitutions on 3-hydroxy pyridine 33. 
+Iodination of the chloride 35 went in the previously inaccessible 6-position to give 36. 
+Now iodine-lithium exchange and reaction with acetaldehyde gave the secondary alcohol 37 and finally iodination gave the tetrasubstituted pyridine 38. 
+Each new substituent is added as an electrophile in a specific position. Only the acetaldehyde had no choice.
+Installation of the furan ring requires two extra carbons provided by a Sonagashira coupling with trimethylsilyl acetylene to give 39. 
+Cu(I)-catalysed closure of the furan ring follows and now the role of the chlorine atom on the pyridine ring is revealed. It is there to block the most reactive position and, its job complete, it can now be removed by hydrogenation.
+Completion of the synthesis of PNU-142721 19 requires introduction of asymmetry and coupling with a pyrimidine thiol. 
+Asymmetry was introduced in two ways. 
+The alcohol 41 was enantioselectively acylated with trifluoroethyl butyrate catalysed by porcine pancreatic lipase (chapter 29) or else a Swern oxidation gave the ketone that could be enantioselectively reduced with (-)-Dip chloride (chapter 24). 
+Clean inversion from (S)-41 to the chloride (R)-42 was achieved only with the Mitsunobu-like reagent Ph3P/CCl4. 
+Finally, coupling with the thiolate anion of the pyrimidine 43 gave a second clean inversion. One recrystallisation improved the ee of the drug 19 from 97.6% to over 99%.
+The Anti-Tumour Antibiotic Kedarcidin
+Another incorrect structure was revealed by synthetic work aimed at structure 44, alleged to be a part structure (the ¡®chromophore’) of the antitumour antibiotic kedarcidin. 
+The synthesis was successful but revealed that the structure was wrong as the compound is a . . .-amino acid and not an . . .-amino acid as had been assumed.
+The obvious compounds to make are the pyridine amines for coupling to the undisputed naphthalene fragment. 
+Both were made from the same pyridine 35 that featured in the last section. 
+Iodination and protection gave two iodo-pyridines 46; R=TBDMS and MOM. 
+The first was combined with Jackson's d3 reagent 47 (chapter 13) in a Negishi coupling to give 48 and the second in a Heck reaction to give the unsaturated ester 49 to which Davies’s chiral lithium amide (chapter 24) could be added to give a 97:3 ratio of 50 and its diastereoisomer.
+Deprotection of 48 gave the amine needed for the synthesis of 44: this proved not to be the natural product. 
+The synthesis of the correct structure 45 had a curious twist: removal of the benzyl groups from 50 resulted in dechlorination 51 and the chlorine was reinstated 52 with another electrophilic substitution having the same regioselectivity as that of 35.
+Halogenation and Metallation
+To summarise these last two examples: with even one electron-donating group on the pyridine ring, halogenation becomes a useful reaction. 
+Metallation with lithium or palladium-catalysed couplings with alkenes (Heck), organo-zinc compounds, including those with . . .-hydrogens (Negishi), or boronic acids (Suzuki) make new C-C bonds while Buchwald-Hartwig chemistry makes new bonds to O or N atoms. These are obviously very versatile sequences.
+Pyridine N-Oxides in Electrophilic Substitution
+This is all very well if your target molecule happens to have electron-donating substituents on the pyridine ring, but what if it hasn't?
+The traditional solution is to use a pyridine N-oxide 53 which simultaneously blocks the lone pair on nitrogen and provides a strongly electron-donating substituent. 
+Pyridines are easily oxidised to N-oxides with H2O2 (another instance of electrophilic attack at N) and the substituted N-oxides 54 are easily reduced back to the pyridines 55 with trivalent phosphorus compounds such as PCl3.
+Nitration can be carried out with the usual reagents and occurs in the 4-position (the 2- and 6-positions being sterically hindered by the solvated oxido group). 
+The electrons from oxygen are used in the reaction 56 and the nitrogen atom retains its positive charge throughout but the intermediate 57 is only a mono-cation unlike 9. 
+This is a good synthesis of 4-nitropyridine 59.
+The deoxygenation of the product can be developed in synthetically useful ways. 
+If there is an electron-withdrawing group at the 3-position and PCl3 is used, deoxygenation is accompanied by chlorination at the 2-position 62. 
+This new chlorine is activated towards nucleophilic aromatic substitution both by its position on the pyridine ring and by the electron-withdrawing group at the 3-position and can be replaced by O, N, S, or P nucleophiles 63. 
+Pyridines such as 61 are easily made from available nicotinic acid, pyridine-3-carboxylic acid 60.

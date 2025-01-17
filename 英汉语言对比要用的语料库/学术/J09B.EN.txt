@@ -1,0 +1,28 @@
+Memory Protein Fades With Age
+All in the mind. 
+A brain protein that declines with age could hold the clue to memory loss.
+It¡¯s an inconvenient truth of aging: 
+In our 30s and up, it gets increasingly harder for most of us to recall names, faces, and details from the past. 
+Scientists have long debated whether this gradual decline is an early form of Alzheimer¡¯s disease¡ªa neurodegenerative condition that leads to severe dementia¡ªor a distinct neurological process. 
+Now, researchers have found a protein that distinguishes typical forgetfulness from Alzheimer¡¯s and could lead to potential treatments for age-related memory loss.
+Previous studies have shown that Alzheimer¡¯s disease and age-related memory loss involve different neural circuits in the hippocampus, a seahorse-shaped structure in the brain where memories are formed and organized. 
+The hallmark signs of Alzheimer¡¯s disease are well established¡ªtangled proteins and plaques accumulate over time, and brain tissue atrophies. 
+But little is known about what occurs when memory declines during normal aging, except that brain cells begin to malfunction, says Scott Small, a neurologist at Columbia University and senior author to the study. 
+¡°At the molecular level, there¡¯s been a lot of uncertainty about what is actually going wrong, and that¡¯s what this paper isolates.¡±
+To tease apart the biological processes involved in memory loss in normal aging, Small and other researchers from Columbia University in New York examined postmortem brain tissue from eight healthy people ranging in age from 33 to 86. 
+They looked for differences in gene expression¡ªthe proteins or other products that a gene makes¡ªbetween younger and older people. 
+They also looked for age-related changes in the brains of mice.
+One gene in particular reduced its expression by about 50% with age in both human tissue and in rodents, the researchers report today in Science Translational Medicine. 
+The gene codes for a protein called RbAp48 that regulates gene expression in a part of the hippocampus, called the dentate gyrus, which has been implicated in normal memory loss. 
+A separate region of the hippocampus known to be the point of onset for Alzheimer's disease showed no differences in expression of the age-related gene.
+Next, the team tested whether the steep decline in the production of RbAp48 could play a role in the memory loss associated with aging. 
+In young mice bred to inhibit production of the RbAp48 protein, the researchers were able to show cognitive deficits that they say resemble those seen in older mice and elderly humans, such as difficulty recognizing objects and navigation.
+Finally, the team showed that by increasing the level of RbAp48 in old mice, they could restore memory function to levels similar to that of young mice.
+The new study demonstrates that ¡°this molecular deficiency that we observe in humans truly contributes to age-related memory loss,¡± Small says. 
+The researchers aren¡¯t entirely sure what role RbAp48 plays in memory, but Small suspects that it is key to the successful functioning of synapses¡ªbridges between nerve cells that transmit chemical and electrical signals, facilitating learning and memory. 
+Why the protein declines with age is still a mystery, he says.
+So far, physical exercise is one treatment that has been shown to improve the function of the dentate gyrus and to slow memory loss from aging, Small says. 
+The new study points the way toward therapeutic targets that might one day help turn back the clock on the memory loss, he says.
+The new study is ¡°very impressive¡± and an important piece of the puzzle in understanding the molecular mechanisms of age-related memory loss, says Molly Wagster, chief of the Behavioral and Systems Neuroscience Branch at the National Institute on Aging in Bethesda, Maryland. 
+But she cautions that it involved a limited number of brain tissues and focused solely on one brain region, noting that other brain regions could also play an important role in age-related memory decline. 
+Further efforts will be needed to see if what the group has seen in rodents translates to humans, she says.

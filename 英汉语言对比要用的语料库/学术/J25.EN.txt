@@ -1,0 +1,76 @@
+Behavioral scientists were first brought into the design process to shed light on the needs of future occupants. 
+Since psychologists had expert knowledge on the ways in which people responded to light, color, and proportion, sociologists about the nature of social organization in neighborhoods, and anthropologists on buildings as symbols and artifacts, it was hoped that they would be able to apply this knowledge to the design process. 
+This approach faltered for a number of reasons. 
+The findings collected in basic research could not be applied with any confidence. 
+Color perception was one of the oldest topics in experimental psychology, but if an experimental psychologist were asked to specify the colors that should be used in a bus station, the answer was likely to be vague and uncertain. 
+Nor was research on space perception, another traditional research topic, useful for understanding orientation in buildings and neighborhoods. 
+Sociologists had done considerable research on neighborhood networks, but their findings were usually too general to assist the city planner.
+Needs analysis went through several stages in its evolution and is still changing. 
+At the outset, designers relied on needs they inferred or extrapolated from basic research studies and from theory. 
+More recent approaches have tended to dwell less upon inferred needs and more upon direct expression of people's wants, which are obtained through surveys or by the involvement of users in the design process. 
+The relationship between needs and wants is full of pitfalls for the unwary. A need is something basic, fundamental, and enduring, as in the need for shelter, sustenance, and social contact, while a want is an expressed preference, and thus is likely to be specific, transient, and more easily changed, as in the desire for a particular brand of food or clothing style. 
+Human needs have traditionally been regarded as more acceptable topics of study than wants in the behavioral sciences. The investigation of preferences is considered to be a second-rate applied task, more akin to marketing than to serious scholarship. 
+This dual standard has its roots in the platonic view that appearances are deceptive and ephemeral and that the important reality lies underneath. 
+However in some specific eases a firm distinction between needs and wants is difficult to maintain.
+Some architects and urban planners looked to the behavioral sciences not for specific bits of information that could be applied on particular projects but for general theories of human behavior that could be generalized to many settings. 
+Some designers found what they wanted to know about perception in the writings of James J. Gibson and Rudolf Arnheim; about the desire for stimulation and variety in the work of D. O. Hebb and Daniel Berlyne; and about social life within neighborhoods from Herbert Gans and Louis Wirth. 
+This interest in general theories remains strong today and co-exists with the desire for place-specific information.
+A mutual learning regarding what each can obtain from the other has occurred in the dialogue between designers and behavioral scientists. 
+Initially, architects complained that the social scientists' answers were too general, tentative, and often came too late to be useful. 
+Behavioral scientists criticized the architects' queries as being too specific, time-pressured, and deterministic in assuming a direct connection between building elements and behavioral patterns. 
+One of the most useful contributions that social scientists have made to design was to point out that design does not alone determine behavior. Even when it strongly influences how people behave, the effects are not direct but are mediated through psycho-social factors;
+for example, different people will be affected differently by the same building, depending upon whether they are alone or in a group, happy or sad, or are visiting for the first time or are accustomed to the place. 
+Eventually those designers who wanted to collaborate with behavioral scientists learned how to ask questions that could be answered within the time frame, methods, and data base of the social sciences, and those behavioral scientists active in the collaboration learned to produce timely and relevant reports. All this took time and patience on everyone¡¯s part. 
+Effective collaboration between people in different fields, especially those as distinct in training and temperament as design and behavioral science, does not come easily.
+Needs Assessment Survey
+Another approach to needs analysis came not from basic research or from theory, but from marketing, and involved asking people what they wanted in the way of work or living space. 
+This blurs the distinction between needs and wants, since it assumes that people¡¯s responses will bear some relationship to both. 
+Studies of expressed preference are of interest to the social scientist and useful to industry. 
+The value of such studies increases if they identify the particular properties inherent in the object on which the preference or rejection is based. 
+Technically it would have been more accurate to title this chapter Wants Analysis, but I have followed the conventional practice of discussing ¡°needs¡±, since, from a practical standpoint, needs are more saleable than wants. 
+Managers are more likely to respond positively when they are told that employees need something than when they are told that employees want it. 
+The latter statement is likely to provoke the response, ¡°Yes, we know they want it, but we can't a fiord to give it to them. 
+However, if our workers need it then that is another matter.¡± 
+In some ways this is a semantics game, more akin to diplomacy than science. 
+Economists speak of actual behavior in the marketplace as ¡°revealed preferences,¡± meaning that the behavior of people in purchasing goods and services reveals their wants and preferences. 
+This approach is not valid in mast designed spaces that are not ¡°purchased¡± by their occupants. Nor can people¡¯s attitudes towards the architecture or interior layout be discerned by how long they remain inside. 
+The failure of market mechanisms to reveal preferences and levels of occupant satisfaction with designed spaces created a niche for formal techniques for gauging occupant response. 
+Most designers claim to be meeting market demands to some degree, but the distinctive feature of UNA (user needs analysis) is that it is carried out in a systematic manner. 
+This requires the use of standardized techniques for collecting information (interviews, questionnaires, and so on) and some sampling of occupants and their activities. 
+Without formal procedures for selecting people to be interviewed and ways of asking questions, the technique does not qualify as a UNA.
+It is not always safe to assume that input from potential occupants of a setting will be more relevant to the design process than input from those in similar facilities. 
+It may be that the potential occupants have never experienced a building of the same type before. 
+For example, asking teachers and students in a traditional school building what their space and environmental needs would be in an open-plan school building with modular pods housing three grades each may turn up little useful information, unless potential occupants are given some education or experience with open-plan school buildings. 
+Consulting with potential occupants is always desirable when it is possible, both because of the possibility of securing useful information about the residents and their space needs£¬and because it will satisfy people¡¯s desire to be consulted about changes that affect their lives.
+An assumption in a needs assessment survey is that potential occupants know what they want and can communicate this to an interviewer. 
+In cases where people are turned off to their physical surroundings and alienated from the decision-making process, this assumption is not valid. 
+Most people asked about civic improvements will respond hesitantly and tentatively. 
+They have not given much thought to these matters. 
+There was no reason for them to be concerned since their opinions had not mattered. 
+Even if they have an idea about what they want, they may not have the concepts to convey this to a designer. 
+This calls for some patience on the part of the interviewer in asking the right questions and in waiting for answers to come, just as listening to the speaker of another language requires special patience.
+Drawings and models can make design alternatives more tangible to the prospective occupants. People can be shown various options and asked to choose among them. 
+The occupant can move around parts of a scale model or even take part in a slide simulation study showing how a building facade will appear in different exterior colors. 
+The needs survey will be more meaningful when the designer has spent some time among the occupants and knows how they think and express themselves. 
+It would be extremely difficult to conduct a needs analysis in a specialized building without knowing the technical vocabulary of the residents. 
+Experiencing how people use space as a preliminary to design is exemplified in the work of landscape architect Lawrence Halprin. 
+Before the drawings are put on paper, Halprin and his staff go out into settings like those for which a design is to be conceived and spend time there in order to develop a choreography of people-place relationships in which movement patterns arc paramount. 
+Halprin has used these choreographs to design such successful places as San Francisco¡¯s Ghiradelli Square and the Forecourt and Lovejoy Fountains in Portland, Oregon. 
+These works illustrate that a design that takes people's activities and interests into account can be exciting, attractive, and in the case of commercial buildings, economically successful. 
+What Halprin did not do was create sculptural forms in his studio and impose them on a location.
+It has been argued that architects should live in the types of buildings that they are designing. 
+The Urban Development Corporation in New York City has required this of their architects for public housing projects for some time. 
+This is not a formal needs analysis, but it is one way of ensuring that the architect comes into direct contact with future occupants. 
+Living among the occupants works better in some places than in others. In preparing an architectural plan for a university, architect Neal Deasy lived for a week in a dormitory and took all his meals in the dining hall. 
+Dressed in a conservative tweed suit and vest, he felt he was ¡°as conspicuous as a piebald aardvark¡±. 
+The approach proved more successful in the outdoor areas of the campus. Deasy started his observations at 7:30 a.m. and concluded at 10 p.m. He followed a set course through the campus and noted what was taking place, who was involved, and what they were doing. 
+Photographs were taken at key locations and were printed on inexpensive proof sheets. 
+Having the photographs independently analyzed served as a check on the observer. The pictures were useful in transmitting the architects recommendations to his client. 
+Photographs are often more persuasive than words for conveying the realities of human behavior, especially when the behavior is at odds with conventional expectations about how an area is being used.
+Kathryn Anthony has been documenting the costs and benefits of needs analysis in several construction projects undertaken by the architectural office of Patrick Sullivan Associates in San Luis Obispo, California. 
+She has been able to show how the needs analysis lowered project costs. 
+In the case of two jails, the research showed that a lower level of security hardware and construction were feasible, and in the construction of a city hall, how similar types of work stations could be consolidated. 
+On the city hall project, which was scaled down 15 percent because of the efficiency of the open-office modular work stations recommended by the researchers, the client was billed for under 1,300 consultant hours.
+A criticism of needs analysis is that it will awaken false hopes if people assume that they will always get what they request. 
+This expectation can be avoided, or at least minimized, by a clear statement in the survey that it may not be possible to fulfill everyone's wishes and by clearly stating at the outset the scope, resources, and limitations of the proposed project. 
+On the other hand, it is necessary that people believe that their suggestions will receive a fair hearing. Otherwise their replies are not likely to be very useful for the UNA.

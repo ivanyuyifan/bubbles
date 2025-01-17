@@ -1,0 +1,70 @@
+2 Models and Methods 
+This chapter is concerned with four general approaches which are common to various disciplines, but highly controversial in some of them. 
+Its four sections deal in tum with comparison, with the use of models, with quantitative methods and, finally, with the employment of the social 'microscope'.
+Comparison  
+Comparison has always had a central place in social theory. 
+Indeed, Durkheim declared that, 'Comparative sociology is not a special branch of sociology; it is sociology itself.' He emphasized the value of the study of 'concomitant variation' in particular as a kind of 'indirect experiment' which allowed the sociologist to move from the description of a society to an analysis of why it takes a particular form. 
+He distinguished two kinds of comparison, both of which he advocated. In the first place, comparisons between societies which are fundamentally the same in structure, or, as he put it in a revealing biological metaphor, 'of the same species', and in the second place, comparisons between societies which are fundamentally different. 
+1 The influence of Durkheim on comparative linguistics and comparative literature, especially in France, is obvious enough.
+Historians, on the other hand, tended to reject comparison, on the grounds that they are concerned with the particular, the unique, the unrepeatable. 
+To this classic objection there is, however, an equally classic answer, given by Max Weber in 1914 to the historian Georg von Below, in the course of a debate on urban history. 'We are absolutely in accord that history should establish what is specific, say, to the medieval city; but this is possible only if we first find what is missing in other cities (ancient, Chinese, Islamic).' 
+It is only thanks to comparison that we are able to see what is not there, in other words to understand the significance of a particular absence.
+This was the point of Werner Sombart's famous essay, Why is there no socialism in the United States? It was also the strategy underlying Weber's own essay on the city, which argued that the truly autonomous city could only be found in the West. Indeed, Weber spent much of his working life in the attempt to define the distinctive characteristics of Western civilization (notably what he called its institutionalized 'rationality'), by means of systematic comparisons between Europe and Asia in the economic, political and religious spheres and even in that of music. He paid particular attention to the rise of Protestantism, capitalism and bureaucracy in the West, arguing that the three phenomena were at once similar and connected, and contrasting them with phenomena elsewhere (what Reinhard Bendix calls 'contrast-conceptions' are fundamental to the comparative approach).
+The implication of these examples is that the two approaches, particularizing and generalizing (or historical and theoretical), complement each other, and that both of them depend on comparison, whether explicit or implicit. 
+The American historian Jack Hexter once divided intellectuals into 'lumpers' and 'splitters', arguing that the discriminating splitters are superior to those who regard diverse phenomena as a single lump. 
+Of course no one wants to be a coarse lumper, incapable of making fine distinctions. 
+However, to see what apparently diverse phenomena have in common is surely as valuable an intellectual quality as to see how apparently similar phenomena differ. 
+In any case, splitting too depends on a prior act of comparison.
+Among the first historians to follow the lead of Durkheim and Weber were Marc Bloch and Otto Hintze. 
+Hintze learned the comparative method from Weber, though he confined his analysis to Europe. He concentrated on the development in different European states of what Weber called 'legal-rational' or 'bureaucratic' forms of government, noting, for example, the significance of the rise of the commissarius, an official who had not bought his office (as was customary in early modem Europe) and was therefore removable at the king's will?
+For his part, Marc Bloch learned the comparative method from Durkheim and his followers, notably the linguist Antoine Meillet. 
+He defined it in a similar way to them, distinguishing comparisons between 'neighbours' from those between societies remote from each other in place and time. 
+He advocated the method on similar grounds, because it allowed the historian 'to take a real step forward in the exciting search for causes'. 
+Two of Bloch's comparative studies are particularly famous. 
+The Royal Touch (1924) developed a comparison between neighbours, England and France, the two countries whose rulers were believed to possess the power to cure scrofula by touching the sufferer. 
+Feudal Society (1939-40) surveyed medieval Europe, but also included a section on Japan, noting the similarities in the position of knights and samurai but also emphasizing the difference between the unilateral obligation which bound the samurai to his master and the bilateral obligation between lord and vassal in Europe, where the junior partner had the right of rebellion if the senior partner did not keep his share of the bargain.
+After the Second World War, comparative studies gained momentum, especially in the United States, with the rise of sub-disciplines such as development economics, comparative literature and comparative politics. 
+The foundation of the journal Comparative Studies in Society and History in 1958 was part of the same trend.
+10 Although many professional historians remain suspicious of comparison, it is possible to point to a few areas where the method has proved to be extremely fruitful.
+In economic history, for example, the process of industrialization is often viewed in a comparative perspective. 
+Following the sociologist Thorstein Veblen, who published an essay on Germany and the industrial revolution, historians have asked whether other industrializing nations followed or diverged from the English model, and whether latecomers, like Germany and Japan, enjoyed advantages over their predecessors.
+In the case of political history, it is the comparative study of revolutions which has attracted most interest. 
+Among the best-known works in this genre are Barrington Moore's analysis of the 'social origins of dictatorship and democracy', which ranges from seventeenth-century England to nineteenth-century Japan; Lawrence Stone's essay on 'The Causes of the English Revolution'; and Theda Skocpol's study of France in 1789, Russia in 1917 and China in 1911, as cases which 'reveal similar causal patterns'." 
+Moore makes particularly effective., use of comparison as a means of testing general explanations (he is interested in what does not fit, as Weber was interested in what is not there). 
+In his own words: Comparisons can serve as a rough negative check on accepted historical explanations ...after learning about the disastrous consequences for democracy of a coalition between agrarian and industrial elites in nineteenth- and early twentieth-century Germany, the much discussed marriage of iron and rye - one wonders why a similar marriage between iron and cotton did not prevent the coming of the Civil War in the United States.
+In social history, the comparative study of feudalism, inspired by Marc Bloch, continues to flourish, with discussions of India and Africa as well as Europe and Japan. 
+The suggestion that it was the tsetse fly which ¡ª by attacking horses ¡ª prevented the development of anything like feudalism in West Africa is one of the most fascinating studies of 'what is missing', as Weber called it." 
+Comparative marriage patterns are the subject of a famous study by John Hajnal which contrasts the West European system of late marriage linked to the establishment of an independent household for the newly-weds, with the practices prevalent in the rest of the world. 
+In his turn Hajnal has stimulated other comparative studies, notably an essay by Jack Goody arguing that the West European system was the creation of the medieval Church, which discouraged marriages between relatives in order to increase its chances of inheriting from the unmarried. 
+Using a strategy much like Weber's, the historical anthropologist Alan Macfarlane has published a series of studies which attempt to define the Englishness of English society (individualism, a low propensity to violence, a culture particularly compatible with capitalism, and so on), by means of comparisons and contrasts with other parts' of Europe, from Poland to Sicily.
+It would not be difficult to add to this brief list of examples, but they are perhaps sufficient to show that comparative history has a number of substantial achievements to its credit. 
+It also has its dangers two in particular.
+In the first place, there is the danger accepting too easily the assumption that societies 'evolve' through an inevitable sequence of stages. 
+The comparative method of Marx, Comte, Spencer, Durkheim and other nineteenth-century scholars consisted essentially in identifying the stage which a particular society had reached, in placing it on the ladder of social evolution. 
+To many scholars today, this assumption no longer seems tenable (below, p. 134). 
+The problem is then to make comparative analyses which are neither evolutionist nor static - as Weber's tended to be - but take account of the different paths along which a society may travel.
+In the second place, there is the danger of ethnocentrism. 
+It may well seem odd to point out such a danger, since comparative analysis has long been associated with the increasing awareness of non-Western cultures on the part of Western scholars. 
+All the same, these scholars have often treated the West as a norm from which other cultures diverge. 'Feudalism', for example, like 'capitalism', is a concept originally formulated on the basis of Western experience. There is an obvious danger of trying to force other people's history into Western categories of this kind.
+The case of 'feudalism' in the Indian kingdom of Rajasthan, for example, is a cautionary tale which would-be comparative historians might do well to bear in mind. 
+In 1829, James Tod presented to the public what he called a 'Sketch of a Feudal System in Rajasthan'. 
+Relying on Henry Hallam's recent View of the State of Europe during the Middle Ages (1818), Tod emphasized relatively superficial analogies between the two societies. 
+With Hallam in his head, he failed to notice the greater importance of family relationships between 'lords' and 'vassals' in the Indian case.
+Another problem is that of deciding what exactly to compare with what. 
+The comparatists of the nineteenth century, such as Sir James Frazer, concentrated attention on similarities between specific cultural traits or customs, ignoring the social context of those customs, which was often quite different. 
+For this their analyses have been criticized, like Tod's, as superficial. 
+What is the alternative? 
+The functionalists (below, p. 104) would say that the true objects of study are the functional equivalents in different societies. 
+Robert Bellah, for example, noting the discrepancy between the Japanese economic achievement (as early as the seventeenth century) and Weber's hypothesis about the connection between capitalism and Protestantism, suggested that a certain type of Japanese Buddhism was functionally analogous in the sense of encouraging an ethos of hard work and thrift similar to the Protestant ethic.
+In the course of solving one problem, however, we find ourselves faced with others. 
+The concept of a 'functional equivalent' forms part of an intellectual package, 'functionalism', which is open to criticism (below, p. 104). 
+In any case, examples of functional equivalents are not always as clear as Bellah's. 
+How do we decide what counts as an analogue? 
+Comparatists face a dilemma. 
+If we compare specific cultural traits, we have fixed on something precise, and can note its presence or absence, but we risk superficiality. The search for analogues, on the other hand, leads towards comparisons between whole societies. 
+Yet how can one usefully compare or contrast societies which differ from each other in so many different ways?
+The problems of comparison on the grand scale become apparent if we look at a famous example, Arnold Toynbee's massive Study of History. 
+Toynbee's unit of comparison was a 'civilization', and he distinguished some twenty such civilizations in world history. 
+He had of course to reduce each civilization to a small bundle of traits in order to make comparison possible. 
+As his critics were quick to point out, he also had to create artificial barriers between civilizations. 
+To make matters still more difficult, Toynbee lacked an adequate conceptual apparatus for such an ambitious work. 

@@ -1,0 +1,49 @@
+The generator and step-up transformer at Vattenfall's Porsi hydropower plant is being replaced with a Powerformer machine. 
+The new machine, the largest Powerformer to date, will have a rated voltage of 155 kV, a rated capacity of 75 MVA and a rated speed of 125 rpm. 
+Commissioning will start at the end of 2000.
+In 1998 the very first Powerformer was commissioned in the Porjus Hydro Power Centre in the northern part of Sweden. 
+This first machine has a rated voltage of 45 kV, a rated capacity of 11 MVA and a rated speed of 600 rpm. 
+It is connected directly to the 45 kV busbar without any step-up transformer. 
+ABB Generation is now carrying out an extensive test programme to verify the performance of the concept. 
+So far the test results verify calculations or show that Powerformer achieves better performance than expected. 
+The Porsi project
+After the successful demonstration of the Powerformer concept, Vattenfall, the largest electric power utility in Sweden, decided to use the technology for the rehabilitation of a generating unit at its Porsi hydropower plant. 
+This will be third Powerformer installation.
+Vattenfall owns a number of hydropower plants in the central and northern part of Sweden. 
+Many of these plants were taken into service before 1970. 
+The improved reliability and lower maintenance cost of Powerformer makes it an attractive solution in Vattenfall's rehabilitation programme. 
+Based on first hand experience of Powerformer, Vattenfall now wants to be able to broaden their experience of Powerformer and verify the performance for general application.
+Porsi hydropower plant is situated at the river Lule alv about 120 kilometres NW of the town Lulea in the far north of Sweden. 
+The gross head is 33 metres and the mean annual flow is close to 500 cubic metres per second. 
+The initial construction in Porsi hydropower plant started in 1958 and the first two Kaplan turbine units were ready by 1962. 
+A third generating unit was added during the 1980s. 
+At that time a new three-winding transformer replaced the step-up transformer of the first unit and connected the third generator to the transmission network.
+Now Powerformer will replace the first generator and the step-up transformer of the second unit. 
+At the same time, Vattenfall will replace the first Kaplan turbine by a propeller turbine. 
+This third Powerformer will have a rated voltage of 155 kV, a rated capacity of 75 MVA and a rated speed of 125 rpm. 
+The rated power factor will be one. 
+The work on site will start in May year 2000. The commissioning will be finalized early in 2001.
+Advantages of Powerformer
+As described in previous articles in ModernPowerSystems (March and May 1998) Powerformer enables direct connection of a generator to the transmission network without any intervening step-up transformer, with far-reaching consequences for the electrical industry.
+The stator winding in a conventional generator has rectangular conductors. 
+The shape of these conductors causes an uneven electric field distribution with high electric field strengths at the corners. 
+Advanced measures are necessary to control the electric field in the end regions of conventional generators. 
+The classical design philosophy has resulted in generators with a rated voltage no greater than 36 kV. 
+However, the voltage of power transmission networks has reached much higher levels, so there is a need for step-up transformers to connect conventional generators to transmission networks.
+The winding of Powerformer has cylindrical conductors, providing an even electric field distribution. 
+The stator winding of Powerformer is based on technology used for power cables. 
+Available insulation materials and production techniques offer reliable cables at operating gradients of the order of 10 kV/mm and even more. 
+Such high electrical fields are not acceptable for conventional coil insulation based on mica and epoxy.
+The idea of connecting generators directly to the transmission network is not new. 
+Already in 1905 the efforts of Professor Mengarini and engineers of the Ganz Company resulted in two three-phase 30 kV, 5.2 MVA, 450 rpm and 45 Hz generators in the Subiaco hydropower station, Italy. 
+The power was transmitted to Rome, a distance of 55 kilometres.
+One remarkable step was taken in 1928 by Sir Charles A. Parsons and J. Rosen , when they built a three-phase turbo generator of 25 MVA, 33 kV and 3 000 rpm. 
+At least eight such directly connected turbo generators were built in the years 1928-34.
+Among the benefits of direct connection are:
+Reduction in active power losses due to elimination of generator busbars, generator switchgear and step-up transformer. The efficiency of Powerformer is 0.5-2.0 percentage points higher than a conventional system.
+Reduced reactive power losses due to elimination of the step-up transformer, which allows for an increased rated power factor and decreased capacity of the machine.
+Fewer components. Medium-voltage generator breaker, medium-voltage bus-work and step-up transformer are eliminated as are some current and voltage transformers.
+Improved availability, arising from having fewer components and from reliability of the machine itself.
+Less maintenance, again due to fewer components and the fact that Powerformer does not require more maintenance than a conventional generator.
+More compact plant, with consequent cost savings on civil works.
+Lower environmental impact, which has been estimated in life cycle analyses covering manufacturing, operation, and materials recycling.

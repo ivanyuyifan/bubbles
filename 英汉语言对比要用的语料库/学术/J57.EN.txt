@@ -1,0 +1,78 @@
+7 The Psychology of the Second Person
+We respect persons when we give them standing in our relations with them and recognize their second-personal dignity. 
+But what psychic mechanisms are involved in respect and the second-person standpoint? 
+How is it possible for a capacity that is sensitive, in principle, to claims of free and rational agents as such to be realized in human psychology, naturalistically conceived? 
+Whether there is such a thing as dignity and what it takes to have that status are not, of course, matters of empirical psychology. 
+The thesis of morality as equal accountability is moral-philosophical, not psychological. 
+Still, rival consequentialist moral theories can be lent an air of apparent empirical support and realism by the familiar Humean moral psychology with which they are often associated and hence an apparent default plausibility that Kantian theories rarely seem to enjoy. 
+There is, for some, a lingering sense that any moral theory claiming a priori foundations and faculties cannot possibly apply to human beings as we actually are.
+This chapter discusses aspects of human psychology that are relevant to morality as equal accountability and to the second-person stance more generally. 
+We have already seen (in Chapters 4 and 5) how familiar reactive attitudes have an implicitly second-personal structure that fits them to practices of mutual accountability. 
+In this chapter, we consider how these interact with other psychic mechanisms that also play crucial supporting roles, most notably, empathy and what Gibbard calls our ¡°normative psychology,¡± namely, the distinctive human capacities concerned with accepting and regulating behavior and feeling by norms (1990: 55-82).
+Two caveats are necessary at the outset. 
+First, I should stress again that nothing I say in this chapter is intended to provide direct support for morality as equal accountability or for the existence of second-personal reasons. 
+Any arguments for these ideas must be normative and philosophical. 
+Nonetheless, to the extent that human behavior can be shown to involve capacities in which second-personal moral notions are psychically realized, so also can these ideas be seen to fit with our psychology, or at least not to be in conflict with it.
+Second, although I draw on a steadily increasing literature in experimental psychology, some of my psychological hypotheses are abstract and speculative. 
+To some extent, this is unavoidable. 
+And it is worth noting that the Humean framework similarly employs a more abstract conception of desire than any that can be found in common sense or experimental psychology. 
+In fact, the Humean theory¡¯s notion of desire is sufficiently abstract that the phenomena I point to here are likely consistent with the basic ¡°law¡± of the Humean theory of motivation¡ªwhich states that all intentional action results from appropriately paired desires and beliefs (Davidson 1980; Smith 1994). 
+The fact remains that the mechanisms I discuss are implicated in desires that are, in Rawls¡¯s helpful terms, ¡°principle-dependent¡± rather than ¡°object-dependent.¡± 
+Here there will be two crucial points. 
+First, sometimes, perhaps frequently, the desires that help to explain our intentional behavior are among those we have because we accept certain norms of action. 
+And second, some of the norms we evidently accept essentially involve the idea of second-personal authority.
+Finally, we should keep in mind a point I made at the end of Chapter 5, namely, that the familiar forms of moral reasoning that are involved in such principles as the Golden Rule and the Categorical Imperative have an intuitive second-personal interpretation. 
+The thought that people ought not to act in ways that fall short of their expectations or implicit demands of others reveals itself in our psychology in all sorts of ways, from the reactive attitudes to more principled moral reasoning of the kind that psychologists of moral development like Kohlberg (1981) have studied. 
+Any denial that these forms of reasoning and the feelings that draw upon them are deep and pervasive aspects of human psychology would seem to be, to quote Bishop Butler, ¡°too glaring a falsity to need being confuted¡± (1983: 18).
+Desire and Norm
+We can begin by considering the respective motivational roles played by desire, as philosophers normally understand it, and norm acceptance, as Gibbard describes it. 
+I claim, again, that second-personal competence essentially includes the capacity to be guided by norms, especially by second-personal norms that concern the authority to claim and demand. 
+Ultimately I argue that there is yet a further essential element: the ability critically to evaluate second-personal norms one accepts, and competing alternatives, from the standpoint of one mutually accountable person among others and to be guided by those one would endorse from that standpoint. 
+One way of viewing the argument of this book is as an attempt to show that this is but a more developed version of what is implicit in any second-personal thinking, for example, in reactive attitudes.
+Gibbard introduces the idea of norm acceptance through a discussion of cases of weak will. 
+Suppose, for example, that you can¡¯t get yourself to stop eating nuts at a party (1990: 56). 
+On the one hand, you desire to keep eating them. 
+On the other, you think you shouldn¡¯t. 
+It doesn¡¯t matter for present purposes why. 
+The reasons might relate to health, avoiding boorishness, not taking more than one¡¯s share, or whatever. 
+The point is that some conflict exists between your desire for nuts and your normative conviction regarding what there is most reason for you to do. 
+We know, of course, that frequently the nuts win out. 
+But the point is that they don¡¯t always and that even when they do, there is usually some conflict. 
+At least some motivation seems to come from accepting that there are weightier reasons to stop eating.
+This is not sufficient to establish that the motivation does not derive from further independent desires, of course. 
+Perhaps it comes in this case from the desire to be healthy or from the desire not to be or to seem a boor. 
+However, there are many reasons for thinking that this cannot always be so in general, that our accepting norms and normative reasons must exert some influence on our behavior that cannot be reduced to that of independently existing desires that are not themselves principle-dependent.
+One reason is that beliefs and desires can themselves explain behavior as intentional only on the hypothesis that we are usually instrumentally rational, and this will be so only if norms of instrumental rationality play a regulating role (Korsgaard 1986). 
+Lewis Carroll (1895) famously made the analogous point about inference as it applies to belief. 
+Without guidance by some norm of inference, a set of beliefs or believed premises is impotent to yield conclusions. 
+(Of course, beliefs might simply cause further beliefs in some nonrational way, but this wouldn¡¯t explain the transition of thought as rational.)
+If, for example, someone believes p and if p, then q, she cannot conclude q unless she follows a norm of inference, modus ponens, that takes her from (her beliefs that) p and if p, then q, to (a belief that) q. 
+Trying to add a further modus ponens-like belief--(if p and if p, then q, then q)¡ªwill not help, since it will still take following modus ponens to get rationally even from these augmented beliefs to a belief that q.
+The rational formation of new beliefs through inference cannot be fully explained by belief, therefore; it also requires regulation by a norm of inference.
+The situation is exactly analogous with instrumental reasoning from ends to necessary means. 
+To reason to a conclusion to take the necessary means to an end, it is required, not just that one have the end and believe some means to be necessary to achieve it, but also that one be regulated by a norm of practical inference that takes one from this desire and belief to the practical conclusion to take the necessary means. 
+And the only way the end and belief can rationally give rise to a desire to take the means is via a norm of instrumental reasoning that is analogous to modus ponens. 
+A further desire to take the necessary means to ones ends will be impotent in itself, for the very same reason that Lewis Carroll pointed to in the theoretical case.
+Regulation by norms of these theoretical and practical kinds is thus necessary to explain rational behavior, even in the terms of Humean desire-belief psychology. 
+As important as this phenomenon is, however, it doesn¡¯t yet fully capture the way in which norm acceptance is involved when an acceptance that one should or has reason to do something tends to motivate doing it, and such tendency, as in Gibbards nuts example, conflicts with occurrent desires. 
+The reason is that this necessarily includes accepting not just norms of inference but also norms that can supply premises in practical reasoning, that is, substantive normative reasons for acting. 
+Modus ponens and the norm of instrumental reason, as well as such associated norms of coherent theoretical and practical reasoning as the law of non-contradiction and formal decision theory, are best interpreted as norms of ¡°relative rationality¡± (Darwall 1983: 14-16, 44-49, 66-67; also Darwall 2001). 
+If one has good reason not to believe p and if p, then q, then the fact that one believes p and if p, then q cannot (by modus ponens) give one any reason to believe q. Rather modus ponens transfers whatever rational support there is for the first two beliefs to the third. 
+Believing q is rational ¡°relative to¡± there being reason to believe both p and if p, then q, respectively.
+Here again, the situation is exactly analogous in instrumental reasoning. 
+If one has no reason to have an end (and/or no reason to believe that some means is necessary to achieving it), then the mere facts that one has the relevant end and belief can give one no reason whatsoever to take the means. 
+The most that instrumental rationality can require is that one either take the means or give up either the end or the belief about the means¡¯ indispensability. 
+The practical analogue of modus ponens transfers rational support from the end and the belief to the means. 
+Taking the means is rational relative to there being reason to have the end and to believe that the relevant means is indispensable.
+Our beliefs, desires, and intentions must be more than merely coherent to be supported by reasons. 
+It follows that when we sincerely judge that there is reason to do something or that we ought to do it, we must accept substantive normative claims that go beyond any that follow from norms of coherent belief, desire, and action. 
+And there is good reason to think, moreover, that the influence of accepting such normative judgments, like that of accepting norms of practical inference, cannot be reduced to the influence of independently existing desires.
+Particularists like Dancy may insist at this point that the normative reasons we accept frequently resist formulation in universal norms, whereas universalists may hold that if I judge, say, that I should forego the nuts because that is for my good, this commits me to a universal norm of prudence. 
+But these differences don¡¯t matter for our purposes. 
+Whether motivational influence comes from acceptance of particular or universal normative claims, what matters is its irreducibility to independently existing desires. 
+I therefore use ¡°normative acceptance¡± to refer to the acceptance of either.
+Presently, I point to what I think are important psychic differences between desire and normative acceptance. 
+First, however, we need to note an important logical difference. 
+Desire, as conceived within the Humean framework, takes propositions or possible states of affairs as objects. 
+Desire and belief are defined by their differing ¡°directions of fit¡± with respect to a common propositional content or possible state of the world (Anscombe 1957; Platts 1979: 256-257; Smith 1994: 111-119). 
+A belief that p represents the world as being such that p, and if the world is not such that p, the belief is mistaken and should be changed.

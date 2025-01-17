@@ -1,0 +1,86 @@
+3 Kinematics
+3.1 Introduction In this chapter kinematic analysis of parallel robots is discussed in detail. 
+Kinematic analysis refers to the study of the geometry of motion of a robot, without considering the forces and torques that cause the motion. 
+In this analysis, the relation between the geometrical parameters of the manipulator with the final motion of the moving platform is derived and analyzed.
+A parallel robot is a mechanism with a number of closed kinematic chains, and its moving platform is linked to the base by several independent kinematic chains. 
+This definition of parallel robots is very extensive, and it includes redundant parallel manipulators with more actuators than the number of controlled degrees-of-freedom as well as under constrained parallel manipulators. 
+Parallel robots for which the number of kinematic chains is equal to the number of degrees-of-freedom of the moving platform are called fully parallel robots. 
+If in addition to this condition, the type and number of joints at each limb, and the number and location of the actuated joints are identical in all the limbs, such a parallel robot is called symmetric.
+Since kinematic analysis of symmetrical parallel manipulators is more convenient, this structure is used in many industrial robots, such as Stewart-Gough manipulator, or Delta robot.
+There are three main cases for fully parallel manipulators. 
+Planar robots with two translation and one rotational degree-of-freedom in the plane; spatial orientation manipulators with three rotational degrees-of-freedom in space, and a general spatial robot with three translational and three rotational degrees-of-freedom in space. 
+Figure 3.1 illustrates a symmetrical planar parallel robot the limbs of which consist of an identical structure of three revolute joints, which can be named as 3RRR manipulator. 
+The underlined joint in this convention refers to the actuated one. 
+Figure 3.32 shows a redundant 4RRR similar to this manipulator, in which the first revolute joint is actuated. 
+As another planar robot, consider the manipulator shown in Figure 1.7. 
+This manipulator is a redundant manipulator with the structure of 4RPR, which means a symmetrical limb structure of RPR is used and the prismatic joint is actuated.
+FIGURE 3.1 A symmetrical planar parallel robot
+Examples of spatial orientation manipulators are shown in Figures 3.33 and 3.10, in which the first manipulator is a fully parallel three-degrees-of-freedom manipulator, while the latter is a redundant parallel manipulator. 
+Both manipulators are designed to provide a pure orientation motion for their moving platform. 
+The first manipulator shown in Figure 3.33, consists of two tetrahedrals connected to each other by a spherical joint, limiting the motion of the moving platform into three rotational degrees-of-freedom. 
+The limbs in this robot have an SPS structure, in which their prismatic joint is actuated. 
+Likewise, in the redundant manipulator shown in Figure 3.10, which is called hydraulic shoulder manipulator, the passive link which is connected to the base with a spherical joint (S6), limits the motion of the moving platform to only three rotational degrees-of-freedom. 
+However, in this manipulator, four limbs with identical structures of UPU are used to generate a redundant parallel robot. 
+In this book, thorough kinematic analyses of both the redundant planar manipulator as well as the redundant spatial orientation manipulator are given, while the analysis of the fully parallel manipulators is left to the reader to be examined in the problems. 
+The Stewart-Gough platform (SGP) is also adopted for the analysis of fully parallel six-degrees-of-freedom manipulators. 
+This manipulator consists of six identical limbs with an SPS structure. 
+Although kinematic analysis of the SGP in its most general form has been considered by many researchers and fascinating results have been obtained, in this book, the closed-form solution of a special geometry of the SGP, which is called 6-6p SGP is chosen. 
+This is mainly due to the reason that the analytical forward kinematic solution of this manipulator is tractable and can be more easily followed by the reader than the other geometries. 
+The 6-6p SGP is shown in Figure 3.18.
+It is known that unlike serial manipulators, inverse kinematic analysis of parallel robots is usually simple and straightforward. 
+In most cases, limb variables may be computed independently using the given pose of the moving platform, and the solution in most cases even for redundant manipulators is uniquely determined. 
+However, forward kinematics of parallel manipulators is generally very complicated, and its solution usually involves systems of nonlinear equations, which are highly coupled and in general have no closed form and unique solution. 
+Different approaches are given in the literature to solve this problem either in general or in special cases. 
+In general, different solutions to the forward kinematic problem of parallel manipulators can be found by using numerical or analytical approaches. 
+In what follows, a systematic means to perform kinematic analysis of parallel manipulators is given and this method is examined through the above-mentioned three selected case studies.
+3.2 Loop Closure Method 
+As illustrated in Figure 3.2, a typical parallel manipulator consists of two main bodies. 
+Body A is arbitrarily designated as fixed and is called the base, while body B is designed to be movable and is called the moving platform, or sometimes the end effector.
+These two bodies are coupled via n limbs, each attached to points Ai and Bi, and called fixed-and moving-attachment points of the limb i, respectively. 
+At the displacement level, the forward kinematic problem pertains to the determination of the actual location or pose of the moving platform relative to the base from a set of joint-position readouts. 
+At the velocity level, the forward kinematic problem refers to the determination of the actual twist, that is, the translational and angular velocities of the moving platform relative to the base, from a set of joint-velocity readouts and for a known configuration. 
+Since the properties of parallel manipulators are usually complementary to those of serial architectures, they can be used in situations where the properties of the latter do not meet the application requirements. 
+However, the higher degree of complexity of parallel mechanisms leads to more challenging forward kinematic problems, at both the displacement and velocity levels. 
+The complexity of the forward kinematic problems depends extensively on the architecture, geometry, and joint-sensor layouts.
+FIGURE 3.2 Vector-loop closures in a general parallel manipulator.
+To describe the motion of the moving platform relative to the base, attach frame {A} to body A and frame {B} to body B, as shown in Figure 3.2. 
+The pose of the moving platform relative to the base is thus defined by a position vector p in addition to a rotation matrix R, in which p denotes the position vector of the origin of {B} with respect to frame {A}, and furthermore, the orientation of {B} with respect to {A} is represented by a 3 x 3 rotation matrix R. 
+Each limb of a parallel manipulator defines a kinematic loop passing through the origins of frames {A} and {B}, and through the two limb attachment points Ai and Bi.
+At the displacement level, the closure of each kinematic loop can be expressed in the vector form as . . . in which . . . and . . . can be easily obtained from the geometry of the attachment points in the base and in the moving platform. 
+Let us define vector ai = . . . in the fixed frame {A}i, and bi =. . . in the moving frame {B}. 
+Furthermore, qi= . . . is defined as the limb variable, which indicates the geometry of the limb, and generally includes the active and passive limb segments. 
+Hence, the loop closure can be written as the unknown pose variables p, and R, the position vectors describing the known geometry of the base and the moving platform, ai and bi. Furthermore, the limb vector qi is only known from the kinematic equation of the limb together with the readouts of the position sensors located at the different joints of that limb. 
+Therefore, one may write the loop closure equations as follows: . . .
+These equations are the main body of kinematic analysis. 
+For an inverse kinematic problem, it is assumed that the moving platform position p and orientation R are given and the problem is to solve the active limb variables. 
+Hence, from the above equations the passive limb variables must be eliminated to solve the inverse kinematic problem. 
+This analysis is usually straightforward and results in a unique solution for the limb variables, even for redundant parallel manipulators. 
+However, the inverse solution is not straightforward, and usually numerical methods are used for forward kinematic solution. 
+In the proceeding sections, the inverse and forward kinematic analysis of three case studies are elaborated in detail.
+3.3 Kinematic Analysis of a Planar Manipulator 
+In this section, the kinematics of a planar parallel manipulator is discussed in detail. 
+In this analysis, the mechanism kinematic structure is described first and then the geometry of the manipulator is elaborated. 
+Next, the inverse and forward kinematic analyses of the manipulator are worked out in detail. 
+In order to verify the formulations, in Section 3.3.5, the simulation results for computation of inverse kinematics and forward kinematics of the manipulator are presented, and the accuracy of a numerical solution to forward kinematic problem is verified.
+3.3.1 Mechanism Description 
+The architecture of a planar 4 RPR parallel manipulator considered here is shown in Figure 3.3. 
+In this manipulator the moving platform is supported by four limbs of an identical kinematic structure. 
+Each limb connects the fixed base to the manipulator moving platform by a revolute joint (R), followed by an actuated prismatic joint (P), and another revolute joint (R). 
+Hence, the total structure of the manipulator is 4RPR. The kinematic structure of a prismatic joint is used to model either a piston-cylinder actuator at each limb, or a cable-driven one. 
+In order to avoid singularities at the central position of the manipulator, the limbs are considered to be crossed. 
+Complete singularity analysis of the mechanism is presented in Section 4.6.2.
+FIGURE 3.3 The schematics of a 4RPR parallel manipulator.
+As shown in Figure 3.3, Ai denotes the fixed base points of the limbs, Bi denotes point of connection of the limbs to the moving platform, Li denotes the limbs' lengths, and a denotes the limbs' angles. 
+The position of the center of the moving platform G is denoted by G = [xG, yG], and orientation of the manipulator moving platform is denoted by . . . with respect to the fixed coordinate frame. 
+Hence, the manipulator possesses three-degrees-of-freedom X = [xG, yG, . . .], with one-degree-of-redundancy in the actuators.
+3.3.2 Geometry of the Manipulator 
+For the purpose of analysis and as illustrated in Figure 3.4, a fixed frame O: xy is attached to the fixed base at point O, the center of the base point circle which passes through Ai's. 
+Moreover, another moving coordinate frame G: UV is attached to the manipulator moving platform at point G. 
+Furthermore, assume that point Ai lies at a radial distance of RA from point O, and point Bi lies at a radial distance of RB from point G in the xy plane, when the manipulator is at a central location.
+FIGURE 3.4 Kinematic configuration of the 4RPR planar manipulator.
+In order to specify the geometry of the manipulator, let us define . . . and . . . as the absolute angles of points Ai and Bi at the central configuration of the manipulator with respect to the fixed frame O. The instantaneous orientation angle of 
+Bi's is defined as . . .
+Therefore, for each limb, i = 1,2,3,4, the positions of the base points Ai are given by . . .
+3.3.3 Inverse Kinematics 
+For inverse kinematic analysis, it is assumed that the position and orientation of the moving platform X = [xG, yG,. . .] T is given and the problem is to find the joint variables of the manipulator, L = [Li, L2, L3, L4]T. 
+From the geometry of the manipulator, as illustrated in Figure 3.4, the loop closure equation for each limb, i = 1,2,3,4, may be written as, . . .

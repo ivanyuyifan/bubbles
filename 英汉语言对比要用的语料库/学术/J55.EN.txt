@@ -1,0 +1,86 @@
+The beginning of any corpus study is the creation of the corpus itself.The decisions that are taken about what is to be in the corpus, and how the selection is to be organized, control almost everything that happens subsequently. The results are only as good as the corpus.
+Some features of the source are worth controlling, in a commonsensical way.
+The specification of a corpus-the types and proportions of material in it-is hardly a job for linguists at all, but more appropriate to the sociology of culture.
+The stance of the linguist should be a readiness to describe and analyse any instances of language placed before him or her.
+In the infancy of the discipline of corpus linguistics, the linguists have to do the text selection as well; when the impact of the work is felt more widely, it may be possible to hand over this responsibility to language-orientated social scientists.
+Certainly the bulk of any lay discussion about corpora concerns the criteria for text selection.
+Until we know a lot more about the effects of our design strategies, we must rely on publishing a list of exactly what is in a corpus (for example, Renouf 1987).
+Users and critics can then consider the constitution and balance of the corpus as a separate matter from the reporting of the linguistic evidence of the corpus.
+I outline below, in the most general terms, the considerations that are relevant to the creation of a corpus of texts.
+The first consideration is the aim of the activity of corpus creation.It may be fairly general in providing a good selection of instances of the language for a variety of purposes, which do not need to be enumerated.
+Or it may be specific, as a stage in the development of a product or in the pursuit of a research goal.
+I shall highlight the construction of general corpora in this chapter, but the application to special needs should be shaped by similar considerations.
+The value of a general corpus as a place of reference is very great, and likely to grow dramatically in the coming years.
+It is now accepted that the documentation of a language, in dictionaries, grammars, etc. is an essential stage in its maturation.
+More and more people in every branch of information science are coming to realize that a corpus as a sample of the living language, accessed by sophisticated computers, opens new horizons.
+The creation of a corpus is a simple matter in outline.
+A decision is taken on a convenient size, and on priorities for selection, then by consulting catalogues, and so on, the text is picked for inclusion.
+Each of these steps will be discussed below, but there are two strictly practical matters that overshadow them.
+One is that a computer-held corpus has to have the material in electronic form, either from print or obtained direct from a text- processing activity which uses computers (printing, word processing, electronic mail, etc.).
+There are three normal methods of text input at the present time:
+adaptation of material already in electronic form;
+conversion by optical scanning (machine reading);
+conversion by keyboarding.
+Most projects will make use of all three methods, since each is suitable for a different class of material.
+For example, handwritten material and transcriptions of spoken language will require keyboarding, and newsprint can only be economically included if it is available in electronic form.
+For the mass of books printed by conventional methods, scanning is much the best alternative.
+Since omnifont scanners (capable of reading any type-face) are still fairly rare and expensive, it is important for project managers to encourage their use, so that they will become more popular and accessible to the average user.
+Scanners will always have value because so much print material will never be re-keyboarded.
+However, with modern methods of printing and publishing, there is nearly always an electronic stage.
+The originators of the text see this stage merely as a means to an end and rarely keep copies; the researcher should be able to secure co-operation and acquire more and more print material.
+The other practical problem is the securing of permission to put the text into electronic form, and to quote selections of it in various papers, reports, and other publications.
+This is a sensitive area of law and, although one experiences almost unfailing good sense from rights editors, the labour of keeping a large corpus in good legal health is enormous.
+It is likely that if copyright holders understood precisely why their texts were desired, and what safeguards there could be against exploitation and piracy, it would be possible to bypass this largely unproductive labour.
+Until this problem is solved internationally, it is likely to get worse.
+Some advice can be given in particular instances, but corpus projects should be designed with this in mind as a potential shadow over the enterprise.
+There are signs that the Council of Europe is alert to this problem and may use its influence to further corpus creation in the languages of Europe.
+Publishers who have an interest in reference material are contemplating amendments to the normal authorial contract, so that in future there may unnecessary paperwork.
+With these practical matters clearly understood, we can turn to the criteria for selection of texts.
+In the main, this is applied common sense, but there are some reflections from experience that may be worth considering.
+Perhaps the most far-reaching decision is whether the corpus will contain only written texts, or only spoken transcriptions, or both.
+Most corpora keep well away from the problems of spoken language -with some honourable exceptions-and, for a corpus which in any way purports to reflect a ¡®state of the language¡¯, this is most unfortunate.
+Many language scholars and teachers believe that the spoken form of the language is a better guide to the fundamental organization of the language than the written form; and many writers comment on the differences.
+In my own experience, there is no substitute for impromptu speech, and a decision I took in 1961 to assemble a corpus of conversation is one of the luckiest I ever made.
+Even at that time, I was assured that an automatic transcription of speech was ¡®just around the corner¡¯. It still is.
+If it is impossible in an early stage of a project to collect the spoken language, then there is a temptation to collect film scripts, drama texts, etc., as if they would in some way make up for this deficiency.
+They have a very limited value in a general corpus, because they are ¡®considered¡¯ language, written to simulate speech in artificial settings.
+Each has its own distinctive features, but none truly reflects natural conversation, which for many people is the quintessence of the spoken language.
+There is special integrity in a text which is a full record of a public meeting, enquiry, court case, radio or television station, etc., despite the mix of impromptu and considered language that is used scripts and even read-out statements are common.
+But such records are not likely to be representative of the general usage of conversation.
+The creation of a spoken corpus is not as straightforward as that of a written one, and would require a chapter on its own.
+Since most corpus activity concerns the written language, I shall concentrate on that in the remainder of this chapter.
+The material will range from formal to informal, from literary to ordinary.
+The formal will be easier to acquire than the informal, and the literary will be more easily noticed than the ordinary.
+In general, corpus designers should compensate for this fact.
+Ephemeral, and usually informal, written communications are sent through the post, pushed through the letter-box, left in piles in shops, offices, and waiting-rooms, added to packages and piled in our office in-trays in increasing profusion. They are often socially negligible, but they are widespread and typical of mundane prose.
+Equally, it is not necessary to embellish the corpus with all the best pieces of contemporary literary writing. A small amount will suffice.
+The reason is simple and not at all sinister or anti-literary.
+One of the principle uses of a corpus is to identify what is central and typical in the language.
+This is most valuable as a place of reference against which the work of literary artists can be seriously studied.
+However, if the work of established writers was already dominant in the corpus, it would have little or no value as a point of normative reference.
+Further, it is characteristic of literature to innovate, and we may expect a corpus of literary texts to have a low proportion of ordinary, everyday English. And since the processing emphasizes repeated patterns at the expense of unique ones, most of the distinctive literary patterning would be lost, because it would not occur often enough to count as central and typical.
+Equally, in journalism the well-known writers tend to have unusual ways of writing, and the more mundane and humdrum sorts of reporting will be more useful in the corpus. This is a minefield of prejudice and misunderstanding.
+If we are to approach a realistic view of the way in which language is used, we must record the usage of the mass of ordinary writers, and not the stray genius or the astute journalist.
+Design criteria
+There are many other criteria that can be applied-too many in fact, because each criterion adds substantially to the number of different samples to be obtained.
+More on this point below.
+A discussion of most of the relevant criteria can be found in Renouf (1984), and in the same paper there is a record of the criteria used in the Cobuild project.
+As a guide, I recommend for a general corpus that any specialized material is either kept out or stored separately as an ancillary corpus.
+A general reference corpus is not a collection of material from different specialist areas-technical, dialectal, juvenile, etc.
+It is a collection of material which is broadly homogeneous, but which is gathered from a variety of sources so that the individuality of a source is obscured, unless the researcher isolates a particular text.
+The diversity of sources is an essential safeguard, until such work as Biber¡¯s (1988) categorizations using internal linguistic criteria has advanced sufficiently to allow efficient sampling.
+Now that newsprint is available in quantity, it must be remembered that the language of newspapers is just one variety of English- of one group of related varieties- and not a reliable sample of the language.
+Period
+Most corpora attempt to cover a particular period of time, and use the clearest time indicator, which is the time of first utterance or publication.
+However, if we are trying to sample the material that society has in front of it, then other factors become important.
+A written work may take some time to establish itself, and may remain influential for some time.
+The phraseology of Shakespeare and the King James Bible still exert an influence on present-day English usage.
+Overall size
+The dimensions of a corpus are of prime concern to most researchers in the initial conceptualization, and in the public statements. In the long run, they matter very little.
+The only guidance I would give is that a corpus should be as large as possible, and should keep on growing.
+This advice is based on the pattern of word occurrence in texts, first pointed out by Zipf (1935).
+Essentially, there is a huge imbalance in the frequency of the words.
+Most of any text is taken up by words like of, is, up, and by; rather less by like, taken, any, and most; still less by words, less again by text (the example words are the first ten words of this sentence).
+About half of the vocabulary of a text-even a very long text - consists of words that have occurred once only in that text.
+The relation between words and their frequency is regular.
+The commonest word in English - the - has approximately twice the frequency of the next two, of and and.

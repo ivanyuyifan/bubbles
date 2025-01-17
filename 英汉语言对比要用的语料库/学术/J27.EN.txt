@@ -1,0 +1,84 @@
+Chapter 1 Decision Theory and Human Behavior
+People are not logical. They are psychological.
+Anonymous
+People often make mistakes in their maths. 
+This does not mean that we should abandon arithmetic.
+Jack Hirshleifer
+Decision theory is the analysis of the behavior of an individual facing nonstrategic uncertainty¡ªthat is, uncertainty that is due to what we term "Nature¡± (a stochastic natural event such as a coin flip, seasonal crop loss, personal illness, and the like) or, if other individuals are involved, their behavior is treated as a statistical distribution known to the decision maker. 
+Decision theory depends on probability theory, which was developed in the seventeenth and eighteenth centuries by such notables as Blaise Pascal, Daniel Bernoulli, and Thomas Bayes.
+A rational actor is an individual with consistent preferences (¡ì1.1). 
+A rational actor need not be selfish. 
+Indeed, if rationality implied selfishness, the only rational individuals would be sociopaths. 
+Beliefs, called subjective priors in decision theory, logically stand between choices and payoffs. 
+Beliefs are primitive data for the rational actor model. 
+In fact, beliefs are the product of social processes and are shared among individuals. 
+To stress the importance of beliefs in modeling choice, I often describe the rational actor model as the beliefs, preferences and constraints model, or the BPC model. 
+The BPC terminology has the added attraction of avoiding the confusing and value-laden term "rational.¡±
+The BPC model requires only preference consistency, which can be defended on basic evolutionary grounds. 
+While there are eminent critics of preference consistency, their claims are valid in only a few narrow areas. 
+Because preference consistency does not presuppose unlimited information-processing capacities and perfect knowledge, even bounded rationality (Simon 1982) is consistent with the BPC model.
+1 Because one cannot do behavioral game theory, by which I mean the application of game theory to the experimental study of human behavior, without assuming preference consistency, we must accept this axiom to avoid the analytical weaknesses of the behavioral disciplines that reject the BPC model, including psychology, anthropology, and sociology (see chapter 12).
+Behavioral decision theorists have argued that there are important areas in which individuals appear to have inconsistent preferences. 
+Except when individuals do not know their own preferences, this is a conceptual error based on a misspecification of the decision maker's preference function. 
+We show in this chapter that, assuming individuals know their preferences, adding information concerning the current state of the individual to the choice space eliminates preference inconsistency. 
+Moreover, this addition is completely reasonable because preference functions do not make any sense unless we include information about the decision maker's current state. 
+When we are hungry, scared, sleepy, or sexually deprived, our preference ordering adjusts accordingly. 
+The idea that we should have a utility function that does not depend on our current wealth, the current time, or our current strategic circumstances is also not plausible. 
+Traditional decision theory ignores the individual's current state, but this is just an oversight that behavioral decision theory has brought to our attention.
+Compelling experiments in behavioral decision theory show that humans violate the principle of expected utility in systematic ways (¡ì1.7). 
+Again, is must be stressed that this does not imply that humans violate preference consistency over the appropriate choice space but rather that they have incorrect beliefs deriving from what might be termed "folk probability theory¡± and make systematic performance errors in important cases (Levy 2008).
+To understand why this is so, we begin by noting that, with the exception of hyperbolic discounting when time is involved (¡ì1.4), there are no reported failures of the expected utility theorem in nonhumans, and there are some extremely beautiful examples of its satisfaction (Real 1991). 
+Moreover, territoriality in many species is an indication of loss aversion (Chapter 11). 
+The difference between humans and other animals is that the latter are tested in real life, or in elaborate simulations of real life, as in Leslie Real's work with bumblebees (1991), where subject bumblebees are released into elaborate spatial models of flowerbeds. 
+Humans, by contrast, are tested using imperfect analytical models of real-life lotteries. 
+While it is important to know how humans choose in such situations, there is certainly no guarantee they will make the same choices in the real-life situation and in the situation analytically generated to represent it. 
+Evolutionary game theory is based on the observation that individuals are more likely to adopt behaviors that appear to be successful for others. 
+A heuristic that says "adopt risk profiles that appear to have been successful to others¡± may lead to preference consistency even when individuals are incapable of evaluating analytically presented lotteries in the laboratory.
+In addition to the explanatory success of theories based on the BPC model, supporting evidence from contemporary neuroscience suggests that expected utility maximization is not simply an "as if¡± story. 
+In fact, the brain's neural circuitry actually makes choices by internally representing the payoffs of various alternatives as neural firing rates and choosing a maximal such rate (Shizgal 1999; Glimcher 2003; Glimcher and Rusti-chini 2004; Glimcher, Dorris, and Bayer 2005). Neuroscientists increasingly find that an aggregate decision making process in the brain synthesizes all available information into a single unitary value (Parker and Newsome 1998; Schall and Thompson 1999). 
+Indeed, when animals are tested in a repeated trial setting with variable rewards, dopamine neurons appear to encode the difference between the reward that the animal expected to receive and the reward that the animal actually received on a particular trial (Schultz, Dayan, and Montague 1997; Sutton and Barto 2000), an evaluation mechanism that enhances the environmental sensitivity of the animal's decision making system. 
+This error prediction mechanism has the drawback of seeking only local optima (Sugrue, Corrado, and Newsome 2005). Montague and Berns (2002) address this problem, showing that the orbitofrontal cortex and striatum contain a mechanism for more global predictions that include risk assessment and discounting of future rewards. 
+Their data suggest a decision-making model that is analogous to the famous Black-Scholes options-pricing equation (Black and Scholes 1973).
+The existence of an integrated decision-making apparatus in the human brain itself is predicted by evolutionary theory. 
+The fitness of an organism depends on how effectively it make choices in an uncertain and varying environment. 
+Effective choice must be a function of the organism's state of knowledge, which consists of the information supplied by the sensory inputs that monitor the organism's internal states and its external environment. 
+In relatively simple organisms, the choice environment is primitive and is distributed in a decentralized manner over sensory inputs. 
+But in three separate groups of animals, craniates (vertebrates and related creatures), arthropods (including insects, spiders, and crustaceans), and cephalopods (squid, octopuses, and other mollusks), a central nervous system with a brain (a centrally located decision-making and control apparatus) evolved. 
+The phylogenetic tree of vertebrates exhibits increasing complexity through time and increasing metabolic and morphological costs of maintaining brain activity. 
+Thus, the brain evolved because larger and more complex brains, despite their costs, enhanced the fitness of their carriers. 
+Brains therefore are ineluctably structured to make consistent choices in the face of the various constellations of sensory inputs their bearers commonly experience.
+Before the contributions of Bernoulli, Savage, von Neumann, and other experts, no creature on Earth knew how to value a lottery. 
+The fact that people do not know how to evaluate abstract lotteries does not mean that they lack consistent preferences over the lotteries that they face in their daily lives.
+Despite these provisos, experimental evidence on choice under uncertainty is still of great importance because in the modern world we are increasingly called upon to make such "unnatural¡± choices based on scientific evidence concerning payoffs and their probabilities.
+1.1 Beliefs, Preferences, and Constraints
+In this section we develop a set of behavioral properties, among which consistency is the most prominent, that together ensure that we can model agents as maximizers of preferences.
+A binary relation. . .A on a set A is a subset of A x A. 
+We usually write the proposition (x,y) . . .A as x . . . A y. 
+For instance, the arithmetical operator "less than¡±(<) is a binary relation, where (x,y) . . .< is normally written x < y. 
+A preference ordering ¡ÝA on A is a binary relation with the following three properties, which must hold for all x,y,z . . . A and any set B:
+Complete: x ¡ÝA y or y ¡ÝA x;
+Transitive: x ¡ÝA y and y ¡ÝA z imply x¡ÝA z;
+Independent of irrelevant alternatives: For x,y . . . B, x¡Ý By if and only if x¡Ý A y.
+Because of the third property, we need not specify the choice set and can simply write x ¡Ý y. 
+We also make the behavioral assumption that given any choice set A, the individual chooses an element x . . .A such that for all y . . . A, x ¡Ý y. When x ¡Ý y, we say "x is weakly preferred to y .¡±
+The first condition is completeness, which implies that any member of A is weakly preferred to itself (for any x in A, x ¡Ý x). 
+In general, we say a binary relation . . . is reflexive if, for all x, x. . .x. 
+Thus, completeness implies reflexivity. 
+We refer to ¡Ý as "weak preference¡± in contrast with "strong preference¡± >. 
+We define x > y to mean "it is false that y ¡Ý x.¡± 
+We say x and y are equivalent if x ¡Ý y and y ¡Ý x, and we write x . . . y. 
+As an exercise, you may use elementary logic to prove that if  ¡Ý satisfies the completeness condition, then &amp;gt; satisfies the following exclusion condition: if x &amp;gt; y, then it is false that y > x.
+The second condition is transitivity, which says that x ¡Ý y and y ¡Ý z imply x ¡Ý z. 
+It is hard to see how this condition could fail for anything we might like to call a preference ordering. 
+As a exercise, you may show that x > y and y ¡Ý z imply x > z, and x ¡Ý y and y > z imply x > z.
+Similarly, you may use elementary logic to prove that if ¡Ý satisfies the completeness condition, then . . . is transitive (i.e., satisfies the transitivity condition).
+The third condition, independence of irrelevant alternatives (IIA) means that the relative attractiveness of two choices does not depend upon the other choices available to the individual. 
+For instance, suppose an individual generally prefers meat to fish when eating out, but if the restaurant serves lobster, the individual believes the restaurant serves superior fish, and hence prefers fish to meat, even though he never chooses lobster; thus, IIA fails. 
+When IIA fails, it can be restored by suitably refining the choice set. 
+For instance, we can specify two qualities of fish instead of one, in the preceding example. 
+More generally, if the desirability of an outcome x depends on the set A from which it is chosen, we can form a new choice space . . .*, elements of which are ordered pairs (A,x), where x . . .A. . . *, and restrict choice sets in . . .*to be subsets of . . .* all of whose first elements are equal. 
+In this new choice space, IIA is trivially satisfied.
+When the preference relation ¡Ýis complete, transitive, and independent of irrelevant alternatives, we term it consistent. 
+If ¡Ý is a consistent preference relation, then there will always exist a preference function such that the individual behaves as if maximizing this preference function over the set A from which he or she is constrained to choose. 
+Formally, we say that a preference function u w A ¡ú R represents a binary relation ¡Ý if, for all x,y . . . A, u(x)¡Ý u(y) if and only if x ¡Ý y. 
+We have the following theorem.

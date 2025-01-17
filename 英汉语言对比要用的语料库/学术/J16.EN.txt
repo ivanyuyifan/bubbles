@@ -1,0 +1,89 @@
+CHAPTER 26 MECHANICAL VENTILATORY SUPPORT
+MECHANICAL VENTILATORY SUPPORT
+Mechanical ventilation is a therapeutic method that is used to assist or replace spontaneous breathing. 
+The primary indication for initiation of mechanical ventilation is respiratory failure, of which there are two basic types: hypoxemic respiratory failure, which is present when arterial O2 saturation (SaO2) &lt;90% occurs despite an increased inspired O2 fraction, and hypercarbic respiratory failure, which is characterized by arterial PCO2 values &gt;50 mmHg. 
+When it is chronic, neither of the two types is obligatorily treated with mechanical ventilation, but when acute, mechanical ventilation may be lifesaving.
+INDICATIONS
+The most common reasons for instituting mechanical ventilation are acute respiratory failure with hypoxemia (acute respiratory distress syndrome, heart failure with pulmonary edema, pneumonia, sepsis, complications of surgery and trauma), which accounts for ~65% of all ventilated cases, followed by causes of hypercarbic ventilatory failure such as coma (15%), exacerbations of chronic obstructive pulmonary disease (13%), and neuromuscular diseases (5%). 
+The primary objectives of mechanical ventilation are to decrease the work of breathing, thus avoiding respiratory muscle fatigue, and to reverse life-threatening hypoxemia and progressive respiratory acidosis.
+In some cases, mechanical ventilation is used as an adjunct to other forms of therapy, such as its use in reducing cerebral blood flow in patients with increased intracranial pressure. 
+Mechanical ventilation also is used frequently in conjunction with endotracheal intubation to prevent aspiration of gastric contents in otherwise unstable patients during gastric lavage for suspected drug overdose or during gastrointestinal endoscopy. 
+In critically ill patients, intubation and mechanical ventilation may be indicated before essential diagnostic or therapeutic studies if it appears that respiratory failure may occur during those maneuvers.
+TYPES OF MECHANICAL VENTILATION
+In its broadest sense, there are two distinct methods for ventilating patients: noninvasive ventilation (NIV) and invasive ventilation or conventional mechanical ventilation (MV).
+Noninvasive ventilation
+Noninvasive ventilation has been gaining more acceptance because it is effective in certain conditions, such as acute or chronic respiratory failure, and is associated with fewer complications, namely, pneumonia and tracheolaryngeal trauma. 
+Noninvasive ventilation usually is provided by using a tight-fitting face mask or nasal mask similar to the masks traditionally used for treatment of sleep apnea. 
+Noninvasive ventilation has proved highly effective in patients with respiratory failure from acute exacerbations of chronic obstructive pulmonary disease and is most frequently implemented by using bilevel positive airway pressure ventilation or pressure support ventilation. 
+In both of these modes, a preset positive pressure is applied during inspiration and a lower pressure is applied during expiration at the mask. 
+Both modes are well tolerated by a conscious patient and optimize patient-ventilator synchrony. 
+The major limitation to its widespread application has been patient intolerance because the tight-fitting mask required for NIV can cause both physical and emotional discomfort. 
+In addition, NIV has had limited success in patients with acute hypoxemic respiratory failure, for whom endotracheal intubation and conventional MV remain the ventilatory method of choice.
+The most important group of patients who benefit from a trial of NIV are those with acute exacerbations of chronic obstructive pulmonary disease (COPD) leading to respiratory acidosis (pH &lt;7.35). 
+Experience from several well-conducted randomized trials has shown that in patients with ventilatory failure characterized by blood pH levels between 7.25 and 7.35, NIV is associated with low failure rates (15¨C20%) and good outcomes (intubation rate, length of stay in intensive care, and in some series mortality rates). 
+In more severely ill patients with pH &lt;7.25, the rate of NIV failure is inversely related to the severity of respiratory acidosis, with greater failure as the pH decreases. 
+In patients with milder acidosis (pH &gt;7.35), NIV is not better than conventional therapy that includes controlled oxygen delivery and pharmacotherapy for exacerbations of COPD (systemic corticosteroids, bronchodilators, and, if needed, antibiotics).
+Despite its benign outcomes, NIV is not useful in the majority of cases of respiratory failure and is contraindicated in patients with the conditions listed in Table 26-1. 
+Experience shows that NIV can delay lifesaving ventilatory support in those cases and actually results in aspiration or hypoventilation. 
+Once NIV is initiated, patients should be monitored; a reduction in respiratory frequency and a decrease in the use of accessory muscles (scalene, sternomastoid, and intercostals) are good clinical indicators of adequate therapeutic benefit. 
+Arterial blood gases should be obtained at least within hours of the initiation of therapy to ensure that NIV is having the desired effect and that it is safe to continue its application. 
+Lack of benefit within that time frame should alert one to the possible need for conventional MV.
+Conventional mechanical ventilation
+Conventional mechanical ventilation is implemented once a cuffed tube is inserted into the trachea to allow conditioned gas (warmed, oxygenated, and humidified) to be delivered to the airways and lungs at pressures above atmospheric pressure. 
+Great care has to be taken during the act of intubation to avoid brain-damaging hypoxia. 
+In some patients, intubation can be achieved without added sedation. In most patients, the administration of mild sedation may help facilitate the procedure. 
+Opiates and benzodiazepines are good choices but can have a deleterious effect on hemodynamics in patients with depressed cardiac function or low systemic vascular resistance. 
+Morphine can promote histamine release from tissue mast cells and may worsen bronchospasm in patients with asthma; fentanyl, sufentanil, and alfentanil are acceptable alternatives. 
+Ketamine may increase systemic arterial pressure and has been associated with hallucinatory responses; it should be used with caution in patients with hypertensive crisis or a history of psychiatric disorders. 
+Newer agents such as etomidate and propofol have been used for both induction and maintenance of anesthesia in ventilated patients. 
+They are shorter-acting, and etomidate has fewer adverse hemodynamic effects, but both agents are significantly more expensive than older agents. 
+Great care must be taken to avoid the use of neuromuscular paralysis during intubation; in particular, the use of agents whose mechanism of action includes depolarization at the neuromuscular junction, such as succinylcholine chloride, should be avoided in patients with renal failure, tumor lysis syndrome, crush injuries, medical conditions associated with elevated serum potassium levels, and muscular dystrophy syndromes.
+PRINCIPLES OF MECHANICAL VENTILATION
+Once the patient has been intubated, the basic principles of applying MV are to optimize oxygenation while avoiding overstretch and collapse/rerecruitment ventilator-induced lung injury (VILI). 
+This concept, which is illustrated in Fig. 26-1, has gained acceptance because of important empirical and experimental evidence linking high airway pressures and volumes and overstretching the lung with collapse/rerecruitment with poor outcomes. 
+Although normalization of pH through elimination of CO2 is desirable, the risk of lung damage associated with the large volume and high pressures needed to achieve this goal has led to the acceptance of permissive hypercapnia. 
+This approach has been found to be well tolerated when care is taken to avoid excess acidosis by pH buffering.
+MODES OF VENTILATION
+Mode refers to the manner in which ventilator breaths are triggered, cycled, and limited. 
+The trigger, either an inspiratory effort or a time-based signal, defines what the ventilator senses to initiate an assisted breath. 
+Cycle refers to the factors that determine the end of inspiration. 
+For example, in volume-cycled ventilation, inspiration ends when a specific tidal volume is delivered. 
+Other types of cycling include pressure cycling and time cycling. 
+The limiting factors are operator-specified values, such as airway pressure, that are monitored by transducers internal to the ventilator circuit throughout the respiratory cycle; if the specified values are exceeded, inspiratory flow is terminated, and the ventilator circuit is vented to atmospheric pressure or the specified pressure at the end of expiration (positive end-expiratory pressure [PEEP]). 
+Most patients are ventilated with assist control ventilation, intermittent mandatory ventilation, or pressure-support ventilation, with the latter two modes often used simultaneously (Table 26-2).
+Assist control ventilation (ACMV) 
+This is the most widely used mode of ventilation.
+In this mode, an inspiratory cycle is initiated either by the patient-inspiratory effort or, if none is detected within a specified time window, by a timer signal within the ventilator. 
+Every breath delivered, whether patient- or timer-triggered, consists of the operator-specified tidal volume. 
+Ventilatory rate is determined either by the patient or by the operator-specified backup rate, whichever is of higher frequency. 
+ACMV commonly is used for initiation of mechanical ventilation because it ensures a backup minute ventilation in the absence of an intact respiratory drive and allows for synchronization of the ventilator cycle with the patient- inspiratory effort.
+Problems can arise when ACMV is used in patients with tachypnea due to nonrespiratory or nonmetabolic factors, such as anxiety, pain, and airway irritation. 
+Respiratory alkalemia may develop and trigger myoclonus or seizures. 
+Dynamic hyperinflation leading to increased intrathoracic pressures (so-called auto-PEEP) may occur if the patient-respiratory mechanics are such that inadequate time is available for complete exhalation between inspiratory cycles. 
+Auto-PEEP can limit venous return, decrease cardiac output, and increase airway pressures, predisposing to barotrauma.
+Intermittent mandatory ventilation (IMV) 
+With this mode, the operator sets the number of mandatory breaths of fixed volume to be delivered by the ventilator; between those breaths, the patient can breathe spontaneously. 
+In the most frequently used synchronized mode (SIMV), mandatory breaths are delivered in synchrony with the patient’s inspiratory efforts at a frequency determined by the operator. 
+If the patient fails to initiate a breath, the ventilator delivers a fixed-tidal-volume breath and resets the internal timer for the next inspiratory cycle. 
+SIMV differs from ACMV in that only the preset number of breaths is ventilator-assisted.
+SIMV allows patients with an intact respiratory drive to exercise inspiratory muscles between assisted breaths, making it useful for both supporting and weaning intubated patients. 
+SIMV may be difficult to use in patients with tachypnea because they may attempt to exhale during the ventilator-programmed inspiratory cycle. 
+When this occurs, the airway pressure may exceed the inspiratory pressure limit, the ventilator-assisted breath will be aborted, and minute volume may drop below that programmed by the operator. 
+In this setting, if the tachypnea is in response to respiratory or metabolic acidosis, a change in ACMV will increase minute ventilation and help normalize the pH while the underlying process is further evaluated and treated.
+Pressure-support ventilation (PSV) 
+This form of ventilation is patient-triggered, flow-cycled, and pressure-limited. 
+It provides graded assistance and differs from the other two modes in that the operator sets the pressure level (rather than the volume) to augment every spontaneous respiratory effort. 
+The level of pressure is adjusted by observing the patient-respiratory frequency. 
+During PSV, the inspiration is terminated when inspiratory airflow falls below a certain level; in most ventilators, this flow rate cannot be adjusted by the operator. 
+When PSV is used, patients receive ventilator assistance only when the ventilator detects an inspiratory effort. 
+PSV frequently is used in combination with SIMV to ensure volume-cycled backup for patients whose respiratory drive is depressed. 
+PSV frequently is well tolerated by most patients who are being weaned; PSV parameters can be set to provide full or nearly full ventilatory support and can be withdrawn to load the respiratory muscles gradually.
+There are other modes of ventilation, and each has its own acronym, making it very difficult to understand for those unfamiliar with the terms. 
+All these modes are modifications of the manner and duration in which pressure is applied to the airway and lungs and of the interaction between the mechanical assistance provided by the ventilator and the patient-respiratory effort. 
+Although their use in acute respiratory failure is limited, the following have been used with varying levels of enthusiasm and adoption.
+Pressure-control ventilation (PCV) 
+This form of ventilation is time-triggered, time-cycled, and pressure-limited. 
+During the inspiratory phase, a specified pressure is imposed at the airway opening throughout inspiration. 
+Since the inspiratory airway pressure is specified by the operator, tidal volume and inspiratory flow rate are dependent, rather than independent, variables and are not operator-specified. 
+PCV is the preferred mode of ventilation for patients in whom it is desirable to regulate peak airway pressures, such as those with preexisting barotrauma, and postoperative thoracic surgical patients, in whom the shear forces across a fresh suture line should be limited. 
+When PCV is used, minute ventilation and tidal volume must be monitored closely; minute ventilation is altered through changes in rate or in the pressure-control value, which changes tidal volume.

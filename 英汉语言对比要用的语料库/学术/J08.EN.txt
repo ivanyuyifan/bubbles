@@ -1,0 +1,101 @@
+Chapter 3 Statistical Description of Systems of Particles 
+The preceding review of basic probability concepts has prepared us to turn the qualitative considerations of the first chapter into a systematic quantitative theory of systems consisting of very many particles. 
+Our aim will be to combine statistical considerations with our knowledge of the laws of mechanics applicable to the particles constituting a macroscopic system. 
+The resulting theory, therefore, is called statistical mechanics. 
+The reasoning that leads to this theory is very simple and uses only the most primitive ideas of mechanics and probability. 
+The beauty of the subject lies precisely in the fact that arguments of great simplicity and apparent innocence are capable of yielding results of impressive generality and predictive power.
+Indeed, the arguments used to discuss a macroscopic system are completely analogous to those used to discuss the familiar experiment of tossing a set of coins. 
+The essential ingredients for an analysis of this experiment are the following:
+(i) Specification of the state of the system
+ We must have available a method for specifying any of the possible outcomes of an experiment involving the system. 
+For example, the state of the set of coins after any toss can be described by specifying which particular face of each coin is uppermost.
+(ii) Statistical ensemble
+We have far too little information about the precise manner in which the coins are tossed to be able to use the laws of mechanics to make a unique prediction about the outcome of any particular experiment. 
+Hence we resort to a statistical description of the situation. 
+Instead of considering the particular set of coins of interest, we thus focus attention on an ensemble consisting of a very large number of similar sets of coins subjected to the same experiment. 
+We can then ask for the probability of occurrence of any experimental outcome. 
+This probability can be measured by observing the ensemble and determining the fraction of systems exhibiting the particular outcome. Our theoretical aim is the prediction of any such probability.
+(iii) Statistical postulates
+To make theoretical progress, it is necessary to introduce some postulates. 
+In the case of ordinary coins of uniform density, there is nothing intrinsic in the laws of mechanics which implies that one face of a coin should land uppermost more frequently than the other. 
+Hence we are led to introduce the postulate that “a priori” (i.e., based on our prior notions as yet unverified by actual observations) a coin has equal probability of landing on each of its two faces. 
+This postulate is eminently reasonable and certainly does not contradict any of the laws of mechanics. 
+The actual validity of the postulate can, however, only be decided by using it to make theoretical predictions and by checking that these predictions are confirmed by experimental observations. 
+To the extent that such predictions are consistently verified, the validity of this postulate can be accepted with confidence.
+(iv) Probability calculations
+Once the basic postulate has been adopted, we can calculate the probability of occurrence of any particular outcome involving the set of coins under consideration. 
+We can also compute various mean values of interest. 
+Thus we can answer all questions that can meaningfully be asked in a statistical theory.
+In studying systems consisting of a large number of particles, our considerations will be very similar to those used in formulating the preceding problem of a set of coins. 
+The next four sections will make this analogy explicit.
+3.1 Specification of the State of a System
+The study of atomic particles has shown that any system of such particles is described by the laws of quantum mechanics. 
+These laws, whose validity is supported by an overwhelming amount of experimental evidence, will thus form the conceptual basis for our entire discussion.
+In a quantum-mechanical description the most precise possible measurement on a system always shows this system to be in some one of a set of discrete quantum states characteristic of the system. 
+The microscopic state of a system can thus be described completely by specifying the particular quantum state in which the system is found.
+Each quantum state of an isolated system is associated with a definite value of its energy and is called an energy level. 
+There may be several quantum states corresponding to the same energy of the system. (These quantum states are then said to be degenerate.) Every system has a lowest possible energy. 
+There is usually only one possible quantum state of the system corresponding to this lowest energy; this state is said to be the ground state of the system. 
+In addition there are, of course, many (indeed, ordinarily infinitely many) possible states with higher energies; these are called the excited states of the system.
+The preceding comments are completely general and applicable to any system, no matter how complex. 
+They are best illustrated by some simple examples of great practical interest.
+(i) Single spin
+Consider a single particle, assumed to be fixed in position, which has spin 1/2 and a magnetic moment of magnitude . . .. 
+As already discussed in Sec. 1.3, this moment will be found to point either "up” " or "down” " (i.e., parallel or antiparallel) with respect to any specified direction. 
+The system consisting of this single spin thus has only two quantum states which we shall label by a quantum number . . .. 
+We can then denote the state where the magnetic moment of the particle points up by . . . = +1 , and the state where it points down by . . . = -1.
+If the particle is in the presence of a magnetic field B, this field specifies the direction of physical interest in the problem. 
+The energy E of the system then is lower when the magnetic moment is aligned parallel to the field rather than antiparallel to it. 
+The situation is analogous to that of a bar magnet located in an external magnetic field. 
+Thus, when the magnetic moment points up (i.e., parallel to the field B), its magnetic energy is simply . . .. Conversely, when the moment points down (i.e., antiparallel to the field B), its magnetic energy is simply . . .. 
+The two quantum states (or energy levels) of the system then correspond to different energies.
+(ii) Ideal system of N spins
+Consider a system consisting of N particles, assumed to be fixed in position, where each particle has spin 1/2 and a magnetic moment . . .. The system is located in an applied magnetic field B.
+The interaction between the particles is assumed to be almost negligible.
+The magnetic moment of each particle can point either up or down with respect to the field B. 
+The orientation of the ith moment can thus be specified by the value of its quantum number . . . so that . . .=+1 when this moment points up and . . .=-1 when it points down. 
+A particular state of the whole system can then be specified by stating the orientation of each of the N moments, i.e., by specifying the values assumed by the set of quantum numbers {. . .,. . ., ..., . . .}. 
+Thus one can enumerate, and label by some index . . ., all the possible states of the whole system. 
+This is done in Table 3.2 for the special case where N = 4. 
+The total magnetic moment of the system is simply equal to the sum of the magnetic moments of the individual spins. 
+Since the interaction between these spins is almost negligible, the total energy E of the system is also simply equal to the sum of the energies of the individual spins.
+(iii) Particle in a one-dimensional box
+Consider a single particle, of mass m, free to move in one dimension. 
+The particle is supposed to be confined within a box of length L, so that the particle's position coordinate x must lie in the range 0 <= x <= L. 
+Within this box the particle is subject to no forces.
+In a quantum-mechanical description, the particle has wave properties associated with it. 
+The particle confined within the box and bouncing back and forth between its walls is thus represented by a wave function . . . in the form of a standing wave whose amplitude must vanish at the boundaries of the box (since . . . itself must vanish outside the box). 
+The wave function thus must be of the form. . .
+(where A and K are constants) and must satisfy the boundary conditions. . ..
+The expression (1) obviously satisfies the condition . . . (0)= 0. 
+In order that it also satisfy the condition . . .(L) = 0, the constant K must be such that . . . or . . .
+where n can assume any of the integral values.
+The constant K in (1) is the wave number associated with the particle; it is related to the wavelength . . . (the so-called de Broglie wavelength associated with the particle) by the relation
+Hence (3) is equivalent to . . ., and represents merely the familiar condition that standing waves are obtained when the length of the box is equal to some integral multiple of half-wave-lengths.
+The momentum p of the particle is related to K (or . . .) by the famous de Broglie relation . . ..
+where . . . = h/2. . . and h is Planck's constant.
+The energy E of the particle is simply its kinetic energy, since there is no potential energy due to external forces. 
+Hence E can be expressed in terms of the velocity v or momentum p = mv of the particle as. . ..
+The possible values (3) of K then yield the corresponding energies . . ..
+Equivalently, we could have discussed the whole problem from a more mathematical point of view by starting from the fundamental Schrodinger equation for the wave function . . .. For a free particle in one dimension this equation is. . ..
+The functional form (1) satisfies this equation provided that the energy E is related to K by (7). 
+The condition (2) that the wave function must vanish at the boundaries of the box leads again to (3) and hence to the expression (8) for the energy.
+The possible quantum states of the particle in the box thus can be specified by the possible values (4) of the quantum number n. 
+The corresponding discrete energies of these states (i.e., the corresponding energy levels of the particle) are then given by (8).
+The relation (8) shows that the separation in energy between successive quantum states of the particle is very small if the length L of the box is of macroscopic size. 
+The lowest possible energy of the particle, i.e., its ground-state energy, corresponds to the state n = 1. 
+Note that this ground-state energy does not vanish.
+(iv) Particle in a three-dimensional box
+The generalization of the preceding problem to the case of a particle free to move in three dimensions is straightforward.
+Suppose that the particle is confined within a box in the shape of a rectangular parallelepiped of edge lengths Lx, Ly, and Lz. 
+The position coordinates x, y, z of the particle then can be assumed to lie in the respective ranges . . ..
+The particle has mass m and is subject to no forces within the box.
+The wave function of the particle now represents a standing wave in three dimensions. 
+Thus it is of the form. . ., where the constants Kx, Ky, Kz can be regarded as the three components of a vector K, the wave vector of the particle. 
+According to the de Broglie relation the momentum of the particle is then given by . . ..
+so that the relationship between the magnitude of p and the magnitude of K (or the wavelength . . .) is the same as in (6). 
+The energy of the particle is then given by . . ..
+Equivalently, it can be immediately verified that . . . in (9) is indeed a solution of the time-independent Schrodinger equation for a free particle in three dimensions, provided that E is related to K by (11).
+The fact that . . . must vanish at the boundaries of the box imposes the conditions that . . ..
+The expression (9) vanishes properly when x = 0, y = 0, or z = 0. 
+To make it vanish for x = L x, y = Ly, or z = Lz, the constants Kx, Ky, Kz must satisfy the respective conditions.

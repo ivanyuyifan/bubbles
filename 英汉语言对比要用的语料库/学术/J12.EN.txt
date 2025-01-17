@@ -1,0 +1,120 @@
+Chapter 4 Electric Fields in Matter
+4.1 Polarization
+4.1.1 Dielectrics 
+In this chapter we shall study electric fields in matter. 
+Matter, of course, comes in many varieties-solids, liquids, gases, metals, woods, glasses-and these substances do not all respond in the same way to electrostatic fields. 
+Nevertheless, most everyday objects belong (at least, in good approximation) to one of two large classes: conductors and insulators (or dielectrics). 
+We have already talked about conductors; these are substances that contain an "unlimited" supply of charges that are free to move about through the material. 
+In practice what this ordinarily means is that many of the electrons (one or two per atom in a typical metal) are not associated with any particular nucleus, but roam around at will. 
+In dielectrics, by contrast, all charges are attached to specific atoms or molecules - they're on a tight leash, and all they can do is move a bit within the atom or molecule. 
+Such microscopic displacements are not as dramatic as the wholesale rearrangement of charge in a conductor, but their cumulative effects account for the characteristic behavior of dielectric materials. 
+There are actually two principal mechanisms by which electric fields can distort the charge distribution of a dielectric atom or molecule: stretching and rotating. 
+In the next two sections I'll discuss these processes.
+4.1.2 Induced Dipoles
+What happens to a neutral atom when it is placed in an electric field E?
+Your first guess might well be: "Absolutely nothing - since the atom is not charged, the field has no effect on it." 
+But that is incorrect. 
+Although the atom as a whole is electrically neutral, there is a positively charged core (the nucleus) and a negatively charged electron cloud surrounding it. 
+These two regions of charge within the atom are influenced by the field: the nucleus is pushed in the direction of the field, and the electrons the opposite way. 
+In principle, if the field is large enough, it can pull the atom apart completely, "ionizing" it (the substance then becomes a conductor). 
+With less extreme fields, however, an equilibrium is soon established, for if the center of the electron cloud does not coincide with the nucleus, these positive and negative charges attract one another, and this holds the atoms together. 
+The two opposing forces-E pulling the electrons and nucleus apart, their mutual attraction drawing them together - reach a balance, leaving the atom polarized, with plus charge shifted slightly one way, and minus the other. 
+The atom now has a tiny dipole moment p, which points in the same direction as E. 
+Typically, this induced dipole moment is approximately proportional to the field (as long as the latter is not too strong): 
+The constant of proportionality . . . is called atomic polarizability. 
+Its value depends on the detailed structure of the atom in question. 
+Table 4.1 lists some experimentally determined atomic polarizabilities. 
+Example 4.1 
+A primitive model for an atom consists of a point nucleus (+q surrounded by a uniformly charged spherical cloud (-q) of radius a (Fig. 4.1). 
+Calculate the atomic polarizability of such an atom. 
+Solution: In the presence of an external field E, the nucleus will be shifted slightly to the right and the electron cloud to the left, as shown in Fig. 4.2. 
+(Because the actual displacements involved are extremely small, as you'll see in Prob. 4.1, it is reasonable to assume that the electron cloud retains its spherical shape.) 
+Say that equilibrium occurs when the nucleus is displaced a distance d from the center of the sphere. 
+At that point the external field pushing the nucleus to the right exactly balances the internal field pulling it to the left: E = Ee, where Ee is the field produced by the electron cloud. 
+Now the field at a distance d from the center of a uniformly charged sphere is . . . (Prob. 2.12). 
+At equilibrium, then, . . .
+The atomic polarizability is therefore . . ., (4.2)
+where v is the volume of the atom. 
+Although this atomic model is extremely crude, the result (4.2) is not too bad - it's accurate to within a factor of four or so for many simple atoms. 
+For molecules the situation is not quite so simple, because frequently they polarize more readily in some directions than others. 
+Carbon dioxide (Fig. 4.3), for instance, has a polarizability of . . .m/N when you apply the field along the axis of the molecule, but only . . . for fields perpendicular to this direction. 
+When the field is at some angle to the axis, you must resolve it into parallel and perpendicular components, and multiply each by the pertinent polarizability: 
+In this case the induced dipole moment may not even be in the same direction as E. 
+And CO2 is relatively simple, as molecules go, since the atoms at least arrange themselves in a straight line; for a completely asymmetrical molecule Eq. 4.1 is replaced by the most general linear relation between E and p: . . . (4.3)
+The set of nine constants . . ., constitute the polarizability tensor for the molecule. 
+Their actual values depend on the orientation of the axes you chose, though it is always possible to choose "principal" axes such that all the off-diagonal terms ( . . . ,  . . . , etc.) vanish, leaving just three nonzero polarizabilities:  . . . ,  . . . , and  . . . . 
+Problem 4.1
+A hydrogen atom (with the Bohr radius of half an angstrom) is situated between two metal plates 1 mm apart, which are connected to opposite terminals of a 500 V battery.
+What fraction of the atomic radius does the separation distance d amount to, roughly? 
+Estimate the voltage you would need with this apparatus to ionize the atom.
+[Use the value of . . . in Table 4.1.
+Moral: The displacements we're talking about are minute, even on an atomic scale.]
+Problem 4.2
+According to quantum mechanics, the electron cloud for a hydrogen atom in the ground state has a charge density.  . . .,
+where q is the charge of the electron and a is the Bohr radius. 
+Find the atomic polarizability of such an atom.
+[Hint: First calculate the electric field of the electron cloud, Ee (r); then expand the exponential, assuming r << a. 
+For a more sophisticated approach. see W. A. Bowers. Am. J. Phys. 54,347 (1986).] 
+Problem 4.3
+According to Eq. 4.1, the induced dipole moment of an atom is proportional to the external field. 
+This is a "rule of thumb," not a fundamental law, and it is easy to concoct exceptions - in theory. 
+Suppose, for example, the charge density of the electron cloud were proportional to the distance from the center, out to a radius R. 
+To what power of E would p be proportional in that case?
+Find the condition on p(r) such that Eq. 4.1 will hold in the weak-field limit. 
+Problem 4.4
+A point charge q is situated a large distance r from a neutral atom of polarizability . . .. 
+Find the force of attraction between them.
+4.1.3 Alignment of Polar Molecules 
+The neutral atom discussed in Sect. 4.1.2 had no dipole moment to start with-p was induced by the applied field. 
+Some molecules have built-in, permanent dipole moments. 
+In the water molecule, for example, the electrons tend to cluster around the oxygen atom (Fig. 4.4), and since the molecule is bent at 105. . ., this leaves a negative charge at the vertex and a net positive charge at the opposite end. 
+(The dipole moment of water is unusually large: 6.1¡Á10-30C¡¤m; in fact, this is what accounts for its effectiveness as a solvent.) 
+What happens when such molecules (called polar molecules) are placed in an electric field? 
+If the field is uniform, the force on the positive end, F+ = qE, exactly cancels the force on the negative end, F- = -qE (Fig. 4.5). 
+However, there will be a torque: . . ..
+Thus a dipole p = qd in a uniform field E experiences a torque (4.4)
+Notice that N is in such a direction as to line p up parallel to E; a polar molecule that is free to rotate will swing around until it points in the direction of the applied field. 
+If the field is nonuniform, so that F+ does not exactly balance F-, there will be a net force on the dipole, in addition to the torque. 
+Of course, E must change rather abruptly for there to be significant variation in the space of one molecule, so this is not ordinarily a major consideration in discussing the behavior of dielectrics. 
+Nevertheless, the formula for the force on a dipole in a nonuniform field is of some interest: . . .
+where . . . represents the difference between the field at the plus end and the field at the minus end. 
+Assuming the dipole is very short, we may use Eq. 1.35 to approximate the small change in Ex: 
+with corresponding formulas for Ey and Ez. 
+More compactly, . . .
+and therefore . . .(4.5)
+For a "perfect" dipole of infinitesimal length, Eq. 4.4 gives the torque about the center of the dipole even in a nonuniform field; about any other point N = (p ¡Á E) + (r ¡Á F). 
+Problem 4.5 In Fig. 4.6, p1 and p2 are (perfect) dipoles a distance r apart. 
+What is the torque on p1 due to p2?
+What is the torque on p2 due to p1?
+[In each case I want the torque on the dipole about its own center. 
+If it bothers you that the answers are not equal and opposite, see Prob. 4.29.1.]
+Problem 4.6
+A (perfect) dipole p is situated a distance z above an infinite grounded conducting plane (Fig. 4.7). 
+The dipole makes an angle . . . with the perpendicular to the plane. 
+Find the torque on p. 
+If the dipole is free to rotate, in what orientation will it come to rest? 
+Problem 4.7
+Show that the energy of an ideal dipole p in an electric field E is given by . . . (4.6)
+Problem 4.8
+Show that the interaction energy of two dipoles separated by a displacement r is . . . (4.7)
+[Hint: use Prob. 4.7 and Eq. 3.104.1.]
+Problem 4.9
+A dipole p is a distance r from a point charge q, and oriented so that p makes an angle . . . with the vector r from q to p. 
+(a) What is the force on p?
+(b) What is the force on q?
+4.1.4 Polarization
+In the previous two sections we have considered the effect of an external electric field on an individual atom or molecule. 
+We are now in a position to answer (qualitatively) the original question: 
+What happens to a piece of dielectric material when it is placed in an electric field? 
+If the substance consists of neutral atoms (or nonpolar molecules), the field will induce in each a tiny dipole moment, pointing in the same direction as the field.
+If the material is made up of polar molecules, each permanent dipole will experience a torque, tending to line it up along the field direction. 
+(Random thermal motions compete with this process, so the alignment is never complete, especially at higher temperatures, and disappears almost at once when the field is removed.)
+Notice that these two mechanisms produce the same basic result: a lot of little dipole., pointing along the direction of the field-the material becomes polarized. 
+A convenient measure of this effect is. . .
+which is called the polarization. 
+From now on we shall not worry much about how the polarization got there. 
+Actually, the two mechanisms I described are not as clear-cut as I tried to pretend. 
+Even in polar molecules there will be some polarization by displacement (though generally it is a lot easier to rotate a molecule than to stretch it, so the second mechanism dominates). 
+It's even possible in some materials to "freeze in" polarization, so that it persists after the field is removed. 
+But let's forget for a moment about the cause of the polarization and study the field that a chunk of polarized material itself produces. 
+Then, in Sect.4.3, we will put it all together: the original field, which was responsible for P, plus the new field, which is due to P.

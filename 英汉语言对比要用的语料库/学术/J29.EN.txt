@@ -1,0 +1,100 @@
+Part I Research, Researchers, and Readers
+HOW TO USE THIS BOOK
+The best way to deal with the complexity of research (and its anxieties) is to read this book twice. 
+First skim it to understand what lies ahead (flip past what seems tedious or confusing). 
+But then as you begin your work, carefully read the chapters relevant to your immediate task. 
+If you are new to research, reread from the beginning. 
+If you are in an intermediate course but not yet at home in your field, skim part I, then concentrate on the rest. 
+If you are an experienced researcher, you will find chapter 4 and parts III and IV most useful.
+In part I, we address what those undertaking their first project must think about deliberately: why readers expect us to write up our research in particular ways (chapter 1), and why you should think of your project not as solitary labor but as a conversation with those whose work you read and with those who will in turn read your work (chapter 2).
+In part II, we discuss how to frame and develop your project. 
+We explain
+how to find a topic in an interest, 
+then how to focus and question it (chapter 3); 
+how to transform those questions into a research problem (chapter 4); 
+how to find sources to guide your search for answers (chapter 5); 
+how to engage sources in ways that encourage your own best thinking (chapter 6). 
+In part III, we discuss how to assemble a sound case in support of your claim. 
+That includes 
+an overview of a research argument (chapter 7); 
+how to evaluate your claim for its significance (chapter 8); 
+how to judge what count as good reasons and sound evidence (chapter 9); 
+how to acknowledge and respond to questions, objections, and alternative views (chapter 10); 
+how to make the logic of your argument clear (chapter 11).
+In part IV, we lay out the steps in producing your paper: 
+how to plan and execute a first draft (chapter 12); 
+how to test and revise it (chapter 13); 
+how to incorporate sources (chapter 14); 
+how to present complex quantitative evidence clearly and pointedly (chapter 15); 
+how to write an introduction and conclusion that convince readers your argument is worth their time (chapter 16); 
+In an afterword, "The Ethics of Research," we reflect on a matter that goes beyond professional competence. 
+Doing and reporting research is a social activity with ethical implications. 
+We often read about the dishonest research of historians, scientists, stock analysts, and others. And we see plagiarism among writers at all levels of achievement, from secondary-school students to leaders of their professions. 
+Such events highlight the importance of doing and using your research ethically.
+Between some of the chapters you will find "Quick Tips," brief sections that complement the chapters with practical advice.
+In a concluding essay, we address those who teach research. At the end of the book is a bibliography of sources for beginning researchers and for advanced researchers in particular fields.
+Research is hard work, but like any challenging job done well, both its process and its results can bring great satisfaction. 
+No small part of that satisfaction comes from knowing that your work sustains the fabric of a community of people who share your interests, especially when you discover something that you believe can improve your readers5 lives by changing what and how they think.
+1 Thinking in Print
+The Uses of Research, Public and Private 
+In this chapter, we define research, then discuss how you benefit from learning to do it well, why we value it, and why we hope you will too.
+Whenever we read about a scientific breakthrough or a crisis in world affairs, we benefit from the research of those who report it, who in turn benefited from the research of countless others. 
+When we walk into a library, we are surrounded by more than twenty-five centuries of research. 
+When we go on the Internet, we can read millions of reports written by researchers who have posed questions beyond number, gathered untold amounts of information from the research of others to answer them, then shared their answers with the rest of us so that we can carry on their work by asking new questions and, we hope, answering them.
+Teachers at all levels devote their lives to research. Governments spend billions on it, businesses even more. 
+Research goes on in laboratories and libraries, in jungles and ocean depths, in caves and in outer space, in offices and, in the information age, even in our own homes. 
+Research is in fact the world's biggest industry. 
+Those who cannot do it well or evaluate that of others will find themselves sidelined in a world increasingly dependent on sound ideas based on good information produced by trustworthy inquiry and then presented clearly and accurately.
+That's why in this book we will urge you to be amiably skeptical of the research you read, to question it even as you realize how much you depend on it.
+WHAT IS RESEARCH?
+In the broadest terms, we do research whenever we gather information to answer a question that solves a problem: 
+PROBLEM£º Where do I find a new head gasket for my 1965 Mustang?
+RESEARCH£º Look in the yellow pages for an auto-parts store, then call to see if it has one in stock.
+PROBLEM£º To settle a bet, I need to know when Michael Jordan was born.
+RESEARCH£º You Google "Michael Jordan birthday." 
+PROBLEM£º I'm just curious about a new species of fish.
+RESEARCH£º You search the Internet for articles in newspapers and academic journals.
+We all do that kind of research every day, and though we rarely write it up, we rely on those who wrote up theirs: Jordan's biographers, the fish discoverers, the publishers of the yellow pages and the catalogs of the autoparts suppliers¡ªthey all wrote up their research because they knew that one day someone would have a question that they could answer.
+If you're preparing to do a research project not because you want to but because it's been assigned, you might think that it is just make-work and treat it as an empty exercise. 
+We hope you won't. 
+Done well, your project prepares you to join the oldest and most esteemed of human conversations, one conducted for millennia among philosophers, engineers, biologists, social scientists, historians, literary critics, linguists, theologians, not to mention CEOs, lawyers, marketers, investment managers¡ªthe list is endless.
+Right now, if you are a beginner, you may feel that the conversation is one-sided, that you have to listen more than you can speak because you have little to contribute. 
+If you are a student, you may feel that you have only one reader: your teacher. All that may be true, for the moment. But at some point, you will join a conversation that, at its best, can help you and your community free us from ignorance, prejudice, and the half-baked ideas that so many charlatans try to impose on us. 
+It is no exaggeration to say that, maybe not today or tomorrow but one day, the research you do and the arguments you make using it can improve if not the whole world, then at least your corner of it.
+WHY WRITE IT UP?
+For some of you, though, the invitation to join this conversation may still seem easy to decline. 
+If you accept it, you'll have to find a good question, search for sound data, formulate and support a good answer, and then write it all up. 
+Even if you turn out a first-rate paper, it may be read not by an eager world but only by your teacher. 
+And, besides, you may think, my teacher knows all about my topic. 
+What do I gain from writing up my research, other than proving I can do it?
+One answer is that we write not just to share our work, but to improve it before we do.
+Write to Remember
+Experienced researchers first write just to remember what they've read. 
+A few talented people can hold in mind masses of information, but most of us get lost when we think about what Smith found in light of Wong's position, and compare both to the odd data in Brunelli, especially as they are supported by Boskowitz¡ªbut what was it that Smith said? When you don't take notes on what you read, you're likely to forget or, worse, misremember it.
+Write to Understand
+A second reason for writing is to see larger patterns in what you read. 
+When you arrange and rearrange the results of your research in new ways, you discover new implications, connections, and complications. 
+Even if you could hold it all in mind, you would need help to line up arguments that pull in different directions, plot out complicated relationships, sort out disagreements among experts. 
+I want to use these claims from Wong, but her argument is undercut by Smith's data. 
+When I put them side by side, I see that Smith ignores this last part of Wong's argument. 
+Aha! If I introduce it with this part from Brunelli, I can focus on Wong more clearly. 
+Thafs why careful researchers never put off writing until they've gathered all the data they need: they write from the start of their projects to help them assemble their information in new ways.
+Write to Test Your Thinking
+A third reason to write is to get your thoughts out of your head and onto paper, where you'll see what you really can think. 
+Just about all of us, students and professionals alike, believe our ideas are more compelling in the dark of our minds than they turn out to be in the cold light of print. 
+You can't know how good your ideas are until you separate them from the swift and muddy flow of thought and fix them in an organized form that you¡ªand your readers¡ªcan study.
+In short, we write to remember more accurately, understand better, and evaluate what we think more objectively. 
+(And as you will discover, the more you write, the better you read.)
+WHY A FORMAL PAPER?
+But even when they agree that writing is an important part of learning, thinking, and understanding, some still wonder why they can't write up their research in their own way, why they have to satisfy demands imposed by a community that they have not joined (or even want to) and conform to conventions they did nothing to create. Why should I adopt language and forms that are not mine? 
+Aren't you just trying to turn me into an academic like yourself? 
+If I write as you expect me to, I risk losing my identity.
+Such concerns are legitimate (most teachers wish students would raise them more often). 
+But it would be a feeble education that did not change you at all, and the deeper your education, the more it will change the "you" that you are or want to be. 
+That's why it is so important to choose carefully what you study and with whom. 
+But it would be a mistake to think that learning to report sound research must threaten your true identity. 
+It will change the way you think, but only by giving you more ways of thinking. 
+You will be different by being freer to choose whom you want to be and what you want to do with your life.
+But the most important reason for learning to write in ways readers expect is that when you write for others, you demand more of yourself than when you write for yourself alone. 
+By the time you fix your ideas in writing, they are so familiar to you that you need help to see them not for what you want them to be but for what they really are. 
+You will understand your own work better when you try to anticipate your readers inevitable and critical questions: 

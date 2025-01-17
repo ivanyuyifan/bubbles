@@ -1,0 +1,108 @@
+Chapter 1 Definitions and Nomenclature 
+This chapter presents some basic radar definitions and establishes much of the nomenclature used throughout this text. 
+The word radar is an abbreviation for radio detection and ranging. 
+In most cases, radar systems use modulated waveforms and directive antennas to transmit electromagnetic energy into a specific volume in space to search for targets. 
+Objects (targets) within a search volume will reflect portions of the incident energy (radar returns or echoes) in the direction of the radar. 
+These echoes are then processed by the radar receiver to extract target information such as range, velocity, angular position, and other target identifying characteristics.
+1.1.Radar Systems Classifications and Bands 
+Radars can be classified as ground-based, airborne, spaceborne, or ship-based radar systems. They can also be classified into numerous categories based on the specific radar characteristics, such as the frequency band, antenna type, and waveforms utilized. 
+Radar systems using continuous waveforms, modulated or otherwise, are classified as Continuous Wave (CW) radars. 
+Alternatively, radar systems using time-limited pulsed waveforms are classified as Pulsed Radars. 
+Another radar systems classification is concerned with the mission and/or the functionality of the specific radar. This includes: weather, acquisition and search, tracking, track-while-scan, fire control, early warning, over-the-horizon, terrain following, and terrain avoidance radars. 
+Phased array radars utilize phased array antennas, and are often called multifunction (multimode) radars. 
+A phased array is a composite antenna formed from two or more basic radiators. 
+Array antennas synthesize narrow directive beams that may be steered, mechanically or electronically. Electronic steering is achieved by controlling the phase of the electric current feeding the array elements, and thus the name phased arrays is adopted.
+Historically, radars were first developed as military tools. 
+It is for this primary reason the most common radar systems classification is the letter or band designation originally used by the military during and after World War II. 
+This letter or band designation has also been adopted as an IEEE (Institute of Electrical and Electronics Engineers) standard. 
+In recent years, NATO (North Atlantic Treaty Organization) has adopted a new band designation with easier abecedarian letters. 
+Figure 1.1 shows the spectrum associated with these two letter or band radar classifications, while Table 1.1 presents the same information in a structured format.
+Figure 1.1. Radar systems band or letter classification.
+Table 1.1. Radar systems band or letter classification.
+High Frequency (HF) and Very High Frequency (VHF) Radars (A- and B-Bands): 
+These radar bands below 300MHz represent the frontier of radio technology at the time during the World War II. 
+However, in the modern radar era, these frequencies bands are used for early warning radars. 
+These radars utilize the electromagnetic waves¡¯ reflection off the ionosphere to detect targets beyond the horizon, and so they are called Over-the-Horizon Radars (OTHR). 
+Some examples include the United States (U.S.) Navy Relocatable over-the-horizon Radar (ROTHR) shown in Fig. 1.2, and the Russian Woodpecker radar shown in Fig. 1.3. 
+By using these low HF and VHF frequency bands, one can use high-power transmitters. 
+At these frequencies, the electromagnetic wave atmospheric attenuation is small and can be overcome by using high-power transmitters. 
+Radar angular measurement accuracies are limited in these bands because lower frequencies require antennas with significant physical size, thus limiting the radar¡¯s angle accuracy and angle resolution. 
+Other communication and broadcasting services typically use these frequency bands. 
+Therefore, the available bandwidth for military radar systems is limited and highly contested throughout the world. 
+Low-frequency systems can be used for Foliage Penetration (FoPen) applications, as well as in Ground Penetrating (GPen) applications.
+Figure 1.2. U. S. Navy over-the-horizon Radar. 
+Figure 1.3. Russian Woodpecker OTHR radar. Photograph obtained via the Internet.
+Ultra High Frequency (UHF) Radars (C-Band): UHF bands are used for very long range Early Warning Radars (EWR). 
+Some examples include the Ballistic Missile Early Warning System (BMEWS) search-and-track monopulse radar that operates at 245MHz (see Fig. 1.4), the Perimeter and Acquisition Radar (PAR), which is a very long range multifunction phased array radar; and the early warning PAVE PAWS multifunction UHF phased array radar. 
+This frequency band is also used for the detection and tracking of satellites and ballistic missiles over a long range. 
+In recent years, ultra wideband (UWB) radar applications use all frequencies in the A- to C-Bands. 
+UWB radars can be used in GPen applications as well as in see-through- the-wall applications.
+Figure 1.4. Fylingdales BMEWS, United Kingdom.
+L-Band Radars (D-Band): Radars in the L-band are primarily ground-based and ship- based systems that are used in long range military and air traffic control search operations for up to 250 (~500Km) nautical miles. 
+Therefore, due to earth curvature their maximum achievable range is limited when detecting low-altitude targets which can disappear very quickly below the horizon. 
+The Air Traffic Management (ATM) long-range surveillance radars like the Air Route Surveillance Radar (ARSR), work in this frequency band. 
+These radar systems are relatively large and demand sizable footprints. 
+Historically, the designator L-Band was adopted since the ¡°L¡± represent with large antenna or long range radars.
+S-Band Radars (E- and F-Bands): Most ground- and ship-based medium range radars operate in the S-band. 
+For example, the Airport Surveillance Radar (ASR) used for air traffic control, and the ship-based U.S. Navy AEGIS (Fig. 1.5) multifunction phased array are S-band radars, and the Airborne Warning and Control System (AWACS) shown in Fig. 1.6. 
+The atmospheric attenuation in this band is higher than in the D-Band, and they are also more susceptible to weather conditions. 
+Radar in this band usually need considerably high transmitting power as compared to the lower-frequency radars in order to achieve maximum detection range. 
+Even with the considerable weather susceptibility, the National Weather Service Next Generation Doppler Weather Radar (NEXRAD) uses an S-band radar, because it can see beyond a severe storm. 
+Special Airport Surveillance Radars (ASR) used at some civilian airports are also in this band where they can detect aircrafts for up to 60 nautical miles. 
+The designator S-Band (contrary to L-Band) was adopted since the ¡°S¡± represents the smaller antennas or shorter range radars.
+Figure 1.5. U. S. Navy AEGIS.
+Figure 1.6. U. S. Air Force AWACS. 
+C-Band Radar (G-Band): Many of the mobile military battlefield surveillance, missile- control and ground surveillance radar systems operate in this band. 
+Most weather radar systems are also C-band radars. 
+Medium range search and fire control military radars and metric instrumentation radars are C-band systems. 
+In this band, the size of the antenna allows for achieving excellent angular accuracies and resolution. 
+Performance of systems operating in this band suffer severely from bad weather conditions and to counter that, they often employ antenna feeds with circular polarization.
+X- and Ku-Band Radars (I- and J-Bands): In the X-band frequency range (8 to 12GHz) the relationship between the wave length and size of the antenna is considerably better than in lower-frequency bands. 
+Radar systems that require fine target detection capabilities and yet cannot tolerate the atmospheric attenuation of higher-frequency bands are typically X-Band. 
+The X- and Ku-bands are relatively popular radar frequency bands for military applications like airborne radars, since the small antenna size provides good performance. 
+Missile guidance systems use the Ku-Band (I- and J-Bands) because of the convenient antenna size where weight is a limiting requirement. 
+Space borne or airborne imaging radars used in Synthetic Aperture Radar (SAR) for military electronic intelligence and civil geographic mapping typically use these frequency bands. 
+Finally, these frequency bands are also widely used in maritime civil and military navigation radars.
+K- and Ka- Band Radars (J- and K-Bands): These high-frequency bands suffer severe weather and atmospheric attenuation. 
+Therefore, radars utilizing these frequency bands are limited to short range applications, such as police traffic radars, short range terrain avoidance, and terrain following radars. 
+Alternatively, the achievable angular accuracies and range resolution are superior to other bands. 
+In ATM applications these radars are often called Surface Movement Radar (SMR) or Airport Surface Detection Equipment (ASDE) radars.
+Millimeter Wave (MMW) Radars (V- and W-Bands): Radars operating in this frequency band also suffer from severe high atmospheric attenuation. 
+Radar applications are limited to very short range of up to a tens of meters. 
+In the W-Band maximum attenuation occurs at about 75GHz and at about 96GHz. 
+Both of these frequencies are used in practice primarily in automotive industry where very small radars (~75-76GHz) are used for parking assistants, blind spot and brake assists. 
+Some radar systems operating at 96 to 98GHz are used as laboratory experimental or prototype systems.
+1.2. Pulsed and Continuous Wave (CW) Radars 
+When the type of waveform is used as a classifier of radar systems, there are two types of radars; pulsed and Continuous Wave (CW) radar systems. 
+Continuous wave radars are those that continuously emit electromagnetic energy, and use separate transmit and receive antennas. 
+Unmodulated CW radars can accurately measure target radial velocity (Doppler shift) and angular position. 
+Continuous wave waveforms can be viewed as pure sinewaves of the form cos2¦Ðf0t. 
+Spectra of the radar echo from stationary targets and clutter will be concentrated around f0. 
+The center frequency for the echoes of a moving target will be shifted by fd, the Doppler frequency. 
+Thus, by measuring this frequency difference, CW radars can very accurately extract target radial velocity. 
+Because of the continuous nature of CW emission, range measurement is not possible without some modifications to the radar operations and waveforms. 
+Simply put, target range information cannot be extracted without utilizing some form of modulation. 
+The primary use of CW radars is in target velocity search and track, and in missile guidance operations.
+Pulsed radars use a train of pulsed waveforms (mainly with modulation). 
+In this category, radar systems can be classified on the basis of the Pulse Repetition Frequency (PRF), as low PRF, medium PRF, and high PRF radars. 
+Low PRF radars are primarily used for ranging where target velocity (Doppler shift) is not of interest. 
+High PRF radars are mainly used to measure target velocity. 
+Continuous wave as well as pulsed radars can measure both target range and radial velocity by utilizing different modulation schemes. The design, operation, and analysis of CW and pulsed radar systems are found in subsequent chapters of this book.
+1.3. Range
+Figure 1.7 shows a simplified pulsed radar block diagram. 
+The time control box generates the synchronization timing signals required throughout the system. 
+A modulated signal is generated and sent to the antenna by the modulator/transmitter block. 
+Switching the antenna between the transmitting and receiving modes is controlled by the duplexer. 
+The duplexer allows one antenna to be used to both transmit and receive. 
+During transmission it directs the radar electromagnetic energy toward the antenna. Alternatively, on reception, it directs the received radar echoes to the receiver. 
+The receiver amplifies the radar returns and prepares them for signal processing. 
+Extraction of target information is performed by the signal processor block. 
+The target¡¯s range, R, is computed by measuring the time delay, ¦¤t; it takes a pulse to travel the two-way path between the radar and the target. 
+Since electromagnetic waves travel at the speed of light, c = 3¡Á108 m/s, then . . . where R is in meters and ¦¤t is in seconds. 
+The factor of 1/2 is used to account for the two-way time delay.
+In general, a pulsed radar transmits and receives a train of pulses, as illustrated by Fig. 1.8. 
+The Inter Pulse Period (IPP) is T, and the pulse width is ¦Ó. 
+The IPP is often referred to as the Pulse Repetition Interval (PRI). 
+The inverse of the PRI is the PRF, which is denoted by ft, . . .
+During each PRI the radar radiates energy only for . . . seconds and listens for target returns for the rest of the PRI.
+The radar transmitting duty cycle (factor) dt is defined as the ratio . . ..

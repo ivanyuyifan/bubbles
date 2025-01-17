@@ -1,0 +1,83 @@
+Itaipu Hydroelectric Project, jointly owned and operated by Brazil and Paraguay, was conceived during 1970-74 when extensive feasibility studies of the binational reach of Rio Parena were performed.
+Construction of the project started on May 2, 1975, the river was diverted on October 20, 1978 and the reservoir was filled to the spillway level on October 23, 1982. The first 700 MW powerplant unit started operation on May 5, 1984 and the eighteenth unit of the 12 600 MW powerplant went on the line on April 10, 1991.
+This report cites several examples of practical and effective methods of risk analysis and management that were employed in making critical decisions during the planning, design and construction of this megaproject.
+The ultimate success, including safety, long-term operational reliability and the earliest completion and generation of electric energy, in large measure is attributed to the objective risk analyses that supported timely, often costly, major decisions that were made by the management of Itaipu Binacional (ITAIPU).
+In 1970-71 at the start of the feasibility studies, it was obvious that because of the large power potential of the binational reach of the Rio Parana, with average annual flow of over 9 900 m3/s and a drop of about 115 m, the project or projects to be developed would be among the largest in the world.
+It was recognized that the success of such very large undertakings would require that all major potential risks and contingencies be foreseen and analyzed and critical decisions and actions taken, in advance of construction, in order to avert hazardous consequences if such risks materialized.
+During the final stages of the feasibility studies in 1974, analyses of the following categories of potential risks were integrated with development of the definitive project to be constructed:
+Non-technical binational policy considerations.
+Schedule for Critical Management Decisions and Actions.
+Coordination of design, equipment procurement and construction to prevent delays in project completion.
+Hydrologic risks during river diversion and filling of the reservoir.
+Geological uncertainties; foundation treatment.
+Size of powerhouse unit blocks.
+Design of the concrete hollow gravity main dam.
+Location, capacity and operational reliability of the spillway.
+In 1974 the entity Itaipu Binacional (ITAIPU) was created and entrusted with the implementation of the project.
+Among the first major management policy decisions made by ITAIPU, that had an effective role in risk management were: Designation of a Coordination Group to coordinate and supervise the work of five binational consortia of engineering companies.
+Appointment of three separate panels of international consultants for civil works, turbines and generators.
+Creation of core groups for construction planning, supervision and quality control within ITAIPU¡¯s Technical Directorate.
+The IECO-ELC Coordination Group, formed by IECO-International Engineering Co., USA and ELC Electroconsult, Italy, was also responsible for performing the feasibility studies and developing the basic project.
+Before ITAIPU accepted the definitive project in December 1974, it convened its seven member independent Panel of Civil Consultants to review the project layout, the diversion scheme, and design of the main dam and structures.
+At that meeting, the Technical Director of ITAIPU advised the Panel to the effect: the basic decisions you approve today will not be changed regardless of the site, geological or other conditions that maybe encountered during construction.The Coordination Group was mandated to focus on advance planning and analysis of potential contingencies and risks that might affect quality, safety, durability, productivity or operational reliability of the project features, or impede their completion and commissioning.
+Six months before start of construction planning, a detailed Master Project Construction Schedule (MPCS), was developed and adopted by ITAIPU.
+It established the following important target dates:
+Completion of cofferdams and diversion of river: October, 1978.
+Closure of diversion sluices and start of reservoirfilling: October, 1982.
+Start of power generation: May, 1984.
+It was a highly ambitious nine-year schedule, considering the complexities and magnitude of the required construction work and the hydrologic uncertainties and other risks involved.
+Objective analyses were made to identify the risks most likely lo adversely affect progress of construction, and prioritize the resolution of the most complex and problematic issues.
+ITAIPU then adopted a Critical Decisions Program, that established the latest dates before which the management of the binational entity had to make certain policy decisions that were essential for the ultimate success of the endeavor.
+Among the most critical management decisions that had to be made were:
+Selection and procurement of certain heavy construction plant and equipment, such as large shovels, dump trucks and concrete batching plant, before award of civil construction contracts.
+Policy regarding nationality of civil contractors. It was limited to Brazilian and Paraguayan firms.
+Amount and method of downstream release of water in the Parana river during first filling of the reservoir.
+Number and size of powerhouse unit blocks.
+During early stages of construction, ITAIPU took another very significant management action when it obtained, at its own expense, a very large comprehensive risk insurance policy covering the owner, the contractors and the engineers for the duration of construction.
+Reliable streamflow records in the Rio Parana for the period 1920-74, indicated a maximum daily average flow of about 32 500 m3/s. Flood frequency studies suggested a daily peak of 35 000 m3/s as criteria for design of the sluices in the Diversion Control Structure constructed in the Diversion Channel (Fig 2), and for selecting the crest levels of the main cofferdams.
+The frequency analyses indicated a recurrence of 80 to 100 years for the diversion design flood, and a risk of 4 to 5 percent of overtopping of the main cofferdams during the 3 year period when their overtopping could cause some damage to the structures under construction.
+While theoretically these risks appeared to be small in terms of percentages, the consequential tangible costs of repairs and delays would have been in the range of US$500 to 700 million.
+Six months after the dam was completed and the reservoir filled, the largest flood of record with a peak daily flow of 39 850 m3/s, occurred in June, 1983.
+Had such a flood occurred following completion of the main cofferdams, TAIPU was prepared to undertake the following measures to prevent or reduce damage to the cofferdams and the structures under construction:
+1 Build a 2 to 3 m high dike on top of the upstream cofferdam with an upstream rip-rap protection.
+2 If overtopping of the cofferdams was inevitable, remove the construction equipment and flood the area. This would have prevented erosion and loss of the cofferdams.
+An additional measure to prevent damage to the incomplete hollow gravity dam blocks in case either cofferdam was overtopped, was the sequence of construction of the various monoliths such that the block would still be stable.
+Each of the two main cofferdams across the river were constructed in three stages£º
+(1) construction of two dikes with rockfill dumped in the river;
+(2) dredging of sands and gravels from the riverbed in 30 to 45 m deep water;
+(3) rapid placement of massive amounts of clay by "squeeze displacement" method between the rockfill dikes from one riverbank to the other;
+and (4) construction of a central rockfill dike with a compacted clay core above the river water level.
+Maximum heights and volumes of the upstream and downstream cofferdams were, respectively: 75 m and 80 m; 7 220 000 m3 and 4 100 000 m3.
+In addition to the hydrologic, other risks to the stability and efficacy of the main cofferdams were analyzed and effective remedial actions taken; as follows: Risk of leakage through the deposits of sand and gravel on the river bed.
+Remedial action: dredging of a riverbed deposits between the rockfill dikes and underwater inspection by side-scan sonar, before placement of clay.
+Risk of failure of the highly saturated uncompacted clay core placed in water with very low shear strength.
+Remedial action: the "cap" over the submerged clay core was designed to confine the very soft clay core between the rockfill dam, ensuring its stability.
+The extra cost of the above and other "conservative" remedial measures was justified by the fact that there was less than 5 l/s leakage through both cofferdams for the next four years while the construction of the main dam and powerhouse in the river channel was completed without any interruptions.
+Excavation of over 20 million m3 of rock from the Diversion Channel was completed with two natural rock plugs at both its ends.
+Originally it was planned to divert the river into the channel by demolishing the rock plugs by blasting and then dredging the material.
+Such an operation was considered highly risky and hazardous, because:
+(1) large rock pieces could form a submerged control and back up water and overtop the upstream cofferdam;
+(2) dredging under flows exceeding 10 000 m3/s through the channel would be impossible.
+To avoid these risks, it was decided to build two thin concrete arch cofferdams, 35 m and 32 m high, at both ends of the Diversion Channel behind the natural rock plugs. The rock plugs were then excavated and removed.
+To ensure that the concrete arches would break into several small pieces that would not form submerged weirs on the channel bed, several blasting tests were conducted.
+The river was successfully diverted through the Diversion Channel and the sluices of the Diversion Control Structure in October 1978, the target date established in 1975, just at the start of the high flow season, by simultaneous blasting of the two arch cofferdams.
+No damage was caused to the cofferdams or any structures under construction.
+5.DIVERSION CLOSURE AND FILLING OF THE RESERVOIR
+The river was diverted through 12 sluices in the Diversion Control Structure (Fig. 3).
+At the inlet gate the sluices were 6.7 m wide and 22 m high.
+The fixed wheel type closure gates were designed for safe closure by hydraulic hoists with river flows as high as 12 000 m3/s.
+The gate wheel assemblies were supported by elastic pads designed to compress sufficiently to seat the gate frame against the guides when the differential head against the gate exceeded 40 m.
+After that a gate could not be raised.
+Incidents related to closure of diversion sluices or gates at Bhakra Dam, India; Fumes Dam, Brazil; Guri Dam, Venezuela; and in 1975 at Tarbela Dam, Pakistan, which resulted in costly delays and repairs, indicated that the closure of the diversion gates at Itaipu could be a very risky operation.
+To fill the reservoir rapidly, the gate closure was scheduled for October, when the flows would be about 12 000 m3/s and, possibly, increasing rapidly.
+If one or more gates malfunctioned or got stuck, in addition to serious damage to the structures, there could be a delay of 10 to 12 months in filling the reservoir; such losses could exceed US$ 1.0 billion.
+Learning lessons from serious incidents at other projects, in 1975 ITAIPU adopted the following mandatory basic guidelines that would prevent serious incidents:
+Diversion gates shall not be operated for regulation of flows; that is, they must be kept either fully open or closed.
+All gate guides shall be checked at least one year before the proposed closure date (October 1982), one sluice at a time, by lowering and raising first a template and then the gate.
+For final closure, all gates shall be lowered at the same rate, essentially simultaneously.
+If any of the gates does not close completely before the differential head on the gates is 35 m, all gates shall be raised at the same rate and essentially simultaneously and all sluices fully opened.
+Gate closure shall not be attempted when the river discharge exceeds 12 000 m3/s and is increasing rapidly.
+These risk management rules were rigorously enforced.
+As the gates and other equipment were installed, an elaborate testing program was undertaken during August 1980 to September 1982.
+The first series of tests included opening and closing of individual gates, first under balanced head conditions and then under flow.
+A second series tested the simultaneous operation of all gates, by lowering them for 30 seconds, dipping them about 2 m into the flowing water and then raising them simultaneously to the fully open position.

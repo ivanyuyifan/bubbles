@@ -1,0 +1,108 @@
+3 THE DATA LINK LAYER
+In this chapter we will study the design principles for the second layer in our model, the data link layer. 
+This study deals with algorithms for achieving reliable, efficient communication of whole units of information called frames (rather than individual bits, as in the physical layer) between two adjacent machines. 
+By adjacent, we mean that the two machines are connected by a communication channel that acts conceptually like a wire (e.g., a coaxial cable, telephone line, or wireless channel). 
+The essential property of a channel that makes it ¡°wire-like¡± is that the bits are delivered in exactly the same order in which they are sent.
+At first you might think this problem is so trivial that there is nothing to study--machine A just puts the bits on the wire, and machine B just takes them off. 
+Unfortunately, communication channels make errors occasionally. 
+Furthermore, they have only a finite data rate, and there is a nonzero propagation delay between the time a bit is sent and the time it is received. 
+These limitations have important implications for the efficiency of the data transfer. 
+The protocols used for communications must take all these factors into consideration. 
+These protocols are the subject of this chapter.
+After an introduction to the key design issues present in the data link layer, we will start our study of its protocols by looking at the nature of errors and how they can be detected and corrected. 
+Then we will study a series of increasingly complex protocols, each one solving more and more of the problems present in this layer. 
+Finally, we will conclude with some examples of data link protocols.
+3.1 DATA LINK LAYER DESIGN ISSUES
+The data link layer uses the services of the physical layer to send and receive bits over communication channels. 
+It has a number of functions, including:
+Providing a well-defined service interface to the network layer.
+Dealing with transmission errors.
+Regulating the flow of data so that slow receivers are not swamped by fast senders.
+To accomplish these goals, the data link layer takes the packets it gets from the network layer and encapsulates them into frames for transmission. 
+Each frame contains a frame header, a payload field for holding the packet, and a frame trailer, as illustrated in Fig. 3-1. 
+Frame management forms the heart of what the data link layer does. 
+In the following sections we will examine all the above-mentioned issues in detail.
+Figure 3-1. Relationship between packets and frames.
+Although this chapter is explicitly about the data link layer and its protocols, many of the principles we will study here, such as error control and flow control, are found in transport and other protocols as well. 
+That is because reliability is an overall goal, and it is achieved when all the layers work together. 
+In fact, in many networks, these functions are found mostly in the upper layers, with the data link layer doing the minimal job that is ¡°good enough.¡± 
+However, no matter where they are found, the principles are pretty much the same. 
+They often show up in their simplest and purest forms in the data link layer, making this a good place to examine them in detail.
+3.1.1 Services Provided to the Network Layer 
+The function of the data link layer is to provide services to the network layer. 
+The principal service is transferring data from the network layer on the source machine to the network layer on the destination machine. 
+On the source machine is an entity, call it a process, in the network layer that hands some bits to the data link layer for transmission to the destination. 
+The job of the data link layer is to transmit the bits to the destination machine so they can be handed over to the network layer there, as shown in Fig. 3-2(a). 
+The actual transmission follows the path of Fig. 3-2(b), but it is easier to think in terms of two data link layer processes communicating using a data link protocol. 
+For this reason, we will implicitly use the model of Fig. 3-2(a) throughout this chapter.
+Figure 3-2. (a) Virtual communication. (b) Actual communication. 
+The data link layer can be designed to offer various services. 
+The actual services that are offered vary from protocol to protocol. 
+Three reasonable possibilities that we will consider in turn are:
+Unacknowledged connectionless service.
+Acknowledged connectionless service.
+Acknowledged connection-oriented service.
+Unacknowledged connectionless service consists of having the source machine send independent frames to the destination machine without having the destination machine acknowledge them. 
+Ethernet is a good example of a data link layer that provides this class of service. 
+No logical connection is established beforehand or released afterward. 
+If a frame is lost due to noise on the line, no attempt is made to detect the loss or recover from it in the data link layer. 
+This class of service is appropriate when the error rate is very low, so recovery is left to higher layers.
+ It is also appropriate for real-time traffic, such as voice, in which late data are worse than bad data.
+The next step up in terms of reliability is acknowledged connectionless service. 
+When this service is offered, there are still no logical connections used, but each frame sent is individually acknowledged. 
+In this way, the sender knows whether a frame has arrived correctly or been lost. 
+If it has not arrived within a specified time interval, it can be sent again. 
+This service is useful over unreliable channels, such as wireless systems. 802.11 (WiFi) is a good example of this class of service.
+It is perhaps worth emphasizing that providing acknowledgements in the data link layer is just an optimization, never a requirement. 
+The network layer can always send a packet and wait for it to be acknowledged by its peer on the remote machine. 
+If the acknowledgement is not forthcoming before the timer expires, the sender can just send the entire message again. 
+The trouble with this strategy is that it can be inefficient. 
+Links usually have a strict maximum frame length imposed by the hardware, and known propagation delays. 
+The network layer does not know these parameters. 
+It might send a large packet that is broken up into, say, 10 frames, of which 2 are lost on average. It would then take a very long time for the packet to get through. 
+Instead, if individual frames are acknowledged and retransmitted, then errors can be corrected more directly and more quickly. 
+On reliable channels, such as fiber, the overhead of a heavyweight data link protocol may be unnecessary, but on (inherently unreliable) wireless channels it is well worth the cost.
+Getting back to our services, the most sophisticated service the data link layer can provide to the network layer is connection-oriented service. 
+With this service, the source and destination machines establish a connection before any data are transferred. 
+Each frame sent over the connection is numbered, and the data link layer guarantees that each frame sent is indeed received. 
+Furthermore, it guarantees that each frame is received exactly once and that all frames are received in the right order. 
+Connection-oriented service thus provides the network layer processes with the equivalent of a reliable bit stream. 
+It is appropriate over long, unreliable links such as a satellite channel or a long-distance telephone circuit. 
+If acknowledged connectionless service were used, it is conceivable that lost acknowledgements could cause a frame to be sent and received several times, wasting bandwidth.
+When connection-oriented service is used, transfers go through three distinct phases. 
+In the first phase, the connection is established by having both sides initialize variables and counters needed to keep track of which frames have been received and which ones have not. 
+In the second phase, one or more frames are actually transmitted. 
+In the third and final phase, the connection is released, freeing up the variables, buffers, and other resources used to maintain the connection.
+Framing 
+To provide service to the network layer, the data link layer must use the service provided to it by the physical layer. 
+What the physical layer does is accept a raw bit stream and attempt to deliver it to the destination. 
+If the channel is noisy, as it is for most wireless and some wired links, the physical layer will add some redundancy to its signals to reduce the bit error rate to a tolerable level. 
+However, the bit stream received by the data link layer is not guaranteed to be error free. 
+Some bits may have different values and the number of bits received may be less than, equal to, or more than the number of bits transmitted. 
+It is up to the data link layer to detect and, if necessary, correct errors.
+The usual approach is for the data link layer to break up the bit stream into discrete frames, compute a short token called a checksum for each frame, and include the checksum in the frame when it is transmitted. (Checksum algorithms will be discussed later in this chapter.)
+When a frame arrives at the destination, the checksum is recomputed. 
+If the newly computed checksum is different from the one contained in the frame, the data link layer knows that an error has occurred and takes steps to deal with it (e.g., discarding the bad frame and possibly also sending back an error report).
+Breaking up the bit stream into frames is more difficult than it at first appears. 
+A good design must make it easy for a receiver to find the start of new frames while using little of the channel bandwidth. 
+We will look at four methods:
+Byte count.
+Flag bytes with byte stuffing.
+Flag bits with bit stuffing.
+Physical layer coding violations.
+The first framing method uses a field in the header to specify the number of bytes in the frame. 
+When the data link layer at the destination sees the byte count, it knows how many bytes follow and hence where the end of the frame is. 
+This technique is shown in Fig. 3-3(a) for four small example frames of sizes 5, 5, 8, and 8 bytes, respectively.
+The trouble with this algorithm is that the count can be garbled by a transmission error. 
+For example, if the byte count of 5 in the second frame of Fig. 3-3(b) becomes a 7 due to a single bit flip, the destination will get out of synchronization. It will then be unable to locate the correct start of the next frame. 
+Even if the checksum is incorrect so the destination knows that the frame is bad, it still has no way of telling where the next frame starts. 
+Sending a frame back to the source asking for a retransmission does not help either, since the destination does not know how many bytes to skip over to get to the start of the retransmission. 
+For this reason, the byte count method is rarely used by itself.
+Figure 3-3. A byte stream. (a) Without errors. (b) With one error.
+The second framing method gets around the problem of resynchronization after an error by having each frame start and end with special bytes. 
+Often the same byte, called a flag byte, is used as both the starting and ending delimiter. This byte is shown in Fig. 3-4(a) as FLAG. 
+Two consecutive flag bytes indicate the end of one frame and the start of the next. 
+Thus, if the receiver ever loses synchronization it can just search for two flag bytes to find the end of the current frame and the start of the next frame.
+However, there is a still a problem we have to solve. 
+It may happen that the flag byte occurs in the data, especially when binary data such as photographs or songs are being transmitted. This situation would interfere with the framing. 
+One way to solve this problem is to have the sender¡¯s data link layer insert a special escape byte (ESC) just before each ¡°accidental¡± flag byte in the data. 

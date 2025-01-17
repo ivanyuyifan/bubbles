@@ -1,0 +1,85 @@
+7 SOCIAL CLASSES AND THE STRUGGLE FOR POWER
+Perhaps Bourdieu's greatest inspiration for the practice of sociology is his uncanny eye for the subtle but powerful forms of social distinction. 
+We find this talent roving widely across detailed ethnographic observations, statistical tables, literary texts, photographs, interviews, questionnaire surveys, and census reports. 
+By professional social scientific standards, Bourdieu's research style is unorthodox, combining as it does methods and types of data that are usually objects of specialized analysis with little cross-over. 
+It is quintessential Bourdieu to find in a single paragraph literary and philosophical references interspersed with percentages from a survey. 
+In the view of one critic (Collins 1989: 460), this style earns him the title of "the world's most successful survey researcher." 
+Not all, of course, would agree. 
+In this chapter I attempt to flesh out the central features of Bourdieu's theory and method in stratification research.
+A central objective of Bourdieu's work is to show how culture and social class correlate. 
+Cultural practices, he argues, are markers of underlying class distinctions. 
+This view sets him apart from many contemporary postmodern voices (e.g., Jean Baudrillard [1988a, 1988b]) who stress the uncertain, contingent and socially diverse character of cultural life. 
+Yet, he proposes to demonstrate this connection between culture and social class without treating the former as a mere epiphenomenon of the latter. 
+In order to demonstrate that thesis, Bourdieu reformulates the concept of social class. 
+Class, like capital, habitus, and field, is a master concept in Bourdieu's sociology. 
+In his own words, class is a "universal principle of explanation"(Bourdieu 1984a: 114). 
+The "original class situation" represents "the point from which all possible views unfold and on which no view is possible"(Bourdieu and Passeron 1977: 89). 
+Yet, how Bourdieu conceptualizes social class is not well understood, in part because of the range, tensions, and ambiguities to be found in his use of the term.
+This chapter is intended to clarify how Bourdieu thinks of social class. 
+I will begin by reviewing the meta-sociological issues that Bourdieu sees as crucial in approaching the topic of stratification. These center primarily on objectivist and unidimensional images of stratification that Bourdieu rejects. 
+They also concern essentialist conceptions of social class that Bourdieu rejects in favor of a relational approach. 
+Since Marxism has been a central theoretical reference for Bourdieu, I explore how Bourdieu differentiates his concept of class from Marxist versions. 
+Bourdieu also draws substantially from Weber, and I describe Bourdieu's modification of Weber's understanding of the relations between class and status before summarizing Bourdieu's own conception of social class as a multidimensional and relational theoretical construct that he sharply distinguishes from realist conceptions of social classes. 
+Next, I examine Bourdieu's portrayal in Distinction (1984a) of the three-class structure in contemporary France, and devote particular attention to his analysis of various intra-class fractions. 
+Since Bourdieu argues that each social class and class fraction has a characteristic habitus that generates specific sets of practices, I present the most salient of these class habitus and illustrate the types of distinctive lifestyles that Bourdieu claims they produce. 
+Finally, I turn to Bourdieu's understanding of the dynamics of conflict and reproduction that characterize class relations.
+Bourdieu's Metatheory of Social Class
+Bourdieu's research enterprise is guided by two central meta-sociological concerns:  transcending the fundamental antinomy between subjectivist and objectivist approaches to the study of social life and substituting relational for substantialist concepts of social reality. 
+He considers that the debate over the existence of social classes is filtered through the distorted lens of the subjectivism/objectivism antinomy. 
+Indeed, he writes thatthe problem of social classes is one of the sites par excellence of the opposition between objectivism and subjectivism, which locks research in a series of fictitious alternatives. (Bourdieu 1990h: 289)
+His approach to stratification research therefore needs to be understood as an effort to transcend the forms that he sees this antinomy taking in various approaches to the problem of social class. 
+He also considers the concept of social class to be one par excellence where one sees substantialist thinking and essentialist ideology. 
+He therefore offers an alternative relational understanding of class relations.
+Bourdieu holds a highly stratified view of the social world in which individuals and groups struggle to maintain or enhance their relative standing within a hierarchically structured social space. 
+For him, social inequality is rooted in objective structures of unequal distributions of types of capital. 
+He thus rejects what he calls subjectivist approaches to the topic of stratification. 
+Under the heading subjectivism, Bourdieu groups three different views. 
+The first includes micro-level analyses, such as symbolic interactionism, ethnomethodology, and phenomenology, which view social differentiation as emerging directly out of micro-interaction processes. 
+These harbor the "subjectivist illusion" in that they fail to recognize that agents bring the properties of their location in a hierarchically structured social order into each and every situation and interaction (Bourdieu 1984a: 244). 
+Second, under subjectivism, Bourdieu includes approaches that reduce social-class existence and identity to individual or collective consciousness. 
+And third, he also includes the view of class as a cognitive construct without objective roots in social reality.
+Though Bourdieu grounds social distinctions in objective structures, he also rejects strictly objectivist approaches to social inequality. 
+Under objectivism in stratification research, he groups Marxism, mainstream status-attainment research, network analysis, and all other structuralist theories of social inequality. 
+These vastly different approaches all share one key feature:  they focus on macro-level structures, often in the form of statistical regularities, that are rarely visible to the engaged actors and which must be constructed by the social scientist. 
+But, Bourdieu argues, actors act on their practical knowledge of the social world, whereas objectivist approaches tend to reduce actors to simple reflections of overarching structures. 
+In stratification analysis as elsewhere, Bourdieu presents his "structuralist constructionist" approach as one that includes both actor perceptions of objective reality and objective measures of aggregate behavior.
+One expression of objectivism in stratification research that Bourdieu singles out for criticism is Marxist social-class theory. 
+Bourdieu criticizes Marxists for offering economistic interpretations of social class. 
+He is sharply critical of all attempts to conceptualize class primarily in terms of position in the social relations of production (Bourdieu 1985e: 723). 
+Though an affirmed materialist, Bourdieu believes that position in the social relations of production is only one of several sources of power that shape the social order in capitalist societies. 
+Following the thinking of Weber, Bourdieu (1985e) argues that social space is multidimensional and does not reduce to a single causal mechanism such as the economy. 
+He argues thatsocial class is not defined solely by a position in the relations of production, but by the class habitus which is "normally" (i.e., with a high statistical probability) associated with that position." (Bourdieu 1984a: 372)
+Moreover,a class is defined as much by its being-perceived as by its being , by its consumption¡ªwhich need not be conspicuous in order to be symbolic¡ªas much as by its position in the relations of production (even if it is true that the latter governs the former). (Ibid., 483 )
+Forms of symbolic and social accumulation and differentiation also constitute an important dimension of social-class relations. 
+Property ownership or the lack of it cannot account for the importance of the accumulation of noneconomic goods and resources that occur in the exercise and perpetuation of power, including economic power. 
+Bourdieu criticizes Marxist class theorizing for neglecting the symbolic dimension of class relations. 
+There needs to be a political economy of symbolic goods. 
+Bourdieu includes in his class analysis lifestyle indicators, tastes, educational credentials, gender, and age, as well as occupation and income. Bourdieu's classes are constellations of stratifying factors; just as the whole is greater than the sum of its parts, so for Bourdieu it is the ensemble of pertinent stratification factors that constitute social classes rather than any single determining factor.
+Bourdieu (1987f: 3) farther argues that both objectivist and subjectivist approaches harbor fundamental "substantialist" assumptions about social classes. 
+They assume that if social classes exist they are simply out there waiting for the social scientist to identify and describe them. 
+Moreover, both approaches offer an "essentialist" view of class by attributing to classes intrinsic and universal attributes¡ªwhether they be subjective or objective in character. 
+Yet, Bourdieu argues that social classes are not simply given in reality but are contested identities that are constructed through struggle over what is the "legitimate vision of the social world and of its divisions." In sharp reproach of positivism, Bourdieu declares that "an the reality of the social world, there are no more clear-cut boundaries, no more absolute breaks, than there are in the physical world." 
+There is only an immense plurality of possibilities. 
+Collective identity emerges through the mobilization of both material and symbolic resources. 
+Class identities are constructed "relationally" as they reflect the oppositional character among existing classes. 
+Indeed, it is this political reality of symbolic struggle over the very identities of classes as social groups that Bourdieu defines as the proper object for stratification research.
+This leads Bourdieu to insist on a sharp distinction between social classes as scientific constructs and social classes as real mobilized social groups. 
+Constructing a model of the social-class structure yields a theoretical representation of "probable classes" rather than real social groups. 
+The objectivist moment of research must then be supplemented with the subjectivist moment of inquiry to see if the theoretically constructed classes of the social-scientific model actually correspond to real mobilized social groups. 
+Bourdieu's stratification framework includes measures of both objective resources and of symbolic representations of social classes.
+If economism represents one important objectivist flaw in Marxist theory of social classes, its preoccupation with the issue of class boundaries represents an underlying substantialist assumption. 
+Structural Marxism focuses on delineating clear-cut logical and empirical boundaries between classes and classifying individuals according to their location in the social relations of production. 
+The work of Poulantzas (1975) and Baudelot, Establet, and Malemort (1973) in France, and Erik Olin Wright (1985) in the United States are prime expressions of this type of class analysis. 
+Bourdieu is sharply critical of all attempts to delineate the boundaries between classes and class fractions. 
+Since for Bourdieu (1987b: 64¨C65) class definition is itself an object of social conflict, class boundaries are objects of struggle that cannot be mapped definitively by social scientists. 
+Class boundaries take shape only through the mobilization of individuals into groups.
+Bourdieu also argues that the degree of institutionalization of social boundaries varies according to the state of conflict between classes. 
+Class-boundary institutionalization depends on the relative symbolic power of particular groups to impose as legitimate their vision of the social divisions in society. 
+This points to the need to study the symbolic dimension of class struggle, since class identity is itself a matter of perception and conception as well as being materially constituted.
+Bourdieu believes that Marxist class theory is particularly prone to conflate theoretical constructs of classes with real social groups. 
+Marxism commits the "theoreticist fallacy," he argues, "then it grants reality to abstractions." 
+Because of its political project, Marxism tends to assume "the movement from probability to reality, from theoretical class to practical class" and thereby conflate "classes on paper" or "logical classes" with real, mobilized classes (Bourdieu 1987f: 7).
+For Bourdieu, however, if the shared conditions of existence associated with property ownership or the lack thereof constitute necessary conditions for class formation, they by no means represent sufficient conditions for class identity. 
+Here Bourdieu addresses the classical debate within Marxism over what conditions would most likely provoke a shift from a "class-in-itself" to a "class-for-itself" to generate class politics. 
+Bourdieu argues that both those who emphasize the class-in-itself conditions for class formation and those who stress the voluntarism of the class-for-itself are simply trapped in another form of the objectivism/subjectivism dichotomy. 
+"More often than not," Bourdieu claims, Marxist theory conceptualizes this shift "in terms of a logic that is either totally deterministic or totally voluntarist" (1985e: 726). The determinist view depicts class action as flowing directly from the underlying contradictions in the objective relations of production. 

@@ -1,0 +1,117 @@
+Chapter 8 Headache 
+Headache is among the most common reasons patients seek medical attention. 
+Diagnosis and management are based on a careful clinical approach augmented by an understanding of the anatomy, physiology, and pharmacology of the nervous system pathways that mediate the various headache syndromes.
+GENERAL PRINCIPLES
+A classification system developed by the International Headache Society characterizes headache as primary or secondary (Table 8-1). 
+Primary headaches are those in which headache and its associated features are the disorder in itself, whereas secondary headaches are those caused by exogenous disorders. 
+Primary headache often results in considerable disability and a decrease in the patient's quality of life. 
+Mild secondary headache, such as that seen in association with upper respiratory tract infections, is common but rarely worrisome. 
+Life-threatening headache is relatively uncommon, but vigilance is required in order to recognize and appropriately treat such patients.
+ANATOMY AND PHYSIOLOGY OF HEADACHE
+Pain usually occurs when peripheral nociceptors are stimulated in response to tissue injury, visceral distension, or other factors (Chap. 7). 
+In such situations, pain perception is a normal physiologic response mediated by a healthy nervous system. 
+Pain can also result when pain-producing pathways of the peripheral or central nervous system (CNS) are damaged or activated inappropriately. 
+Headache may originate from either or both mechanisms. 
+Relatively few cranial structures are pain-producing; these include the scalp, middle meningeal artery, dural sinuses, falx cerebri, and proximal segments of the large pial arteries. 
+The ventricular ependyma, choroid plexus, pial veins, and much of the brain parenchyma are not pain-producing.
+The key structures involved in primary headache appear to be:
+the large intracranial vessels and dura mater and the peripheral terminals of the trigeminal nerve that innervate these structures;
+the caudal portion of the trigeminal nucleus, which extends into the dorsal horns of the upper cervical spinal cord and receives input from the first and second cervical nerve roots (the trigeminocervical complex);
+rostral pain-processing regions, such as the ventro-posteromedial thalamus and the cortex;
+the pain-modulatory systems in the brain that modulate input from trigeminal nociceptors at all levels of the pain-processing pathways.
+The innervation of the large intracranial vessels and dura mater by the trigeminal nerve is known as the trigeminovascular system. 
+Cranial autonomic symptoms, such as lacrimation and nasal congestion, are prominent in the trigeminal autonomic cephalalgias, including cluster headache and paroxysmal hemicrania, and may also be seen in migraine. 
+These autonomic symptoms reflect activation of cranial parasympathetic pathways, and functional imaging studies indicate that vascular changes in migraine and cluster headache, when present, are similarly driven by these cranial autonomic systems. 
+Migraine and other primary headache types are not ¡°vascular headaches¡±; these disorders do not reliably manifest vascular changes, and treatment outcomes cannot be predicted by vascular effects. 
+Migraine is a brain disorder, and best understood and managed as such.
+CLINICAL EVALUATION OF ACUTE, NEW-ONSET HEADACHE
+The patient who presents with a new, severe headache has a differential diagnosis that is quite different from the patient with recurrent headaches over many years. 
+In new-onset and severe headache, the probability of finding a potentially serious cause is considerably greater than in recurrent headache. 
+Patients with recent onset of pain require prompt evaluation and appropriate treatment. 
+Serious causes to be considered include meningitis, subarachnoid hemorrhage, epidural or subdural hematoma, glaucoma, tumor, and purulent sinusitis. 
+When worrisome symptoms and signs are present (Table 8-2), rapid diagnosis and management are critical.
+A complete neurologic examination is an essential first step in the evaluation. 
+In most cases, patients with an abnormal examination or a history of recent-onset headache should be evaluated by a CT or MRI study. 
+As an initial screening procedure for intracranial pathology in this setting, CT and MRI methods appear to be equally sensitive. 
+In some circumstances, a lumbar puncture (LP) is also required, unless a benign etiology can be otherwise established. 
+A general evaluation of acute headache might include the investigation of cardiovascular and renal status by blood pressure monitoring and urine examination; eyes by funduscopy, intraocular pressure measurement, and refraction; cranial arteries by palpation; and cervical spine by the effect of passive movement of the head and by imaging.
+The psychological state of the patient should also be evaluated since a relationship exists between head pain and depression. 
+Many patients in chronic daily pain cycles become depressed, although depression itself is rarely a cause of headache. 
+Drugs with antidepressant actions are also effective in the prophylactic treatment of both tension-type headache and migraine.
+Underlying recurrent headache disorders may be activated by pain that follows otologic or endodontic surgical procedures. 
+Thus, pain about the head as the result of diseased tissue or trauma may reawaken an otherwise quiescent migrainous syndrome. 
+Treatment of the headache is largely ineffective until the cause of the primary problem is addressed.
+Serious underlying conditions that are associated with headache are described next. 
+Brain tumor is a rare cause of headache and even less commonly a cause of severe pain. 
+The vast majority of patients presenting with severe headache have a benign cause.
+SECONDARY HEADACHE
+The management of secondary headache focuses on diagnosis and treatment of the underlying condition.
+MENINGITIS
+Acute, severe headache with stiff neck and fever suggests meningitis. 
+Lumbar puncture is mandatory. 
+Often there is striking accentuation of pain with eye movement. 
+Meningitis can be easily mistaken for migraine in that the cardinal symptoms of pounding headache, photophobia, nausea, and vomiting are frequently present, perhaps reflecting the underlying biology of some of the patients.
+Meningitis is discussed in Chaps. 40 and 41.
+INTRACRANIAL HEMORRHAGE
+Acute, severe headache with stiff neck but without fever suggests subarachnoid hemorrhage. 
+A ruptured aneurysm, arteriovenous malformation, or intraparenchymal hemorrhage may also present with headache alone. 
+Rarely, if the hemorrhage is small or below the foramen magnum, the head CT scan can be normal. 
+BRAIN TUMOR
+Approximately 30% of patients with brain tumors consider headache to be their chief complaint. 
+The head pain is usually nondescript¡ªan intermittent deep, dull aching of moderate intensity, which may worsen with exertion or change in position and may be associated with nausea and vomiting. 
+This pattern of symptoms results from migraine far more often than from brain tumor. 
+The headache of brain tumor disturbs sleep in about 10% of patients. 
+Vomiting that precedes the appearance of headache by weeks is highly characteristic of posterior fossa brain tumors. 
+A history of amenorrhea or galactorrhea should lead one to question whether a prolactin-secreting pituitary adenoma (or the polycystic ovary syndrome) is the source of headache. 
+Headache arising de novo in a patient with known malignancy suggests either cerebral metastases or carcinomatous meningitis, or both. 
+Head pain appearing abruptly after bending, lifting, or coughing can be due to a posterior fossa mass, a Chiari malformation, or low CSF volume.
+Brain tumors are discussed in Chap. 37.
+TEMPORAL ARTERITIS(See also Chap. 21)
+Temporal (giant cell) arteritis is an inflammatory disorder of arteries that frequently involves the extracranial carotid circulation. 
+It is a common disorder of the elderly; its annual incidence is 77 per 100,000 individuals age 50 and older. 
+The average age of onset is 70 years, and women account for 65% of cases. 
+About half of patients with untreated temporal arteritis develop blindness due to involvement of the ophthalmic artery and its branches; indeed, the ischemic optic neuropathy induced by giant cell arteritis is the major cause of rapidly developing bilateral blindness in patients &gt;60 years. 
+Because treatment with glucocorticoids is effective in preventing this complication, prompt recognition of the disorder is important.
+Typical presenting symptoms include headache, polymyalgia rheumatica, jaw claudication, fever, and weight loss. 
+Headache is the dominant symptom and often appears in association with malaise and muscle aches. 
+Head pain may be unilateral or bilateral and is located temporally in 50% of patients but may involve any and all aspects of the cranium. 
+Pain usually appears gradually over a few hours before peak intensity is reached; occasionally, it is explosive in onset. 
+The quality of pain is only seldom throbbing; it is almost invariably described as dull and boring, with superimposed episodic stabbing pains similar to the sharp pains that appear in migraine. 
+Most patients can recognize that the origin of their head pain is superficial, external to the skull, rather than originating deep within the cranium (the pain site for migraineurs). 
+Scalp tenderness is present, often to a marked degree; brushing the hair or resting the head on a pillow may be impossible because of pain. 
+Headache is usually worse at night and often aggravated by exposure to cold. 
+Additional findings may include reddened, tender nodules or red streaking of the skin overlying the temporal arteries, and tenderness of the temporal or, less commonly, the occipital arteries.
+The erythrocyte sedimentation rate (ESR) is often, though not always, elevated; a normal ESR does not exclude giant cell arteritis. 
+A temporal artery biopsy followed by immediate treatment with prednisone 80 mg daily for the first 4¨C6 weeks should be initiated when clinical suspicion is high. 
+The prevalence of migraine among the elderly is substantial, considerably higher than that of giant cell arteritis. 
+Migraineurs often report amelioration of their headaches with prednisone; thus, caution must be used when interpreting the therapeutic response.
+GLAUCOMA
+Glaucoma may present with a prostrating headache associated with nausea and vomiting. 
+The headache often starts with severe eye pain. 
+On physical examination, the eye is often red with a fixed, moderately dilated pupil.
+Glaucoma is discussed in Chap. 21.
+PRIMARY HEADACHE SYNDROMES
+Primary headaches are disorders in which headache and associated features occur in the absence of any exogenous cause (Table 8-1). 
+The most common are migraine, tension-type headache, and cluster headache.
+MIGRAINE
+Migraine, the second most common cause of headache, afflicts approximately 15% of women and 6% of men over a 1-year period. 
+It is usually an episodic headache associated with certain features such as sensitivity to light, sound, or movement; nausea and vomiting often accompany the headache. 
+A useful description of migraine is a benign and recurring syndrome of headache associated with other symptoms of neurologic dysfunction in varying admixtures (Table 8-3). 
+Migraine can often be recognized by its activators, referred to as triggers.
+The brain of the migraineur is particularly sensitive to environmental and sensory stimuli; migraine-prone patients do not habituate easily to sensory stimuli. 
+This sensitivity is amplified in females during the menstrual cycle. 
+Headache can be initiated or amplified by various triggers, including glare, bright lights, sounds, or other afferent stimulation; hunger; excess stress; physical exertion; stormy weather or barometric pressure changes; hormonal fluctuations during menses; lack of or excess sleep; and alcohol or other chemical stimulation. 
+Knowledge of a patient's susceptibility to specific triggers can be useful in management strategies involving lifestyle adjustments.
+Pathogenesis 
+The sensory sensitivity that is characteristic of migraine is probably due to dysfunction of monoaminergic sensory control systems located in the brainstem and thalamus (Fig. 8-1).
+Activation of cells in the trigeminal nucleus results in the release of vasoactive neuropeptides, particularly calcitonin gene¨Crelated peptide (CGRP), at vascular terminations of the trigeminal nerve and within the trigeminal nucleus. 
+CGRP receptor antagonists have now been shown to be effective in the acute treatment of migraine. 
+Centrally, the second-order trigeminal neurons cross the midline and project to ventrobasal and posterior nuclei of the thalamus for further processing. 
+Additionally, there are projections to the periaqueductal gray and hypothalamus, from which reciprocal descending systems have established antinociceptive effects. 
+Other brainstem regions likely to be involved in descending modulation of trigeminal pain include the nucleus locus coeruleus in the pons and the rostroventromedial medulla.
+Pharmacologic and other data point to the involvement of the neurotransmitter 5-hydroxytryptamine (5-HT; also known as serotonin) in migraine. 
+Approximately 60 years ago, methysergide was found to antagonize certain peripheral actions of 5-HT and was introduced as the first drug capable of preventing migraine attacks. 
+The triptans are designed to selectively stimulate subpopulations of 5-HT receptors; at least 14 different 5-HT receptors exist in humans. 
+The triptans are potent agonists of 5-HT1B, 5-HT1D, and 5-HT1F receptors and are less potent at the 5-HT1A receptor. 
+A growing body of data indicates that the antimigraine efficacy of the triptans relates to their ability to stimulate 5-HT1B/1D receptors, which are located on both blood vessels and nerve terminals. 
+Separately, it has now been shown that selective 5-HT1F receptor activation, which has a purely neural effect, can terminate acute migraine.

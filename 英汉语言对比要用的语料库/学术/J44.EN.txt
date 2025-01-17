@@ -1,0 +1,65 @@
+I.BASIC CONCEPTS OF CHINESE LAW
+1.Scope and Significance of Chinese Law
+Western scholars on China, with only a few distinguished exceptions, have until recently shown but little interest in the study of Chinese law.
+Today, especially in the United States, the situation is changing, but the stimulus obviously comes much more forcibly from the China of Mao Tse-tung than from the law of pre-Republican (pre-1912) China, which, especially in its formal codified aspects, is the subject of this book. 
+Good reasons can of course be found to explain the traditional indifference.
+They include the lack of legal training or interest among all but a handful of earlier Western sinologists, the formidable difficulties in style and vocabulary of the Chinese legal literature, and the fact that Chinese scholars themselves usually regarded this literature as utilitarian only and hence as little worthy of study on esthetic or inspirational grounds.
+Behind this last point, however, lie other more basic considerations: the fact that the written law of pre-modern China was overwhelmingly penal in emphasis, that it was limited in scope to being primarily a legal codification of the ethical norms long dominant in Chinese society, and that it was nevertheless rarely invoked to uphold these norms except when other less punitive measures had failed.
+Chinese traditional society, in short, was by no means a legally oriented society despite the fact that it produced a large and intellectually impressive body of codified law.
+The penal emphasis of this law, for example, meant that matters of a civil nature were either ignored by it entirely (for example, contracts) or were given only limited treatment within its penal format (for example, property rights, inheritance, marriage). 
+The law was only secondarily interested in defending the rights ¡ª especially the economic rights ¡ª of one individual or group against another individual or group and not at all in defending such rights against the state.
+What really concerned the law ¡ª though this is to be surmised rather than explicitly read in the Chinese legal literature ¡ª were all acts of moral or ritual impropriety or of criminal violence which seemed in Chinese eyes to be violations or disruptions of the total social order.
+The existence of the norms of propriety was intended to deter the commission of such acts but once they occurred, the restoration of social harmony required that punishment be inflicted to exact retribution from their doer.
+In the final analysis, a disturbance of the social order really meant in Chinese thinking a violation of the total cosmic order because according to the Chinese world-view the spheres of man and nature were inextricably interwoven to form an unbroken continuum.
+For these reasons, he official law always operated in a vertical direction from the state upon the individual, rather than on a horizontal plane directly between two individuals.
+If a dispute involved two individuals, individual A did not bring a suit directly against individual B. Rather he lodged his complaint with the authorities, who then decided whether or not to prosecute individual B. 
+No private legal profession existed to help individuals plead their cases, and even in the government itself because law was only the last of several corrective agencies, officials exclusively concerned with the law operated only on the higher administrative levels.
+On the lowest level that of the hsien (district or county), which was the level where governmental law impinged most directly upon the people, its administration was conducted by the hsien magistrate as merely one of his several administrative functions.
+Although he usually lacked any formal legal training, he was obliged to act as detective, prosecutor, judge, and jury rolled into one.
+Fortunately for the operation of the system, however, the magistrate was commonly assisted in his judicial work by a legal secretary who did possess specialized knowledge of the law, and who, on behalf of the magistrate, could prepare cases for trial, suggest appropriate sentences, or write the legal reports which went to higher governmental levels.
+Yet it is indicative of the Chinese attitude toward law that this secretary did not himself belong to the formal administrative system. 
+He was merely a personal employee of the magistrate who paid his salary out of his own private purse.
+Hence the secretary was not permitted to try cases himself or otherwise to take an active part in the trials.
+However, to avoid miscarriages of justice on this lowest administrative level, a very carefully defined system of appeals existed which automatically took all but minor cases to higher levels for final judgment ¡ª in the case of capital crimes as far upward as the emperor himself.
+How law in imperial China became the embodiment of the ethical norms of Confucianism will be discussed later.
+Here it should be stressed that in China, perhaps even more than in most other civilizations, the ordinary man¡¯s awareness and acceptance of such norms was shaped far more by the pervasive influence of custom and the usages of propriety than by any formally enacted system of law.
+The clan into which he was born, the guild of which he might become a member, the group of gentry elders holding informal sway in his rural community ¡ª these and other extra-legal bodies helped to smooth the inevitable frictions in Chinese society by inculcating moral precepts upon their members, mediating disputes, or, if need arose, imposing disciplinary sanctions and penalties.
+The workings of such unofficial agencies were complemented by procedures on the part of the government, procedures which, despite their official inspiration, functioned quite separately from the formal legal system.
+These extra-legal organs and procedures, then were what the Chinese everyman normally looked to for guidance and sanction, rather than to the formal judicial system per se. 
+Involvement in the formal system was popularly regarded as a road to disaster and therefore to be avoided at all cost.
+¡°Win your lawsuit and lose your money ¡± runs a Chinese proverb. Or again: ¡°Of ten reasons by which a magistrate may decide a case nine are unknown to the public.¡± 
+One might conclude that the real reason for the Western neglect of Chinese formal law is that this law is not inherently deserving of much attention.
+Such a conclusion however would be unfortunate on several counts. 
+In the first place, law is an important touchstone for measuring any civilization, and its differing role in China as compared with its role in the West points to basic societal differences between the two civilizations which deserve detailed analysis.
+In the second place the various extra-legal bodies for social control mentioned above, despite their obvious importance and the generalized remarks about them to be found in many writings, are very difficult to study with precision because of their scattered and informal mode of operation and the fact that what they did and said was often either not written down at all or, if written, not readily available in published form.
+The literature on formal Chinese law by contrast is large in quantity, fairly readily available, and covers a longer time span than that of any other present-day political entity.
+It includes the legal sections in various encyclopedic compilations of governmental institutions, the chapters on legal development in many of the dynastic histories, several large compendia of actual law cases, and above all the voluminous law codes of successive dynasties.
+The codes, in particular, have a continuity and authoritativeness which make them unrivaled instruments for measuring precisely, dynasty by dynasty, the shifting configurations of Chinese social and political values as officially defined.
+So far this challenging task has hardly been attempted.
+The most recent of the dynastic codes is that of the Ch¡¯ing or Manchu dynasty (1644-1911).
+It was compiled in definitive form in 1740 and consists of 436 sections that contain a greater number of statutes and approximately 1,800 sub-statutes. 
+For previous dynasties there also exists a sequence of earlier codes going back to the T¡¯ang Code of 653, in 501 articles. 
+Before this date, no codes survive save for scattered quotations in other works. 
+However, a study still in progress has already yielded a wealth of information on the code and judicial procedure of the first lengthy imperial dynasty, that of Han (206 B.C - A.D.220).
+Prior to the Han and its short-lived predecessor, the Chin dynasty (221-207 B.C.) no centralized empire yet existed in China. 
+At that time there were only a number of independent and mutually warring principalities. 
+This pre-imperial age, often called the age of Chinese feudalism because of its institutional similarities to medieval Europe, is also the age that saw the formative beginnings of Chinese written law.
+Excluding unreliable myth and legend, the earliest datable evidence of such written law is the promulgation in 536 B.C. of certain ¡°books of punishment¡± in one of these principalities (see section 4).
+2. Law, Religion, and Economics
+A striking feature of the early written law of several major civilizations of antiquity has been its close association with religion. Not all of these civilizations, to be sure, actually produced systems of written law.
+When they did so however, they commonly signalized this achievement by attributing, at least initially, a divine origin to the law they used¡ªan origin signifying that such law had been given or revealed to mankind by a god or gods.
+This belief so obviously underlies Judaic and Islamic law that for them it requires no further elaboration. 
+It is equally apparent, however in the world¡¯s earliest written law as known to us from Mesopotamia. 
+On the stele bearing the famed laws of Hammurabi (ca. 1728-1686 B.C.), for example, a sculptured relief shows Hammurabi receiving from Shamash, god of justice, a divine commission for his writing of the laws.
+And in the prologue to the laws themselves Hammurabi tells us: ¡°Anum [the sky-god] and Enlil [the storm-god] named me to promote the welfare of the people, me, Hammurabi, the devout, god-fearing prince, to cause justice to prevail in the land, to destroy the wicked and the evil that the strong might not oppress the weak.¡±
+In Egypt, on the other hand no written law has as yet been found, apparently because the pharaoh as a living god on earth, needed no law other than his own spoken utterance: ¡°He, as a god, was the state ...
+The customary law of the land was conceived to be the word of the pharaoh ...
+The authority of codified law would have competed with the personal authority of the pharaoh.¡±
+And in India, too, no real equivalent of our idea of law existed in early times.
+The nearest approach was the concept of dharma, a word translatable as ¡°law,¡± but more properly signifying ¡°religious law,¡± and hence ipso facto having a divine connotation. 
+Only later did the idea of a purely secular law appear in Kautilya's Arthasastra (ca. 323 B.C.), but this development was short-lived and failed to survive the political disruption following the death of King Asoka.
+Since that time, therefore, we are told that the ¡°religious basis of law predominates through the rest of Indian history until modern times.¡±
+Turning from Asia to Europe, we find Plato, in the famous opening passage of the Lawsy making one of his protagonists unhesitatingly attribute the origin of law ¡°to a god.¡± 
+In Rome, similarly, despite its early secularization of law, we find Cicero purporting to quote ¡°the opinion of the wisest men of his day¡± to the effect that ¡°Law is not the product of human thought, nor is it any enactment of peoples, but something which rules the whole universe ...Law is the primal and ultimate mind of God.¡± 
+Even in eighteenth-century England, indeed, after centuries of experience with a secularly based common law, we find a similar conception persisting in legal theory.
+Thus we are told concerning Sir William Blackstone, author of the famous CommenfaHes (1765) that he ¡°regarded divine law as the corner-stone of the whole [legal] edifice, ¡± ¡°declared that divine law had been specifically revealed to men through inspired writings,¡± and ¡°sought to make secular law approximate to the dictates of God and of nature.¡±

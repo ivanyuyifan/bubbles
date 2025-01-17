@@ -1,0 +1,66 @@
+Chapter 2 The beginnings of mathematics in Greece 
+Thales was the first to go to Egypt and bring back to Greece this study [geometry]; he himself discovered many propositions, and disclosed the underlying principles of many others to his successors, in some case his method being more general, in others more empirical.
+Proclus, Summary (c. 450 C.E.) of Eudemus' History (c. 320 B.C.E.)
+A report from a visit to Egypt with Plato by Simmias of Thebes in 379 B.C.E. (from a dramatization by Plutarch of Chaeronea (first/second century C.E.)): "On our return from Egypt a party of Delians met us ... 
+and requested Plato, as a geometer, to solve a problem set them by the god in a strange oracle.
+The oracle was to this effect: The present troubles of the Delians and the rest of the Greeks would be at an end when they had doubled the altar at Delos. 
+As they not only were unable to penetrate its meaning, but failed absurdly in constructing the altar, they called on Plato for help in their difficulty. 
+Plato ... replied that the god was ridiculing the Greeks for their neglect of education, deriding, as it were, our ignorance and bidding us engage in no perfunctory study of geometry; 
+for no ordinary or near-sighted intelligence, but one well versed in the subject, was required to find two mean proportionals, that being the only way in which a body cubical in shape can be doubled with a similar increment in all dimensions. 
+This would be done for them by Eudoxus of Cnidus...; they were not, however to suppose that it was this the god desired, but rather that he was ordering the entire Greek nation to give up war and its miseries and cultivate the Muses, and by calming their passions through the practice of discussion and study of mathematics, so to live with one another that their relationships should be not injurious, but profitable?
+As the quotation and the (most likely) fictional account indicate, a new attitude toward mathematics appeared in Greece some time before the fourth century B.C.E. 
+No longer was it sufficient merely to calculate numerical answers to problems: Now one had to prove that the results were correct. 
+To double a cube-that is, to find a new cube whose volume is twice that of the original one-is equivalent to determining the cube root of 2, and that is not a difficult problem numerically. The oracle, however, was concerned not with numerical calculation, but with geometric construction. That, in turn, depended on geometric proof by logical argument.
+This change in the nature of mathematics, beginning around 600 B.C.E., was related to the great differences between the emerging Greek civilization and the civilizations of Egypt and Babylonia. The geography of Greece, primarily mountains and islands, effectively prohibited the development of large-scale agriculture. 
+As a possible consequence of this, Greece did not develop a central government. The Greeks' basic political organization was the polis, or city-state. The governments of the city-state were varied, but none controlled populations of more than a few thousand. Whether the governments were democratic or monarchical, they were not arbitrary. Each government was ruled by law, and thus its citizens were motivated to learn the skills of argument and debate. It was perhaps this atmosphere that promoted the necessity for proof in mathematics.
+Because virtually every city-state had access to the sea, there was constant trade, both within Greece itself and with other civilizations. As a result, the Greeks were exposed to many different peoples and, in fact, themselves settled in areas all around the eastern Mediterranean. 
+At the same time, a rising standard of living helped attract to Greece able people from other parts of the world. Hence the Greeks were exposed to differing answers to fundamental questions about the world and they began to create their own answers. 
+In many areas of thought, they learned not to accept what had been handed down from ancient times. Instead, they began to ask, and to try to answer, "why?" 
+Greek thinkers gradually came to the realization that the world around them was knowable, that they could discover its characteristics by rational inquiry. 
+Hence they were eager to discover and expound theories in such fields as physics, biology, medicine, and politics. They were convinced that mathematics was one of the primary sciences, the basis for all study of the physical world. 
+And even though Western civilization owes a great debt to the Greeks for their achievements in literature, art, and architecture, it is to Greek mathematics that we owe the idea of mathematical proof, an idea at the basis of modem mathematics and, by extension, at the foundation of our modem technological civilization.
+This chapter begins with a discussion of the contributions of the earliest Greek mathematicians in the sixth century B.C.E. and the beginnings of the Greek approach to problem solving. 
+We then discuss Plato and Aristotle's fourth-century study of the nature of mathematics and the idea of logical reasoning. 
+Finally, we present a detailed analysis of one of the earliest mathematical treatises to survive the ages, the Elements of Euclid, written around 300 B.C.E. That analysis also addresses the work of various earlier Greek mathematicians whose contributions are included in Euclid's text.
+2.1 THE EARLIEST GREEK MATHEMATICS
+Although there are no complete texts of Greek mathematics dating earlier than about 300 B.C.E., there do exist numerous fragments of mathematical manuscripts as well as many references in later works to early Greek mathematics. 
+The most complete reference to this early work is in the commentary to Book I of Euclid's Elements written in the fifth century C.E. by Proclus, some 800-1000 years after the fact.
+This account of the early history of Greek mathematics is generally thought to be a summary of a formal history written by Eudemus of Rhodes in about 320 B.C.E., the original of which is lost. 
+In any case, the earliest Greek mathematician mentioned is Thales (c. 624-547 B.C.E.), from Miletus in Asia Minor (Fig. 2.1). 
+There are many stories recorded about him, all written down several hundred years after his death. These include his prediction of a solar eclipse in 585 B.C.E. and his application of the angle-side-angle criterion of triangle congruence to the problem of measuring the distance to a ship at sea. 
+Thales is also credited with discovering the theorems that the base angles of an isosceles triangle are equal and that vertical angles are equal and with proving that the diameter of a circle divides the circle into two equal parts. 
+Although exactly how Thales "proved" any of these results is not known, it does seem clear that he advanced some logical arguments.
+Aristotle relates the story that Thales was once reproved for wasting his time on idle pursuits. 
+Therefore, noticing from certain signs that a bumper crop of olives was likely in a particular year, he quietly cornered the market on oil presses. When the large crop in fact was harvested, the olive growers all had to come to him for presses. 
+He thus demonstrated that a philosopher or a mathematician could in fact make money if he thought it worthwhile. 
+Whether this or any of the other stories is literally true is not known. 
+In any case, the Greeks of the fourth century B.C.E. and later credited Thales with beginning the Greek mathematical tradition. 
+In fact, he is generally credited with beginning the entire Greek scientific enterprise, including recognizing that material phenomena are governed by discoverable laws.
+2.1.1 Pythagoras and His School
+Pythagoras (c. 572-497 B.C.E.), the next mathematician about whom there are extensive but unreliable stories, spent much time not only in Egypt, where Thales was said to have visited, but also in Babylonia (Fig. 2.2). 
+Around 530 B.C.E., after having been forced to leave his native Samos, an island off the coast of Asia Minor, he settled in Crotona, a Greek town in southern Italy. 
+There he gathered around him a group of disciples, later known as the Pythagoreans, which was both a religious order and a philosophical school. From the surviving biographies, all written centuries after his death, we can infer that Pythagoras was probably more of a mystic than a rational thinker, but one who commanded great respect from his followers. 
+Since there are no extant works ascribed to Pythagoras or the Pythagoreans, the mathematical doctrines of his school can only be surmised from the works of later writers, including the "neo-Pythagoreans."
+One important such mathematical doctrine was that "number was the substance of all things"-that numbers, that is, positive integers, formed the basic organizing principle of the universe. 
+What the Pythagoreans meant by this was not only that all known objects have a number, or can be ordered and counted, but also that numbers are at the basis of all physical phenomena. 
+For example, a constellation in the heavens could be characterized by both the number of stars that compose it and its geometrical form, which itself could be thought of as represented by a number. 
+The motions of the planets could be expressed in terms of ratios of numbers. 
+Musical harmonies depend on numerical ratios: Two plucked strings with ratio of length 2:1 give an octave, with ratio 3:2 give a fifth, and with ratio 4:3 give a fourth. Out of these intervals an entire musical scale can be created. 
+Finally, the fact that triangles whose sides are in the ratio of 3:4:5 are right-angled established a connection of number with angle. 
+Given the Pythagoreans, interest in number as a fundamental principle of the cosmos, it is only natural that they studied the properties of positive integers, what we would call the elements of the theory of numbers.
+The starting point of this theory was the dichotomy between the odd and the even. 
+The Pythagoreans probably represented numbers by dots or, more concretely, by pebbles. 
+Hence an even number would be represented by a row of pebbles which could be divided into two equal parts. An odd number could not be so divided because there would always be a single pebble left over. 
+It was easy enough using pebbles to verify some simple theorems.
+For example, the sum of any collection of even numbers is even, while the sum of an even collection of odd numbers is even and that of an odd collection is odd (Fig. 2.3).
+Among other simple corollaries of these basic concepts were the theorems that the square of an even number is even and the square of an odd number is odd. 
+Squares themselves could also be represented using dots, providing simple examples of "figurate" numbers. 
+If you represent a given square in this way-for example, the square of 4-it is easy to see that the next higher square can be formed by adding a row of dots around two sides of the original figure. There are 2 ¡Á 4 + 1 = 9 of these additional dots. 
+The Pythagoreans generalized this observation to show that one can form squares by adding the successive odd numbers to 1. 
+For example, 1 + 3 = 22, 1 + 3 + 5 = 32, and 1 + 3 + 5 + 7 = 42. 
+The added odd numbers were in the L-shape generally called a gnomon (Fig. 2.4).
+Other examples of figurate numbers include the triangular numbers, produced by successive additions of the natural numbers themselves. 
+Similarly, oblong numbers, numbers of the form n(n + 1), are produced by beginning with 2 and adding the successive even numbers (Fig. 2.5).
+The first four of these are 2, 6, 12, and 20, that is, 1¡Á2, 2 ¡Á3, 3¡Á4, and 4¡Á5. 
+Figure 2.6 provides easy demonstrations of the results that any oblong number is the double of a triangular number and any square number is the sum of two consecutive triangular numbers.
+Another number-theoretical problem of particular interest to the Pythagoreans was the construction of Pythagorean triples.

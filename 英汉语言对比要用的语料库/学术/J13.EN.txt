@@ -1,0 +1,81 @@
+An Official American Thoracic Society Statement: Treatment of Fungal Infections in Adult Pulmonary and Critical Care Patients
+Growing numbers of immune-compromised patients with malignancy, hematologic disease, and HIV, as well as those receiving immunosupressive drug regimens for the management of organ transplantation or autoimmune inflammatory conditions, have significantly contributed to an increase in the incidence of these infections.
+Definitive diagnosis of pulmonary fungal infections has also increased as a result of advances in diagnostic methods and techniques, including the use of computed tomography (CT) and positron emission tomography (PET) scans, bronchoscopy, mediastinoscopy, and video-assisted thorascopic biopsy.
+At the same time, the introduction of new treatment modalities has significantly broadened options available to physicians who treat these conditions.
+Once largely limited to the use of amphotericin B, flucytosine, and a handful of clinically available azole agents, today¡¯s pharmacologic treatment options include potent new azole compounds with extended antifungal activity, novel lipid forms of amphotericin B, and a new class of antifungal drugs known as echinocandins.
+In light of all these developments in the incidence, diagnosis, and treatment of pulmonary fungal infections, the American Thoracic Society convened a working group on fungi to develop a concise clinical summary of the current therapeutic approaches for those fungal infections of particular relevance to pulmonary and critical care practice.
+This document focuses on three primary areas of concern: the endemic mycoses, including histoplasmosis, sporotrichosis, blastomycosis, and coccidioidomycosis; fungal infections of special concern for immune-compromised and critically ill patients, including cryptococcosis, aspergillosis, candidiasis, and Pneumocystis pneumonia; and rare and emerging fungal infections.
+METHODS
+For each fungal infection evaluated, the available literature has been thoroughly reviewed and interpreted by the experts involved in this statement.
+In the search for published evidence, workgroup members reviewed journal articles and previously published guidelines, and conducted an evaluation of electronic databases, including PubMed and MEDLINE. In general, only articles written in English were used in the final recommendations.
+The most relevant literature references are included in this publication. Discussion and consensus among workgroup members formed the basis for the recommendations made in this statement.
+The authors reviewed the evidence base for each major recommendation of this consensus statement and graded according to an approach developed by the U.S. Preventive Services Task Force (Tables 1 and 2). Although the American Thoracic Society (ATS) and Infectious Disease Society of America (IDSA) have recently adopted the GRADE approach to grading the quality of evidence and strength of recommendations for clinical guidelines, the current project was initiated and much of the work was completed prior to the official adoption of GRADE. The recommendations included were, therefore, graded according to the system used in prior guidelines (1¨C3).
+Each section also includes expert interpretations regarding the best approach for challenging clinical situations that have not been well studied in the literature, but that are the basis for frequent consultation of the members of the ATS working group on fungal infections.
+For convenience, a glossary of definitions of uncommon terms is also included at the end of the document.
+Each member of the writing committee has declared any conflict of interest, and every effort was made by the Chair as adjudicator to ensure that recommendations were free of any real or perceived conflict of interest; however, it should be noted that the process predates the official development and adoption of the revised ATS Conflict of Interest guidelines in 2008 (4).
+ANTI-FUNGAL AGENTS: GENERAL CONSIDERATIONS
+Polyenes
+The prototype of the polyenes is amphotericin B deoxycholate (amphotericin B), which continues to be a fundamental treatment option for severe fungal infections, particularly life-threatening illnesses, including aspergillosis, cryptococcosis, systemic candidiasis, and severe cases of histoplasmosis, blastomycosis, coccidioidomycosis, and zygomycosis.
+Polyenes act by binding to sterols in the fungal cell membrane, forming a transmembrane channel that precipitates cell leakage and death.
+Amphotericin B is administered intravenously, and is associated with a broad range of side effects.
+Careful monitoring during therapy should focus on serum creatinine, blood urea nitrogen, serum electrolytes (particularly potassium and magnesium), complete blood counts, and liver function tests, and monitoring should be conducted at least weekly during therapy, or even daily in the presence of renal insufficiency.
+Because the renal toxicity of amphotericin B can develop precipitously, we recommend that patients with any degree of renal insufficiency be more closely monitored.
+Many experienced clinicians pre-medicate patients with antipyretics, antihistamines, anti-emetics, or meperidine to decrease the common febrile reaction and shaking chills associated with infusion (BIII).
+Meperidine is most effective for ameliorating the severe rigors.
+Rapid intravenous administration of amphotericin B has been observed to precipitate life-threatening hyperkalemia and arrhythmias (5); therefore, the daily dose of amphotericin B deoxycholate should be infused over 2 to 6 hours.
+Hypotension and shock have also occasionally been observed during amphotericin B infusion.
+Amphotericin B should not be administered simultaneously with leukocytes, as this may possibly precipitate pulmonary toxicity (6).
+There appears to be an additive, and possibly synergistic, nephrotoxicity with other nephrotoxic agents such as aminoglycoside antibiotics (7).
+Adequate intravenous fluid hydration has been shown to reduce the risk of nephrotoxicity (8).
+In complicated patients, consultation with an experienced clinical pharmacist or use of tools such as software programs that delineate drug interactions, particularly those with suspected synergistic nephrotoxicity or those requiring renal clearance, is recommended.
+Additional side effects are common, and may include hypokalemia, phlebitis/thrombophlebitis, anorexia and weight loss, fever and chills, headache and malaise, and cardiac dysrhythmias.
+Liver toxicity may also occur, but its incidence is rare compared with renal toxicity.
+Nephrotoxicity and other untoward side effects of amphotericin B deoxycholate are largely dose-dependent. In clinical situations that require doses of amphotericin B deoxycholate greater than or equal to 1.0 mg/kg/day, strong consideration should be given to using lipid formulations of amphotericin to avoid the potentially high incidence of toxic side effects (see below) (BIII).
+In addition to amphotericin B deoxycholate, two different lipid-associated formulations have been developed and are in current use: liposomal amphotericin B and amphotericin B lipid complex.
+These agents have variable dosing schedules and toxicities, but, in general are significantly less nephrotoxic than amphotericin B deoxycholate.
+Data concerning the improved efficacy of any amphotericin lipid formulation over amphotericin B deoxycholate are limited. So far, the clearest indication for use of a lipid formulation is to reduce renal toxicity (AII), which is an especially important consideration in patients who have underlying nephrotoxicity or in those who are receiving multiple concomitant nephrotoxic drugs.
+For diseases where dosing of amphotericin B at 1.0 mg/kg/day or higher is standard, the intrinsic nephrotoxicity of amphotericin B itself dictates preferred use of lipid formulations.
+As with standard amphotericin B formulations, monitoring for side effects during therapy should include measurement of serum creatinine, blood urea nitrogen, and serum electrolytes (particularly potassium and magnesium), complete blood counts, and liver function tests which should be performed at least weekly during therapy, or even daily in the presence of renal insufficiency.
+Theoretically, lipid formulations of amphotericin might have some benefit of higher central nervous system (CNS) penetration, especially when given in higher doses, although conclusive clinical data to support this approach in treatment of fungal meningitis are lacking.
+Recommendation.
+Among patients with renal insufficiency or among those individuals who are receiving multiple concomitant nephrotoxic drugs, we suggest a lipid formulation of amphotericin B to reduce renal toxicity (DII).
+Remark.
+In certain clinical situations that require doses of amphotericin B deoxycholate greater than or equal to 1.0 mg/kg/day, the incidence of such toxicities is high, and lipid formulations of amphotericin are associated with fewer adverse effects, and therefore may be preferred.
+Triazoles.
+The azole antifungal agents contain three nitrogen atoms within the basic ring.
+Triazoles in clinical use include ketoconazole, itraconazole, fluconazole, voriconazole, and posaconazole.
+Triazoles target the 14-a-demethylase enzyme, which mediates the conversion of lanosterol to ergosterol in the fungus.
+Interactions of azole drugs with human P450 cytochromes have been well documented (9).
+Therefore, azole-related drug interactions are especially problematic in immunocompromised hosts, particularly transplant patients and those infected with HIV.
+In these populations, decreased plasma concentration of the azole may occur as a result of increased metabolism, or of increases or decreases in concentrations of co-administered drugs.
+With most of the azole compounds, interactions occur with many such drugs, particularly cyclosporine, benzodiazepines, statins, and certain anti-HIV drugs, as a result of altered rates of drug metabolism and induction of the relative P450 enzymes (10).
+The use of azoles is contraindicated during pregnancy; in these patients, amphotericin is preferred, as amphotericin B and its lipid derivatives are rated class B for pregnancy. By contrast, fluconazole, itraconazole, and posaconazole are class C drugs, while voriconazole is a class D drug.
+Earlier generation azoles such as ketoconazole also have adverse effects on steroid hormone levels and adrenal function (11).
+Itraconazole.
+Modifications to the azole structure have led to additional extended spectrum antifungals.
+For instance, itraconazole contains a four-ring lipophilic tail that enhances its interactions with the CYP51 cytochrome, rendering it active against molds.
+Itraconazole is effective for some Aspergillus infections, mucosal candidal infections, histoplasmosis, blastomycosis, coccidioidomycosis, and other fungal infections (12).
+Unfortunately, due to itraconazole¡¯s high protein binding and poor CNS penetration, it is not an optimal choice for CNS infections.
+Itraconazole is available as either oral capsules or an oral solution.
+The oral capsules require gastric acid for absorption, and so are usually taken with food or acidic beverages.
+In addition, concurrent use of proton pump inhibitors and antacids should be avoided.
+To overcome problems with variable drug absorption, particularly in settings in which proton pump inhibitors must be administered concurrently, itraconazole has been solubilized in a cyclodextrin solution, resulting in substantial improvement in absorption (13).
+In contrast to the capsule form, the oral solution requires an empty stomach.
+Because of the widespread use of antacids, H2 blockers, and proton pump inhibitors, the committee recommends thoughtful consideration of the optimal form to use.
+When using oral itraconazole, it is important to routinely assure that adequate levels of itraconazole are present in serum (AII).
+The bioassays used to measure the antifungal activity of serum reflect all active antifungal substances that are present in the serum at the time of testing, and therefore may not specify the level of the unique agent of interest.
+In contrast, the high-performance liquid chromatography (HPLC) method measures the actual concentration of the specific compound in question in the serum or other body fluids.
+The report usually provides the concentration of the parent compound and its active metabolites, but does not take into account binding of active drug, because of the extraction process, used before the assay.
+Thus, the target range provided by the lab for each particular assay should be followed when making dose adjustments.
+Dosage adjustments of orally administered itraconazole are not required in patients with renal impairment, and do not appear to be required during hemodialysis.
+Itraconazole is extensively metabolized in the liver, and caution should be employed in patients with significant liver insufficiency (12).
+Contraindications to itraconazole use include previous hypersensitivity to itraconazole or co-administration of cisapride, dofetilide, midazolam, pimozide, levacetylmethadol, quinidine, statin medications, triazolam, and other agents.
+Precaution should be used in patients with severe congestive heart failure (CHF), achlorhydria, hepatic dysfunction, or hypersensitivity to other azoles.
+Side effects of itraconazole are rare and may include rash, diarrhea, and nausea.
+Serious, though uncommon, side effects include worsening of CHF, Stevens-Johnson syndrome, and hepatotoxicity.
+As with other azole compounds, interactions occur with many such drugs, particularly cyclosporine, benzodiazepines, statins, certain anti-HIV drugs, and many other agents related to its metabolism by the P450 cytochrome system (10). Pharmacy and medication cross-reference resources should be consulted whenever instituting treatment.
+Fluconazole.
+In the 1990s, fluconazole joined this class of antifungals, offering a reduced lipophilicity that allows for easier administration.
+This agent has been shown to have good activity against Candida albicans, and is used for prevention and treatment of both mucosal and invasive diseases.
+Fluconazole also has significant activity in cryptococcosis and coccidioidomycosis.
+Dose adjustments are recommended in renal impairment, and dosages are reduced by 50% when the creatinine is less than 50 ml/minute.

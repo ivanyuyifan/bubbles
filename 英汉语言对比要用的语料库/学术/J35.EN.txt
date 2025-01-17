@@ -1,0 +1,65 @@
+Tradition and Innovation in Contemporary Narrative Theory
+Writing an introduction to a wide-ranging collection of essays is always a matter of navigating between Scylla and Charybdis ¡ª but in this book, the metaphor has more specificity than usual.
+Scylla, you¡¯ll recall, was a monster who inhabited a cave in a cliff on a spit of land jutting off from the coast; her many arms plucked sailors from the boats that came too near. 
+Charybdis was a whirlpool that threatened any boats that tried to evade the cliff. 
+Elements of those images impinge on this introduction ¡ª and on narrative theory itself ¡ª in several ways.
+How, for instance, should the introduction be structured? 
+On the one hand, we can aim for clarity, simply summarizing the contents. 
+Such a Cliffs Notes approach may provide a certain stony intelligibility, but it runs the risk of plucking the spirit from both the essays and our readers. 
+On the other hand, we¡¯re faced with the ever-expanding whirlpool of self-reflexivity. 
+An introduction, after all, can itself easily become a narrative ¡ª and a narrative about the current study of narrative (which in turn includes a history of the study of narrative) risks spinning into an endless loop, especially when written by authors who are, by disciplinary training, acutely selfconscious.
+The task is made more difficult still because Scylla and Charybdis are not simply potential dangers to be evaded. 
+Like the Sirens (and it¡¯s appropriate that the volume includes three essays on music and one that deals tangentially with musical issues), they offer seductions as well. 
+Indeed, one can argue that the discipline of narrative theory itself divides into two attractive and productive ways of doing things, ways parallel to the distinction between the cliff and the whirlpool.
+On the one hand, we have the search for a stable landing, a theoretical bedrock of the fundamental and unchanging principles on which narratives are built. 
+This approach is often associated with what is called structuralist (or classical) narratology, and especially after the rise of post-structuralism, it is often viewed as old-fashioned, even quaint ¡ª and it is often believed to yank the life out of the works it considers. 
+But as we hope this collection will make clear, it¡¯s still an enormously vital area of study, and it¡¯s still producing illuminating work, though nowadays its claims tend to be more modest ¡ª about ¡°most narratives¡± or ¡°narratives of a certain historical period¡± rather than about ¡°all narratives.¡¯
+On the other hand, we have a discipline experiencing a voracious spin. 
+That whirlpool is generated in part by the self-conscious and self-critical nature of much narrative theory. 
+What the two of us have in the past labeled ¡°theorypractice,¡± for instance, uses the interpretive consequences of particular theoretical hypotheses as a way of testing and re-examining those very hypotheses. 
+But the vortex of narrative theory comes as well from what¡¯s often called the ¡°narrative turn,¡± the tendency of the term ¡°narrative¡± to cover a wider and wider territory, taking in (some would say ¡°sucking in¡±) an ever-broadening range of subjects for inquiry. 
+Narrative theory, over the years, has become increasingly concerned with historical, political, and ethical questions. 
+At the same time, it has moved from its initial home in literary studies to take in examination of other media (including film, music, and painting) and other nonliterary fields (for instance, law and medicine).
+It should therefore be no surprise that our volume represents both Scylla and Charybdis, both the search for enduring fundamentals of narrative theory and the engagement with the many turnings of contemporary theory. 
+True, the introduction steers, on the whole, closer to the cliff, largely because so many of the essays themselves offer sufficient spin to satisfy anyone in search of the pleasures of the whirlpool. 
+Nonetheless, we are sufficiently self-conscious to warn you that, if writing this introduction involved navigating a familiar but tricky path, so too does reading it. 
+For reasons that will become increasingly clear, we urge you to recognize that our navigational choices were not inevitable. 
+You very well might have charted a different route ¡ª though of course you can¡¯t choose that route until you¡¯ve read much more than this introduction.
+The book opens with a prologue that sets out narrative theory¡¯s modern history. 
+In the first essay, ¡°Histories of Narrative Theory (I): A Genealogy of Early Developments,¡± David Herman surveys the origins of the field. 
+But since Herman is strongly influenced by the notion of ¡°genealogy¡± promoted by Nietzsche and Foucault, his essay refuses to move in a simple linear fashion. 
+He is particularly concerned with the way early structuralist narratology ¡ª an attempt to study narrative by treating ¡°particular stories as individual narrative messages supported by a shared semiotic system¡± ¡ª grew out of ¡°a complex interplay of intellectual traditions, critico-theoretical movements, and analytic paradigms distributed across decades, continents, nations, schools of thought, and individual researchers.¡± 
+Herman uses Wellek and Warren¡¯s influential Theory of Literature as a nodal point, moving in and out from there to show the overlapping connections among a wide range of superficially competing critics who nonetheless represent, if not ¡°a singular continuous tradition of research,¡± then at least ¡°a cluster of developments marked by family resemblances.¡¯
+¡¯ One of Herman¡¯s key points is that what can be assimilated from any theorist¡¯s work at any given time is fundamentally dependent on the paradigms in force at the time of reading. 
+His history thus twists back on itself, as he demonstrates how ¡°old¡± theoretical works in ¡°new¡± contexts take on new resonances.
+In ¡°Histories of Narrative Theory (II): From Structuralism to the Present,¡± Monika Fludernik likewise resists a linear chronology in which gradual developments contribute to an ever-more complete critical arsenal. 
+Rather, Fludernik self-reflexively applies narrative theory to the history of narrative theory itself, setting out two competing ¡°plots.¡± 
+She then follows the second of these to show how narrative theory has spread out in widening branches. 
+Specifically, she moves from formalist study to pragmatics (including issues of gender and politics) on to the study of media and of the narrative turn in a variety of social sciences, coming finally to issues of linguistics and cognition. 
+Her essay dexterously ends with both a return to its opening and a possible glimpse of the future.
+The prologue ends with Brian McHale¡¯s ¡°Ghosts and Monsters: On the (Im)Possibility of Narrating the History of Narrative Theory.¡± 
+Here McHale questions the work of Herman and Fludernik by using the insights of narrative theory to question the task we assigned to them. 
+Specifically, McHale defines two different kinds of history ¡ª what he calls ¡°history of ideas¡± and ¡°institutional history¡± ¡ª and argues that the friction between them makes a true history of narrative theory an impossibility. 
+In even more provocative terms, McHale suggests that there is an irreconcilable opposition between narrative theory that privileges ¡°structure¡± (the Scylla of classical narratology) and narrative theory that privileges ¡°history¡± (the Charybdis of narrative turnings). 
+Though the necessity of sequence dictates that McHale¡¯s essay be last in the prologue, that does not mean that you should take his word as final. 
+Our own position is that the prologue is a provocation that opens up more questions than it settles.
+Part I, ¡°New Light on Stubborn Problems,¡± looks at some of the disputes that have continued as an undertow in the flow of narrative theory for the past 40 or 50 years ¡ª disputes that therefore remain central to its continued movement. 
+In the first essay, ¡°Resurrection of the Implied Author: Why Bother?,¡± Wayne C. Booth ¡ª already introduced in Herman¡¯s and Fludernik¡¯s histories ¡ª returns to a concept that he first introduced in The Rhetoric of Fiction in 1961: the implied author, the author¡¯s ¡°second self¡± as reflected in a text. 
+Many subsequent theorists (including several contributors to this volume) have argued that the concept is either useless or redundant; Booth, in contrast, believes that it¡¯s more important than ever. 
+Starting from a reconsideration of the concerns that led him to develop the idea in the first place, Booth goes on to show how the concept improves our understanding, not only of fiction (for which it was developed), but also of poetry and of the way we present ourselves in our day-to-day interactions.
+The next two essays deal, in different ways, with another key narratological term introduced by Booth in The Rhetoric of Fiction: the ¡°unreliable narrator.¡±
+ The first is by Ansgar Niinning, one of the critics dissatisfied with Booth¡¯s concept of the implied author. 
+In ¡°Reconceptualizing Unreliable Narration: Synthesizing Cognitive and Rhetorical Approaches,¡± Niinning uses that dissatisfaction as an entry into a detailed account of the battles that have erupted over unreliable narration, with particular attention to the question of how readers in fact recognize unreliability when they come across it in the text. 
+He argues that unreliability cannot be defined simply in terms of the text¡¯s ¡°structural or semantic¡± aspects; it also involves the ¡°conceptual frameworks¡± brought to the text by its readers. 
+More generally, he contends that an adequate model of unreliability needs to combine the latest insights offered by the apparently divergent arguments of rhetorical and cognitive narrative theorists. 
+He ends his essay, provocatively, with a series of six questions that remain to be answered.
+If Niinning hopes to reduce the difficulties involved in accounting for unreliable narration by developing a new synthetic theory, Tamar Yacobi (¡°Authorial Rhetoric, Narratorial (Un)Reliability, Divergent Readings: Tolstoy¡¯s Kreutzer Sonata¡±) offers a somewhat different perspective on the same terrain by moving up to the next level of generality. 
+Yacobi argues that unreliability is best understood as a ¡°reading-hypothesis¡± that allows readers to resolve apparent textual contradictions. 
+She makes her case by looking at the wide disparities that separate different readings of Tolstoy¡¯s novella. 
+After grouping these disparate readings into a few sets with common features, she goes on to show how all these groups are in turn generated by the operation of a small number of shared integrative mechanisms that readers use to deal with incongruities that arise when processing a text.
+The essays by J. Hillis Miller and Dan Shen take up a different complex of problems that have long puzzled narrative theorists, problems that often show up in terms of the relation of form to content or style to meaning ¡ª or form to substance, as Miller puts it in his close reading of Henry James¡¯s The Awkward Age (¡°Henry James and ¡®Focalization,¡¯ or Why James Loves Gyp¡±). 
+Although many narratologists have argued that the purpose of theory is not to produce new readings, Miller insists that narratological distinctions are only valuable if they serve interpretation ¡ª indeed, more radically in an age that often seems to resist judging interpretations, that they ¡°are useful only if they lead to better readings or to better teachings of literary works.¡± 
+A good reading for Miller, though, is not necessarily a simple or a stable one: it can well end in a whirlpool of its own. 
+His patient, theoretically sophisticated analysis demonstrates how, in this formally anomalous narrative (anomalous, at least, within the James canon), James succeeds in breaking down the distinction between substance and form and how the ¡°right reading¡± of the text turns out to be one that reaches ¡°undecidability¡± as its conclusion.
+Shen, in ¡°What Narratology and Stylistics Can Do for One Another,¡± starts by looking at a familiar assumption: there is a rough equivalence between the story/ discourse distinction central to narratological thinking (the distinction between ¡°what¡± is told and ¡°how¡± it is told) and the content/style distinction (what is expressed and how it is expressed) central to much stylistic thinking. 
+Using a brief interchapter from Ernest Hemingway¡¯s In Our Time as her case in point, she goes on to show that the similarities are only superficial ¡ª and that a full understanding of style in narrative requires an interdisciplinary approach that synthesizes the insights of both narratology and stylistics.

@@ -1,0 +1,69 @@
+Academic disciplines periodically undergo reorientation as core themes shift to re-direct research and focus attention on new questions or reexamine traditional problems from new perspectives.
+In the humanities and social sciences, a recent line of inquiry has focused on space, prompting scholars of society and culture to talk about a spatial turn within their disciplines.
+Even a cursory review of literature reveals the influence of this new direction. Subject matter, once organized largely as periods and eras, increasingly is ordered under spatial themes, such as region, diaspora, contact zones, and borders or boundaries, among others.
+This shift has been accompanied by and reinforced through an equivalent concern with material culture, built and natural environment, and other markers of space and place.
+It is not the first time that attention to space and time has reshaped the way we approach social and cultural questions.
+A similar turn occurred from 1880 to 1920 when a series of sweeping technological changes created new ways of thinking about time and space.
+Distance-collapsing innovations - the telephone, wireless telegraph, radio, cinema, automobiles, and airplanes, among others -challenged traditional understandings of how time and space intersected with the social world.
+It suddenly was possible to know events as they occurred, and this experience of simultaneity refashioned people¡¯s sense of distance and direction.
+It also meant that individuals were no longer cut off from the flow of time; widely available film and photographic images made the past as accessible as the present, while new developments in science and the world fairs that showcased them made the future seem more definite and real.
+New scientific theories, business practices, and cultural forms reinforced the shift:
+Einstein¡¯s theory of relativity and Freud¡¯s conception of psychoanalysis shaped consciousness directly;
+time-management studies, such as Taylorism, dominated manufacturing;
+and James Joyce and Marcel Proust explored how to link time and space in novels, while the Cubists challenged notions of spatial perspective and form that had long dominated art.
+A continuous thread links the first spatial turn with the one we have experienced more recently, but it is likely that this second turn will have a more profound influence on the theory and practice of history and the humanities.
+The early twentieth-century conceptions of space and time had less effect on the study of the past than it did on art and literature.
+Frederick Jackson Turner¡¯s frontier thesis and its emphasis on the development of the American West and the history it spawned were exceptions, as was the decade-long work of the Annales movement; both schools reflected an intentional focus on questions of space and time.
+But the cataclysms of the mid-twentieth century, from world wars and revolutions to mass movements for equality, ultimately spurred historians to search for the roots of momentous events in ideas and politics and technological or social change, causes for which spatial markers were less pronounced.
+The considerations for space did not disappear, but they became marked by particularity, an emphasis on place, as scholars began to discern how the story of change differed from one location to another.
+The focus on place reflected and reinforced a postmodernist unease with the grand narrative, which created a literature that increasingly became fragmented, with analyses existing at different geographical and temporal scales and few efforts made to link them.
+For many humanists, space itself became less geographical and more metaphorical, as scholars found richer meaning in conceptual space - for instance, gendered space, racialized space, or the body as space - than in categories related to the physical environment, the traditional frame of definition for spatial terms.
+Today, historians and other humanists are acutely aware of the social and political construction of space and its particular expression as place.
+Spaces are not simply the setting for historical action but are a significant product and determinant of change.
+They are not passive settings but the medium for the development of culture: ¡°space is not an empty dimension along which social groupings become structured,¡± sociologist Anthony Giddens notes, ¡°but has to be considered in terms of its involvement in the constitution of systems of interaction¡± (Giddens 1984, 364).
+All spaces contain embedded stories based on what has happened there. These stories are both individual and collective, and each of them links geography (space) and history (time).
+More important, they all reflect the values and cultural codes present in the various political and social arrangements that provide structure to society.
+In this sense, then, the meaning of space, especially as place or landscape, is always being constructed through the various contests that occur over power.
+There is nothing new in this development - the earliest maps reveal the power arrangements of past societies - but humanities scholarship increasingly reflects what may in fact, by the greatest legacy of postmodernism, the acknowledgment that our understanding of the world itself is socially constructed.
+At its core, the spatial turn rejects the universal truths, grand narratives, and structural explanations that dominated the social sciences and the humanities during much of last century.
+Above all, it is about the particular and the local, without any supposition that one form of culture is better than another.
+Its claim is straightforward: To understand human society and culture, we must understand how it developed in certain circumstances and in certain times and at certain places.
+From this knowledge, we can appreciate that the world is not flat but incredibly complicated and diverse.
+This view no longer seems new because humanists have embraced it eagerly; now we all recognize the particularity of space, the importance of place.
+But for all the uses we make of this insight¡ªand for all its explanatory power¡ªthe concepts of space and place employed by historians frequently are metaphorical and not geographical.
+Far less often have we grappled with how the physical world has shaped us or how in turn we have shaped perceptions of our material environment.
+New spatial technologies, especially geographic information systems (GIS), are now facilitating a (re)discovery of geographical space in history and the other humanities.
+At its core, GIS is a powerful software that uses location to integrate and visualize information.
+Within a GIS, users can discover relationships that make a complex world more immediately understandable by visually detecting spatial patterns that remain hidden in texts and tables.
+Maps have served this function for a long time, but GIS brings impressive computing power to this task.
+Its core strength is its ability to integrate, analyze, and make visual a vast array of data from different formats, all by virtue of their shared geography.
+This capability has attracted considerable interest from historians, archaeologists, linguists, students of material culture, and others who are interested in place, dense coil of memory, artifact, and experience that exists in a particular space, as well as in the coincidence and movements of people, goods, and ideas that have occurred across time in spaces large and small.
+Recent years have witnessed a wide-ranging, if still limited, application of GIS to historical and cultural questions: Did the Dust Bowl of the 1920s and 1930s result from over-farming the land or was it primarily the consequence of larger term environmental changes?
+What influence did the rapidly changing cityscape of London have on literature in Elizabethan England?
+What is the relationship between rulers and territory in the checkered political landscape of state formation in the nineteenth-century Germany?
+How did spatial networks influence the administrative geography of medieval China?
+What spatial influences shaped the development of the transcontinental railroad in the United States?
+Increasingly, scholars have turned to GIS to provide new perspective on these and other topics that previously have been studied outside of an explicitly spatial framework.
+Despite this flurry of interest and activity, most uses to date of GIS in historical and cultural studies have been disparate, application driven, and often tied to the somewhat its more obvious role in census boundary delineation and map making.
+While not seeking to minimize the importance of such work, these studies have rarely addressed the broader, more fundamental issues that surround the introduction of a spatial technology such as GIS into the humanities. There are core reasons why GIS has found early use and ready acceptance in the sciences and social sciences rather than in the more qualitatively based humanities.
+The humanities pose far greater epistemological and ontological issues that challenge the technology in a number of ways, from the imprecision and uncertainty of data to concepts of relative space, the use of time as an organizing principle, and the mutually constitutive relationship between time and space.
+Essentially, GIS and its related technologies currently allow users to determine a geometry of space.
+In the context of the humanities, it will be necessary to move GIS from this more limited quantitative representation of space to facilitate an understanding of place within time and the role that place occupies in humanities disciplines.
+In their essence, historians seek to generalize from the particular, not for the purpose of finding universal laws but rather to glean insights about cause and effect from a known outcome.
+Here, the humanities differ from much of social science, which attempts to reach a generalization that holds true in any similar circumstance.
+This difference is significant and influences the way the two groups of scholars create knowledge.
+For many social scientists, the search for trustworthy generalization focuses on the isolation of an independent variable, the cause that has a predictable effect on dependent variables or ones that respond to the stimulus or presence of a catalyst.
+They believe it is possible to discover such a variable, given sufficient resources, because the world is not yet lost to them.
+Historians must contend with fragmentary evidence and are painfully aware that the past is incomplete and irretrievable.
+They also are skeptical of prediction.
+The past cannot be changed, even if its interpretation as history is continually in flux, but in it the intersection of patterns and singular events can be discovered.
+Not so the future, where continuities and contingencies coexist independently of one another.
+Historians view reality as weblike, to use philosopher Michael Oakeshott¡¯s phrase, because they see everything as related in some way to everything else.
+Interdependency is the lingua franca of the humanities, and most recently, it has become embodied in practice theory, or in the view of one of its leading proponents, historian William Sewell, ¡°social life may be conceptualized as being composed of countless happenings or encounters in which persons or groups of persons engage in social action.¡±
+In this view, societies and social systems are ¡°continually shaped and reshaped by the creativity and stubbornness of their human creators¡± (Sewell 2005, 110¨C111).
+Another historian, Ed Ayers, has labeled this concept ¡°deep contingency,¡± an effort to understand society as a whole with ¡°all structures put into motion and motion put into structures¡± (Ayers 2010, 7).
+The goal of historical scholarship is not to model or replicate the past; a model implies the working out of dependent and independent variables for purposes of prediction, whereas replication suggests the ability to know the past and its cultural forms more completely than most humanists would acknowledge is possible.
+Humanists practice an extractive scholarship: they have the capacity for selectivity and shifting perspectives in the pursuit of the fullest possible understanding of heritage and culture.
+Traditionally, humanities scholars have used narrative to construct the portrait that furthers this objective.
+Narrative encourages the interweaving of evidentiary threads and permits the scholar to qualify, highlight, or subdue any thread or set of them¡ªto use emphasis, nuance, and other literary devices to achieve the complex construction of past worlds.
+All of these elements - interdependency, narrative, and nuance, among others - predispose the humanists to look askance at any method or tool that appears to reduce complex events to simple schemes.

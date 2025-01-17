@@ -1,0 +1,45 @@
+A recently completed series of tests on TEPCO's UHV transmission line aimed to measure the propagation of lightning surges, verify the computer program used to model transient phenomena and measure the voltage at which corona occurs.
+So far, TEPCO has constructed 287 km of ultra high voltage (1000 kV nominal, 1100 kV maximum operating voltage) ¨C albeit currently operating at a reduced voltage of 500 kV. 
+Another 129.6 km is almost finished and should go into service later this year. 
+The tests were carried out on a 45 km section of this new line.
+Tokyo Electric's service area
+TEPCO (Tokyo Electric Power Co) is one of the ten Japanese electric utilities and serves the Kanto region, which is the area surrounding Tokyo. 
+TEPCO is in fact the second largest utility in the world, after Electricit¨¦ de France, with a total installed capacity of 56760 MWe.
+On the west and south, TEPCO's neighbours are 60 Hz utilities and power exchanges are limited.
+Construction of the 1000 kV lines 
+The first section of the line (the Nishi-Gunma Trunk Line) is 138 km long and runs between Higashi-Yamanashi and the Nishi-Gunma switching station. It was completed in 1992. 
+The second section (the Minami Niigata Trunk Line) is 111 km long but only 50 km is designed for 1000 kV, the remainder being a 500 kV line. It runs between Nishi-Gunma and the Kashiwazaki-Kariwa nuclear site and was completed in 1993.
+The third section of the line (the Kita-Tochigi Trunk Line) is 109 km long and interconnects the Nishi-Gunma and Shin Imaichi switching stations. It was completed in 1996. 
+This section has now been extended by 129.6 km to the Minami-Iwaki substation close to the Fukushima sites and the new line should go into service later this year.
+At present, all these lines are being operated at 500 kV because they can cope with the present loads at this voltage. 
+But at some time in the 2000-2010 time frame, it is predicted that the load will increase to the point at which 1000 kV operation is needed. 
+In the meantime TEPCO intends to defer the cost of converting the substation equipment to 1000 kV.
+TEPCO decided to develop the 1000 kV system, partly to advance the technology, partly to reduce transmission losses and partly because the use of parallel 500 kV lines could result in excessive short circuit currents (substations are limited to short circuit currents of 63 000 A).
+Design of the 1000 kV system
+TEPCO's UHV system is the world's second 1000 kV line, the first being a system in Siberia. 
+However, the Siberian line is a single circuit line with the conductors arranged horizontally, an arrangement which permits large clearances to be easily accommodated. 
+On the other hand, TEPCO wished to use the conventional arrangement of twin circuits on single towers and if the design had been simply scaled up from 500 kV designs, the line clearances would have become very large with the towers some 143 m high and the top cross arm about 46 m across.
+Tokyo Electric made a detailed study of the required insulation levels in order to achieve the optimum balance, economically and technically, between substation equipment and the transmission line. 
+The conclusion was to use high performance metal oxide surge arrestors where the lines enter the substations to suppress lightning surges, leaving switching surges as the dominant factor in the design of insulation levels. 
+The surge arrestors consist of 4 stacks of zinc oxide elements and are rated at 1620 kV/20 000 A.
+Temporary AC overvoltages were investigated using an EMTP (Electro Magnetic Transient Program) system model and it was found that the optimum solution was to limit switching surges by using the resistance switching method for both opening and closing operations. 
+Gas insulated switchgear will be used for the 1000 kV circuit breakers and it has been decided to use a 700 ohm resistor across the main contacts when opening and closing. 
+As a result the insulation level has been kept the same as the line to ground fault surge level of 1.6-1.7 p.u. and the line to tower clearances are only about 50 per cent greater than for a 500 kV line. (1 p.u. is the peak of the phase to earth voltage i.e. 1100 kV x ?2 ¡Â ?3 = 898 kV). 
+In this way, towers with a height of about 110 m can be used and the top cross arm is 38 m across. 
+This is only slightly larger than a conventional 500 kV tower.
+Another interesting feature is the use of an 8-conductor bundle. 
+Eight steel cored aluminium conductors each with a cross sectional area of 610 mm2 or 810 mm2 are arranged in an octagonal pattern with an effective diameter of about 1 m. 
+This bundle has a relatively uniform electric field which gives little or no corona noise.
+Two overhead ground wires are used for lightning protection and five sets of six optical fibres are installed in each wire. 
+Each insulator assembly consists of two or four strings of porcelain insulators with 40 insulators in each string. 
+The strings are about 9 m long.
+The high voltage tests
+The tests carried out in Febraury of this year were on a 44.8 km length of the line at the Minami-Iwaki end of the Kita-Tochigi Trunk Line between towers No 82 and No 2 (the towers are numbered starting from Minami Iwaki). 
+A 2.4 MV impulse generator, owned by Kansai Electric Power Company, was connected to the bottom phase of one circuit at tower No 82. 
+A CT was installed at the impulse generator to measure the surge current and voltage measuring equipment was installed at five locations along the line (0.5, 1.5, 10, 20 and 40 km from tower No. 82) to record the voltage transients in each phase.
+The impulse generator can produce a 1.2/50 ?s pulse which is a standard waveform for lightning impulse tests (ie the pulse reaches its peak in 1.2 ?s and decays to half its peak value in 50 ?s). 
+The voltage was increased in steps up to the maximum output of the generator. 
+The data obtained during the tests is still being analysed and the results will be published later. 
+However, valuable information was obtained about the propagation of lightning surges and the surge impedance of the line was measured. Data were also obtained which can be compared with characteristics predicted by the EMTP model.
+However, during these tests, no evidence of corona was detected although it had been predicted to occur near the top end of the range of voltages used in the test. 
+TEPCO therefore disconnected the line at the sixth tower from the impulse generator and carried out additional tests on a length of line consisting of 5 spans which was left open circuit. (In the previous tests, the lines had been connected to the tower at the Minami-Iwaki end). 
