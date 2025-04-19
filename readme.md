@@ -50,11 +50,11 @@ Welcome to **Bubbles**, a collection of my personal linguistic projects powered 
 
 ### 🔹 水灵灵地项目结构
 分析文本的词频、搭配、情感与主题建模：
-![水灵灵地项目结构](images/截屏2025-04-9 23.3.45.png)
+![水灵灵地项目结构](https://raw.githubusercontent.com/ivanyuyifan/bubbles/main/images/shuilinglingdi_structure.png)
 
 ### 🔸 演讲文本多样性分析
 包含词长分布、词汇多样性统计与可视化：
-![演讲文本结构](images/截屏2025-04-9 23.32.02.png)
+![演讲文本结构](https://raw.githubusercontent.com/ivanyuyifan/bubbles/main/images/speech_diversity_analysis.png)
 
 ---
 
