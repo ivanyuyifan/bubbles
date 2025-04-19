@@ -4,8 +4,8 @@ from datetime import datetime, timedelta
 from snownlp import SnowNLP
 
 # 1. 文件路径
-input_path = '/Users/fafaya/Desktop/bubbles/医患关系语料库研究/retained_Sina_Comments.xlsx'
-output_path = '/Users/fafaya/Desktop/retained_Sina_Comments_with_sentiment(year-month-day).xlsx'
+input_path = '/Users/fafaya/Desktop/bubbles/医患关系语料库研究/retained_Sina_Comments（筛选后的）.xlsx'
+output_path = '/Users/fafaya/Desktop/bubbles/retained_Sina_Comments_with_sentiment(year-month-day).xlsx'
 
 # 2. 读取数据
 df = pd.read_excel(input_path)
@@ -16,6 +16,9 @@ def parse_time(text):
     if pd.isna(text):
         return pd.NaT
     text = str(text).strip()
+
+    # 🔍 清洗掉“转赞人数”这类尾缀
+    text = re.split(r'[转赞评论].*$', text)[0].strip()
 
     try:
         if re.match(r"\d{2}月\d{2}日 \d{2}:\d{2}", text):

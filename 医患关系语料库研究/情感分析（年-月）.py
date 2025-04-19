@@ -17,6 +17,9 @@ def parse_time(text):
         return pd.NaT
     text = str(text).strip()
 
+    # 🔍 清洗掉“转赞人数”这类尾缀
+    text = re.split(r'[转赞评论].*$', text)[0].strip()
+
     try:
         # 1) 03月11日 16:45
         if re.match(r"\d{2}月\d{2}日 \d{2}:\d{2}", text):
