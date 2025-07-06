@@ -18,7 +18,9 @@ Welcome to **Bubbles**, a collection of my personal linguistic projects powered 
 | `Paris Olympics` | A mini-project tracking linguistic trends during the Olympic Games. |
 | `speech after selection` | Political speech analysis project, post-election discourse. |
 | `Taylor Swift` | Discourse analysis on Taylor Swift fandom, lyrics, and sentiment. |
-
+| `宫老师小作文情感分析` | Conduct a series of linguistic studies on Teacher Gong's essays. |
+| `stroop and stroop test` | Some simple attempts and applications of psychopy——a case study of Stroop experiment. |
+| `other documents` | Just some loose knowledge. |
 ---
 
 ## 🧰 Tech Stack
@@ -28,14 +30,15 @@ Welcome to **Bubbles**, a collection of my personal linguistic projects powered 
 - **NLP Tools**: TAASSC, Coh-Metrix, Stanford CoreNLP, Jieba and so on
 - **Corpus Linguistics**: frequency, collocation, syntactic complexity...
 - **Visualization**: `ggplot2`, `wordcloud`, `matplotlib`
+- **Learning in progress: Machine learning, Deep learning, Brain science...
 
 ---
 
-## ✨ Highlighted Projects
+## ✨ Highlighted Projects(Actually, each one has its own highlights~)
 
 ### 🔬 Doctor-Patient Relationship Corpus
 
-- Collected over 10,000 Weibo posts (expected) 
+- Collected around 10,000 Weibo posts
 - Annotated for sentiment and relevance
 - Analyzed emotional shifts over time using keywords and NLP
 
@@ -61,20 +64,21 @@ Welcome to **Bubbles**, a collection of my personal linguistic projects powered 
 ## 🌱 In Progress
 
 - [ ] AI vs Human-written abstract comparison
+- [ ] Academic abstract: AI detection technology with the application of machine learning
 - [ ] Interactive dashboard for corpus insights
-- [ ] More multilingual projects!
+- [ ] More interdisciplinary projects!
 
 ---
 
-## 👩‍💻 About Me
+## 🧑‍💻 About Me
 
-I’m an English major student at Beijing Forestry University with a strong interest in corpus linguistics, psycholinguistics, and NLP (computational linguistics). I love experimenting with language data and building tools or visualizations that make language patterns come alive.  
+I’m currently an English major at Beijing Forestry University with a strong interest in corpus linguistics, psycholinguistics, and NLP (computational linguistics). I love experimenting with language data and building tools or visualizations that make language patterns come alive. Btw I'm going to Uconn as an exchange student to further learn cutting-edge knowledge. Fighting!  
 
 ---
 
 ## 📬 Contact
 
-Feel free to reach out via GitHub issues or email: `yuyifan@bjfu.edu.cn`
+Feel free to reach out via GitHub issues or email: `yuyifan@bjfu.edu.cn` or `ivannnyesss@gmail.com`(private), wherever you have any problems. 
 
 ---
 
