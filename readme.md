@@ -20,6 +20,7 @@ Welcome to **Bubbles**, a collection of my personal linguistic projects powered 
 | `Taylor Swift` | Discourse analysis on Taylor Swift fandom, lyrics, and sentiment. |
 | `宫老师小作文情感分析` | Conduct a series of linguistic studies on Teacher Gong's essays. |
 | `stroop and stroop test` | Some simple attempts and applications of psychopy——a case study of Stroop experiment. |
+| `随机森林` | Regression or classification tasks with the application of Random Forest.  |
 | `other documents` | Just some loose knowledge. |
 ---
 
