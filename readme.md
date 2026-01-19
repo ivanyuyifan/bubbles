@@ -2,7 +2,7 @@
 
 > A personal lab of small ideas, mini-projects, and NLP-driven linguistic experiments.
 
-Welcome to **Bubbles**, a collection of my personal linguistic projects powered by Natural Language Processing (NLP), corpus analysis, and computational creativity. I'm a linguistics student passionate about language data, translation, and sociolinguistic phenomena—and this is where my curiosity turns into code.
+Welcome to **Bubbles**, a collection of my personal linguistic projects powered by Natural Language Processing (NLP), corpus analysis, and computational creativity. I'm a linguistics student passionate about language data, computer science, and sociolinguistic phenomena—and this is where my curiosity turns into code.
 
 ---
 
@@ -64,17 +64,21 @@ Welcome to **Bubbles**, a collection of my personal linguistic projects powered 
 
 ## 🌱 In Progress
 
-- [ ] AI vs Human-written abstract comparison
+- [ ] Cross-Model Comparison of AI-Generated Academic Writing
+- [ ] Cross-Disciplinary Academic Writing Analysis
 - [ ] Academic abstract: AI detection technology with the application of machine learning
-- [ ] Interactive dashboard for corpus insights
+- [ ] Explainable AI Detection Based on Linguistic Features
+- [ ] Stance & Engagement Modeling in AI-Generated Texts
+- [ ] Interactive Corpus Visualization & Research Dashboard
 - [ ] More interdisciplinary projects!
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m currently an English major at Beijing Forestry University with a strong interest in corpus linguistics, psycholinguistics, and NLP (computational linguistics). I love experimenting with language data and building tools or visualizations that make language patterns come alive. Btw I'm going to Uconn as an exchange student to further learn cutting-edge knowledge. Fighting!  
-
+I am an English major at Beijing Forestry University with a strong interest in corpus linguistics, psycholinguistics, and NLP. I enjoy experimenting with language data and building computational tools and visualizations to explore linguistic patterns.
+I previously studied as an exchange student at the University of Connecticut, where I was exposed to advanced coursework and research in linguistics, psychology, language disorders, and brain–language mechanisms. This interdisciplinary training shaped my current research direction and methodological preferences.
+In September, I will begin my master’s studies at the Neurolinguistics Lab, School of Foreign Languages, Shenzhen University. My research interests lie at the intersection of computer science, linguistics and cognitive science. I develop corpus-driven and algorithmic methods to model linguistic complexity, discourse structure, and cognitive load, with applications to AI-generated text and brain–language research.
 ---
 
 ## 📬 Contact
