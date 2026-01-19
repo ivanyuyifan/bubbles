@@ -78,7 +78,8 @@ Welcome to **Bubbles**, a collection of my personal linguistic projects powered 
 
 I am an English major at Beijing Forestry University with a strong interest in corpus linguistics, psycholinguistics, and NLP. I enjoy experimenting with language data and building computational tools and visualizations to explore linguistic patterns.
 I previously studied as an exchange student at the University of Connecticut, where I was exposed to advanced coursework and research in linguistics, psychology, language disorders, and brain–language mechanisms. This interdisciplinary training shaped my current research direction and methodological preferences.
-In September, I will begin my master’s studies at the Neurolinguistics Lab, School of Foreign Languages, Shenzhen University. My research interests lie at the intersection of computer science, linguistics and cognitive science. I develop corpus-driven and algorithmic methods to model linguistic complexity, discourse structure, and cognitive load, with applications to AI-generated text and brain–language research.
+In September, I will begin my master’s studies at the Neurolinguistics Lab, School of Foreign Languages, Shenzhen University. My research interests lie at the intersection of computer science, linguistics, and cognitive science. I develop corpus-driven and algorithmic methods to model linguistic complexity, discourse structure, and cognitive load, with applications to AI-generated text and brain–language research.
+
 ---
 
 ## 📬 Contact
